@@ -1,0 +1,1742 @@
+fighter_name,weight_class,fighter_rating,fighter_rank_in_class,last_result_bucket,slot_number,target_direction,opponent_name,opponent_rating,opponent_rank_in_class
+Merab Dvalishvili,Bantamweight,2166.97032276058,1,loss,1,below,Umar Nurmagomedov,2082.0705296036213,2
+Merab Dvalishvili,Bantamweight,2166.97032276058,1,loss,2,below,Petr Yan,2064.785728810286,3
+Umar Nurmagomedov,Bantamweight,2082.0705296036213,2,win,1,above,Merab Dvalishvili,2166.97032276058,1
+Umar Nurmagomedov,Bantamweight,2082.0705296036213,2,win,2,below,Petr Yan,2064.785728810286,3
+Petr Yan,Bantamweight,2064.785728810286,3,win,1,above,Umar Nurmagomedov,2082.0705296036213,2
+Petr Yan,Bantamweight,2064.785728810286,3,win,2,above,Merab Dvalishvili,2166.97032276058,1
+Petr Yan,Bantamweight,2064.785728810286,3,win,3,below,Cory Sandhagen,2037.732588208308,4
+Cory Sandhagen,Bantamweight,2037.732588208308,4,loss,1,below,Sean O'Malley,2019.5231181203376,5
+Cory Sandhagen,Bantamweight,2037.732588208308,4,loss,2,below,David Martinez,1991.9793659301288,6
+Cory Sandhagen,Bantamweight,2037.732588208308,4,loss,3,above,Petr Yan,2064.785728810286,3
+Sean O'Malley,Bantamweight,2019.5231181203376,5,win,1,above,Cory Sandhagen,2037.732588208308,4
+Sean O'Malley,Bantamweight,2019.5231181203376,5,win,2,above,Petr Yan,2064.785728810286,3
+Sean O'Malley,Bantamweight,2019.5231181203376,5,win,3,below,David Martinez,1991.9793659301288,6
+David Martinez,Bantamweight,1991.9793659301288,6,win,1,above,Sean O'Malley,2019.5231181203376,5
+David Martinez,Bantamweight,1991.9793659301288,6,win,2,above,Cory Sandhagen,2037.732588208308,4
+David Martinez,Bantamweight,1991.9793659301288,6,win,3,below,Mario Bautista,1965.998140780544,7
+Mario Bautista,Bantamweight,1965.998140780544,7,win,1,above,David Martinez,1991.9793659301288,6
+Mario Bautista,Bantamweight,1965.998140780544,7,win,2,above,Sean O'Malley,2019.5231181203376,5
+Mario Bautista,Bantamweight,1965.998140780544,7,win,3,below,Aiemann Zahabi,1965.594250069813,8
+Aiemann Zahabi,Bantamweight,1965.594250069813,8,win,1,above,Mario Bautista,1965.998140780544,7
+Aiemann Zahabi,Bantamweight,1965.594250069813,8,win,2,above,David Martinez,1991.9793659301288,6
+Aiemann Zahabi,Bantamweight,1965.594250069813,8,win,3,below,Deiveson Figueiredo,1964.483818622792,9
+Deiveson Figueiredo,Bantamweight,1964.483818622792,9,loss,1,below,Farid Basharat,1963.336530390368,10
+Deiveson Figueiredo,Bantamweight,1964.483818622792,9,loss,2,below,Song Yadong,1947.5416881698784,11
+Deiveson Figueiredo,Bantamweight,1964.483818622792,9,loss,3,above,Aiemann Zahabi,1965.594250069813,8
+Farid Basharat,Bantamweight,1963.336530390368,10,win,1,above,Deiveson Figueiredo,1964.483818622792,9
+Farid Basharat,Bantamweight,1963.336530390368,10,win,2,above,Aiemann Zahabi,1965.594250069813,8
+Farid Basharat,Bantamweight,1963.336530390368,10,win,3,below,Song Yadong,1947.5416881698784,11
+Song Yadong,Bantamweight,1947.5416881698784,11,loss,1,below,Payton Talbott,1922.7177718954235,12
+Song Yadong,Bantamweight,1947.5416881698784,11,loss,2,below,Vinicius Oliveira,1890.252802042796,13
+Song Yadong,Bantamweight,1947.5416881698784,11,loss,3,above,Farid Basharat,1963.336530390368,10
+Payton Talbott,Bantamweight,1922.7177718954235,12,win,1,above,Song Yadong,1947.5416881698784,11
+Payton Talbott,Bantamweight,1922.7177718954235,12,win,2,above,Farid Basharat,1963.336530390368,10
+Payton Talbott,Bantamweight,1922.7177718954235,12,win,3,below,Vinicius Oliveira,1890.252802042796,13
+Vinicius Oliveira,Bantamweight,1890.252802042796,13,loss,1,below,Bryce Mitchell,1884.294539067368,14
+Vinicius Oliveira,Bantamweight,1890.252802042796,13,loss,2,below,Ethyn Ewing,1880.6107438795937,15
+Vinicius Oliveira,Bantamweight,1890.252802042796,13,loss,3,above,Payton Talbott,1922.7177718954235,12
+Bryce Mitchell,Bantamweight,1884.294539067368,14,win,1,above,Vinicius Oliveira,1890.252802042796,13
+Bryce Mitchell,Bantamweight,1884.294539067368,14,win,2,above,Payton Talbott,1922.7177718954235,12
+Bryce Mitchell,Bantamweight,1884.294539067368,14,win,3,below,Ethyn Ewing,1880.6107438795937,15
+Ethyn Ewing,Bantamweight,1880.6107438795937,15,win,1,above,Bryce Mitchell,1884.294539067368,14
+Ethyn Ewing,Bantamweight,1880.6107438795937,15,win,2,above,Vinicius Oliveira,1890.252802042796,13
+Ethyn Ewing,Bantamweight,1880.6107438795937,15,win,3,below,Montel Jackson,1877.1029304615408,16
+Montel Jackson,Bantamweight,1877.1029304615408,16,loss,1,below,Daniel Marcos,1860.2247640665832,17
+Montel Jackson,Bantamweight,1877.1029304615408,16,loss,2,below,Marlon Vera,1849.2000758423903,18
+Montel Jackson,Bantamweight,1877.1029304615408,16,loss,3,above,Ethyn Ewing,1880.6107438795937,15
+Daniel Marcos,Bantamweight,1860.2247640665832,17,win,1,above,Montel Jackson,1877.1029304615408,16
+Daniel Marcos,Bantamweight,1860.2247640665832,17,win,2,above,Ethyn Ewing,1880.6107438795937,15
+Daniel Marcos,Bantamweight,1860.2247640665832,17,win,3,below,Marlon Vera,1849.2000758423903,18
+Marlon Vera,Bantamweight,1849.2000758423903,18,loss,1,below,Chris Gutierrez,1835.7853781253573,19
+Marlon Vera,Bantamweight,1849.2000758423903,18,loss,2,below,Jakub Wiklacz,1822.0305132607325,20
+Marlon Vera,Bantamweight,1849.2000758423903,18,loss,3,above,Daniel Marcos,1860.2247640665832,17
+Chris Gutierrez,Bantamweight,1835.7853781253573,19,loss,1,below,Jakub Wiklacz,1822.0305132607325,20
+Chris Gutierrez,Bantamweight,1835.7853781253573,19,loss,2,below,Raoni Barcelos,1821.3542303389863,21
+Chris Gutierrez,Bantamweight,1835.7853781253573,19,loss,3,above,Marlon Vera,1849.2000758423903,18
+Jakub Wiklacz,Bantamweight,1822.0305132607325,20,win,1,above,Chris Gutierrez,1835.7853781253573,19
+Jakub Wiklacz,Bantamweight,1822.0305132607325,20,win,2,above,Marlon Vera,1849.2000758423903,18
+Jakub Wiklacz,Bantamweight,1822.0305132607325,20,win,3,below,Raoni Barcelos,1821.3542303389863,21
+Raoni Barcelos,Bantamweight,1821.3542303389863,21,win,1,above,Jakub Wiklacz,1822.0305132607325,20
+Raoni Barcelos,Bantamweight,1821.3542303389863,21,win,2,above,Chris Gutierrez,1835.7853781253573,19
+Raoni Barcelos,Bantamweight,1821.3542303389863,21,win,3,below,Rob Font,1810.088588444636,22
+Rob Font,Bantamweight,1810.088588444636,22,loss,1,below,Jonathan Martinez,1802.8704517983883,23
+Rob Font,Bantamweight,1810.088588444636,22,loss,2,below,Raul Rosas Jr.,1797.612511233305,24
+Rob Font,Bantamweight,1810.088588444636,22,loss,3,above,Raoni Barcelos,1821.3542303389863,21
+Jonathan Martinez,Bantamweight,1802.8704517983883,23,loss,1,below,Raul Rosas Jr.,1797.612511233305,24
+Jonathan Martinez,Bantamweight,1802.8704517983883,23,loss,2,below,Marcus McGhee,1794.1753614386869,25
+Jonathan Martinez,Bantamweight,1802.8704517983883,23,loss,3,above,Rob Font,1810.088588444636,22
+Raul Rosas Jr.,Bantamweight,1797.612511233305,24,win,1,above,Jonathan Martinez,1802.8704517983883,23
+Raul Rosas Jr.,Bantamweight,1797.612511233305,24,win,2,above,Rob Font,1810.088588444636,22
+Raul Rosas Jr.,Bantamweight,1797.612511233305,24,win,3,below,Marcus McGhee,1794.1753614386869,25
+Marcus McGhee,Bantamweight,1794.1753614386869,25,loss,1,below,Elijah Smith,1786.2544438659572,26
+Marcus McGhee,Bantamweight,1794.1753614386869,25,loss,2,below,Pedro Munhoz,1766.9375349543454,27
+Marcus McGhee,Bantamweight,1794.1753614386869,25,loss,3,above,Raul Rosas Jr.,1797.612511233305,24
+Elijah Smith,Bantamweight,1786.2544438659572,26,win,1,above,Marcus McGhee,1794.1753614386869,25
+Elijah Smith,Bantamweight,1786.2544438659572,26,win,2,above,Raul Rosas Jr.,1797.612511233305,24
+Elijah Smith,Bantamweight,1786.2544438659572,26,win,3,below,Pedro Munhoz,1766.9375349543454,27
+Pedro Munhoz,Bantamweight,1766.9375349543454,27,loss,1,below,Said Nurmagomedov,1757.5223833864577,28
+Pedro Munhoz,Bantamweight,1766.9375349543454,27,loss,2,below,Aleksandre Topuria,1748.7994348844757,29
+Pedro Munhoz,Bantamweight,1766.9375349543454,27,loss,3,above,Elijah Smith,1786.2544438659572,26
+Said Nurmagomedov,Bantamweight,1757.5223833864577,28,loss,1,below,Aleksandre Topuria,1748.7994348844757,29
+Said Nurmagomedov,Bantamweight,1757.5223833864577,28,loss,2,below,Ricky Simon,1748.2076335360512,30
+Said Nurmagomedov,Bantamweight,1757.5223833864577,28,loss,3,above,Pedro Munhoz,1766.9375349543454,27
+Aleksandre Topuria,Bantamweight,1748.7994348844757,29,win,1,above,Said Nurmagomedov,1757.5223833864577,28
+Aleksandre Topuria,Bantamweight,1748.7994348844757,29,win,2,above,Pedro Munhoz,1766.9375349543454,27
+Aleksandre Topuria,Bantamweight,1748.7994348844757,29,win,3,below,Ricky Simon,1748.2076335360512,30
+Ricky Simon,Bantamweight,1748.2076335360512,30,win,1,above,Aleksandre Topuria,1748.7994348844757,29
+Ricky Simon,Bantamweight,1748.2076335360512,30,win,2,above,Said Nurmagomedov,1757.5223833864577,28
+Ricky Simon,Bantamweight,1748.2076335360512,30,win,3,below,Charles Jourdain,1745.6976124765984,31
+Charles Jourdain,Bantamweight,1745.6976124765984,31,win,1,above,Ricky Simon,1748.2076335360512,30
+Charles Jourdain,Bantamweight,1745.6976124765984,31,win,2,above,Aleksandre Topuria,1748.7994348844757,29
+Charles Jourdain,Bantamweight,1745.6976124765984,31,win,3,below,Felipe Lima,1743.0061451326044,32
+Felipe Lima,Bantamweight,1743.0061451326044,32,loss,1,below,Cody Garbrandt,1726.124002993928,33
+Felipe Lima,Bantamweight,1743.0061451326044,32,loss,2,below,Jean Matsumoto,1698.8708881815674,34
+Felipe Lima,Bantamweight,1743.0061451326044,32,loss,3,above,Charles Jourdain,1745.6976124765984,31
+Cody Garbrandt,Bantamweight,1726.124002993928,33,win,1,above,Felipe Lima,1743.0061451326044,32
+Cody Garbrandt,Bantamweight,1726.124002993928,33,win,2,above,Charles Jourdain,1745.6976124765984,31
+Cody Garbrandt,Bantamweight,1726.124002993928,33,win,3,below,Jean Matsumoto,1698.8708881815674,34
+Jean Matsumoto,Bantamweight,1698.8708881815674,34,loss,1,below,Adrian Yanez,1691.147939468362,35
+Jean Matsumoto,Bantamweight,1698.8708881815674,34,loss,2,below,Santiago Luna,1680.654206612888,36
+Jean Matsumoto,Bantamweight,1698.8708881815674,34,loss,3,above,Cody Garbrandt,1726.124002993928,33
+Adrian Yanez,Bantamweight,1691.147939468362,35,win,1,above,Jean Matsumoto,1698.8708881815674,34
+Adrian Yanez,Bantamweight,1691.147939468362,35,win,2,above,Cody Garbrandt,1726.124002993928,33
+Adrian Yanez,Bantamweight,1691.147939468362,35,win,3,below,Santiago Luna,1680.654206612888,36
+Santiago Luna,Bantamweight,1680.654206612888,36,win,1,above,Adrian Yanez,1691.147939468362,35
+Santiago Luna,Bantamweight,1680.654206612888,36,win,2,above,Jean Matsumoto,1698.8708881815674,34
+Santiago Luna,Bantamweight,1680.654206612888,36,win,3,below,Kyler Phillips,1678.0649925761957,37
+Kyler Phillips,Bantamweight,1678.0649925761957,37,loss,1,below,Da'Mon Blackshear,1673.7062195698147,38
+Kyler Phillips,Bantamweight,1678.0649925761957,37,loss,2,below,Victor Henry,1673.4075322526128,39
+Kyler Phillips,Bantamweight,1678.0649925761957,37,loss,3,above,Santiago Luna,1680.654206612888,36
+Da'Mon Blackshear,Bantamweight,1673.7062195698147,38,loss,1,below,Victor Henry,1673.4075322526128,39
+Da'Mon Blackshear,Bantamweight,1673.7062195698147,38,loss,2,below,Davey Grant,1672.2454698589747,40
+Da'Mon Blackshear,Bantamweight,1673.7062195698147,38,loss,3,above,Kyler Phillips,1678.0649925761957,37
+Victor Henry,Bantamweight,1673.4075322526128,39,win,1,above,Da'Mon Blackshear,1673.7062195698147,38
+Victor Henry,Bantamweight,1673.4075322526128,39,win,2,above,Kyler Phillips,1678.0649925761957,37
+Victor Henry,Bantamweight,1673.4075322526128,39,win,3,below,Davey Grant,1672.2454698589747,40
+Davey Grant,Bantamweight,1672.2454698589747,40,loss,1,below,Rinya Nakamura,1661.3374857568358,41
+Davey Grant,Bantamweight,1672.2454698589747,40,loss,2,below,Brady Hiestand,1658.3635911129968,42
+Davey Grant,Bantamweight,1672.2454698589747,40,loss,3,above,Victor Henry,1673.4075322526128,39
+Rinya Nakamura,Bantamweight,1661.3374857568358,41,win,1,above,Davey Grant,1672.2454698589747,40
+Rinya Nakamura,Bantamweight,1661.3374857568358,41,win,2,above,Victor Henry,1673.4075322526128,39
+Rinya Nakamura,Bantamweight,1661.3374857568358,41,win,3,below,Brady Hiestand,1658.3635911129968,42
+Brady Hiestand,Bantamweight,1658.3635911129968,42,win,1,above,Rinya Nakamura,1661.3374857568358,41
+Brady Hiestand,Bantamweight,1658.3635911129968,42,win,2,above,Davey Grant,1672.2454698589747,40
+Brady Hiestand,Bantamweight,1658.3635911129968,42,win,3,below,Rafael Estevam,1657.2565274079186,43
+Rafael Estevam,Bantamweight,1657.2565274079186,43,loss,1,below,Rani Yahya,1655.5970933864378,44
+Rafael Estevam,Bantamweight,1657.2565274079186,43,loss,2,below,Serhiy Sidey,1652.192612253173,45
+Rafael Estevam,Bantamweight,1657.2565274079186,43,loss,3,above,Brady Hiestand,1658.3635911129968,42
+Rani Yahya,Bantamweight,1655.5970933864378,44,loss,1,below,Serhiy Sidey,1652.192612253173,45
+Rani Yahya,Bantamweight,1655.5970933864378,44,loss,2,below,Steve Erceg,1644.4786354671471,46
+Rani Yahya,Bantamweight,1655.5970933864378,44,loss,3,above,Rafael Estevam,1657.2565274079186,43
+Serhiy Sidey,Bantamweight,1652.192612253173,45,win,1,above,Rani Yahya,1655.5970933864378,44
+Serhiy Sidey,Bantamweight,1652.192612253173,45,win,2,above,Rafael Estevam,1657.2565274079186,43
+Serhiy Sidey,Bantamweight,1652.192612253173,45,win,3,below,Steve Erceg,1644.4786354671471,46
+Steve Erceg,Bantamweight,1644.4786354671471,46,win,1,above,Serhiy Sidey,1652.192612253173,45
+Steve Erceg,Bantamweight,1644.4786354671471,46,win,2,above,Rani Yahya,1655.5970933864378,44
+Steve Erceg,Bantamweight,1644.4786354671471,46,win,3,below,Muin Gafurov,1623.5297490672351,47
+Muin Gafurov,Bantamweight,1623.5297490672351,47,loss,1,below,Cody Haddon,1609.5431702975864,48
+Muin Gafurov,Bantamweight,1623.5297490672351,47,loss,2,below,Timmy Cuamba,1599.531874819371,49
+Muin Gafurov,Bantamweight,1623.5297490672351,47,loss,3,above,Steve Erceg,1644.4786354671471,46
+Cody Haddon,Bantamweight,1609.5431702975864,48,win,1,above,Muin Gafurov,1623.5297490672351,47
+Cody Haddon,Bantamweight,1609.5431702975864,48,win,2,above,Steve Erceg,1644.4786354671471,46
+Cody Haddon,Bantamweight,1609.5431702975864,48,win,3,below,Timmy Cuamba,1599.531874819371,49
+Timmy Cuamba,Bantamweight,1599.531874819371,49,win,1,above,Cody Haddon,1609.5431702975864,48
+Timmy Cuamba,Bantamweight,1599.531874819371,49,win,2,above,Muin Gafurov,1623.5297490672351,47
+Timmy Cuamba,Bantamweight,1599.531874819371,49,win,3,below,SuYoung You,1596.7472211257268,50
+SuYoung You,Bantamweight,1596.7472211257268,50,loss,1,below,Alatengheili,1591.3392841068203,51
+SuYoung You,Bantamweight,1596.7472211257268,50,loss,2,below,Miles Johns,1576.4761059940656,52
+SuYoung You,Bantamweight,1596.7472211257268,50,loss,3,above,Timmy Cuamba,1599.531874819371,49
+Alatengheili,Bantamweight,1591.3392841068203,51,loss,1,below,Miles Johns,1576.4761059940656,52
+Alatengheili,Bantamweight,1591.3392841068203,51,loss,2,below,Hecher Sosa,1568.31586132528,53
+Alatengheili,Bantamweight,1591.3392841068203,51,loss,3,above,SuYoung You,1596.7472211257268,50
+Miles Johns,Bantamweight,1576.4761059940656,52,loss,1,below,Hecher Sosa,1568.31586132528,53
+Miles Johns,Bantamweight,1576.4761059940656,52,loss,2,below,Carlos Vera,1559.8705987717456,54
+Miles Johns,Bantamweight,1576.4761059940656,52,loss,3,above,Alatengheili,1591.3392841068203,51
+Hecher Sosa,Bantamweight,1568.31586132528,53,win,1,above,Miles Johns,1576.4761059940656,52
+Hecher Sosa,Bantamweight,1568.31586132528,53,win,2,above,Alatengheili,1591.3392841068203,51
+Hecher Sosa,Bantamweight,1568.31586132528,53,win,3,below,Carlos Vera,1559.8705987717456,54
+Carlos Vera,Bantamweight,1559.8705987717456,54,win,1,above,Hecher Sosa,1568.31586132528,53
+Carlos Vera,Bantamweight,1559.8705987717456,54,win,2,above,Miles Johns,1576.4761059940656,52
+Carlos Vera,Bantamweight,1559.8705987717456,54,win,3,below,Aoriqileng,1484.0231221166616,55
+Aoriqileng,Bantamweight,1484.0231221166616,55,win,1,above,Carlos Vera,1559.8705987717456,54
+Aoriqileng,Bantamweight,1484.0231221166616,55,win,2,above,Hecher Sosa,1568.31586132528,53
+Aoriqileng,Bantamweight,1484.0231221166616,55,win,3,below,Bekzat Almakhan,1471.8650687615263,56
+Bekzat Almakhan,Bantamweight,1471.8650687615263,56,loss,1,below,John Yannis,1467.052744429509,57
+Bekzat Almakhan,Bantamweight,1471.8650687615263,56,loss,2,below,ChangHo Lee,1461.2962915087544,58
+Bekzat Almakhan,Bantamweight,1471.8650687615263,56,loss,3,above,Aoriqileng,1484.0231221166616,55
+John Yannis,Bantamweight,1467.052744429509,57,win,1,above,Bekzat Almakhan,1471.8650687615263,56
+John Yannis,Bantamweight,1467.052744429509,57,win,2,above,Aoriqileng,1484.0231221166616,55
+John Yannis,Bantamweight,1467.052744429509,57,win,3,below,ChangHo Lee,1461.2962915087544,58
+ChangHo Lee,Bantamweight,1461.2962915087544,58,loss,1,below,Benardo Sopaj,1439.941527990066,59
+ChangHo Lee,Bantamweight,1461.2962915087544,58,loss,2,below,Cameron Saaiman,1429.5098463249858,60
+ChangHo Lee,Bantamweight,1461.2962915087544,58,loss,3,above,John Yannis,1467.052744429509,57
+Benardo Sopaj,Bantamweight,1439.941527990066,59,win,1,above,ChangHo Lee,1461.2962915087544,58
+Benardo Sopaj,Bantamweight,1439.941527990066,59,win,2,above,John Yannis,1467.052744429509,57
+Benardo Sopaj,Bantamweight,1439.941527990066,59,win,3,below,Cameron Saaiman,1429.5098463249858,60
+Cameron Saaiman,Bantamweight,1429.5098463249858,60,loss,1,below,Colby Thicknesse,1406.3779465502876,61
+Cameron Saaiman,Bantamweight,1429.5098463249858,60,loss,2,below,Cameron Smotherman,1397.3287303374673,62
+Cameron Saaiman,Bantamweight,1429.5098463249858,60,loss,3,above,Benardo Sopaj,1439.941527990066,59
+Colby Thicknesse,Bantamweight,1406.3779465502876,61,win,1,above,Cameron Saaiman,1429.5098463249858,60
+Colby Thicknesse,Bantamweight,1406.3779465502876,61,win,2,above,Benardo Sopaj,1439.941527990066,59
+Colby Thicknesse,Bantamweight,1406.3779465502876,61,win,3,below,Cameron Smotherman,1397.3287303374673,62
+Cameron Smotherman,Bantamweight,1397.3287303374673,62,loss,1,below,Cristian Quinonez,1328.1575166661073,63
+Cameron Smotherman,Bantamweight,1397.3287303374673,62,loss,2,below,Xiao Long,1323.477121897835,64
+Cameron Smotherman,Bantamweight,1397.3287303374673,62,loss,3,above,Colby Thicknesse,1406.3779465502876,61
+Cristian Quinonez,Bantamweight,1328.1575166661073,63,win,1,above,Cameron Smotherman,1397.3287303374673,62
+Cristian Quinonez,Bantamweight,1328.1575166661073,63,win,2,above,Colby Thicknesse,1406.3779465502876,61
+Cristian Quinonez,Bantamweight,1328.1575166661073,63,win,3,below,Xiao Long,1323.477121897835,64
+Xiao Long,Bantamweight,1323.477121897835,64,loss,1,below,Garrett Armfield,1295.4505588586935,65
+Xiao Long,Bantamweight,1323.477121897835,64,loss,2,below,Vince Morales,1286.054122191991,66
+Xiao Long,Bantamweight,1323.477121897835,64,loss,3,above,Cristian Quinonez,1328.1575166661073,63
+Garrett Armfield,Bantamweight,1295.4505588586935,65,loss,1,below,Vince Morales,1286.054122191991,66
+Garrett Armfield,Bantamweight,1295.4505588586935,65,loss,2,below,Cody Gibson,1279.1963233136207,67
+Garrett Armfield,Bantamweight,1295.4505588586935,65,loss,3,above,Xiao Long,1323.477121897835,64
+Vince Morales,Bantamweight,1286.054122191991,66,loss,1,below,Cody Gibson,1279.1963233136207,67
+Vince Morales,Bantamweight,1286.054122191991,66,loss,2,below,Gaston Bolanos,1263.8180787624117,68
+Vince Morales,Bantamweight,1286.054122191991,66,loss,3,above,Garrett Armfield,1295.4505588586935,65
+Cody Gibson,Bantamweight,1279.1963233136207,67,loss,1,below,Gaston Bolanos,1263.8180787624117,68
+Cody Gibson,Bantamweight,1279.1963233136207,67,loss,2,below,Chad Anheliger,1253.675737450748,69
+Cody Gibson,Bantamweight,1279.1963233136207,67,loss,3,above,Vince Morales,1286.054122191991,66
+Gaston Bolanos,Bantamweight,1263.8180787624117,68,loss,1,below,Chad Anheliger,1253.675737450748,69
+Gaston Bolanos,Bantamweight,1263.8180787624117,68,loss,2,below,Toshiomi Kazama,1167.8569732390488,70
+Gaston Bolanos,Bantamweight,1263.8180787624117,68,loss,3,above,Cody Gibson,1279.1963233136207,67
+Chad Anheliger,Bantamweight,1253.675737450748,69,loss,1,below,Toshiomi Kazama,1167.8569732390488,70
+Chad Anheliger,Bantamweight,1253.675737450748,69,loss,2,below,Angel Pacheco,1152.4756278591549,71
+Chad Anheliger,Bantamweight,1253.675737450748,69,loss,3,above,Gaston Bolanos,1263.8180787624117,68
+Toshiomi Kazama,Bantamweight,1167.8569732390488,70,loss,1,below,Angel Pacheco,1152.4756278591549,71
+Toshiomi Kazama,Bantamweight,1167.8569732390488,70,loss,2,below,Jamie Siraj,1139.8373416262316,72
+Toshiomi Kazama,Bantamweight,1167.8569732390488,70,loss,3,above,Chad Anheliger,1253.675737450748,69
+Angel Pacheco,Bantamweight,1152.4756278591549,71,loss,1,below,Jamie Siraj,1139.8373416262316,72
+Angel Pacheco,Bantamweight,1152.4756278591549,71,loss,2,below,Josias Musasa,1024.740674483859,73
+Angel Pacheco,Bantamweight,1152.4756278591549,71,loss,3,above,Toshiomi Kazama,1167.8569732390488,70
+Jamie Siraj,Bantamweight,1139.8373416262316,72,loss,1,below,Josias Musasa,1024.740674483859,73
+Jamie Siraj,Bantamweight,1139.8373416262316,72,loss,2,below,Saimon Oliveira,811.0895568145648,74
+Jamie Siraj,Bantamweight,1139.8373416262316,72,loss,3,above,Angel Pacheco,1152.4756278591549,71
+Josias Musasa,Bantamweight,1024.740674483859,73,loss,1,below,Saimon Oliveira,811.0895568145648,74
+Josias Musasa,Bantamweight,1024.740674483859,73,loss,2,above,Jamie Siraj,1139.8373416262316,72
+Saimon Oliveira,Bantamweight,811.0895568145648,74,loss,1,above,Josias Musasa,1024.740674483859,73
+Aljamain Sterling,Catch Weight,2099.2346726850765,1,win,1,below,Brian Ortega,1980.581103285987,2
+Brian Ortega,Catch Weight,1980.581103285987,2,loss,1,below,Daniel Santos,1880.4769925653036,3
+Brian Ortega,Catch Weight,1980.581103285987,2,loss,2,below,Allan Nascimento,1815.3271322369983,4
+Brian Ortega,Catch Weight,1980.581103285987,2,loss,3,above,Aljamain Sterling,2099.2346726850765,1
+Daniel Santos,Catch Weight,1880.4769925653036,3,win,1,above,Brian Ortega,1980.581103285987,2
+Daniel Santos,Catch Weight,1880.4769925653036,3,win,2,above,Aljamain Sterling,2099.2346726850765,1
+Daniel Santos,Catch Weight,1880.4769925653036,3,win,3,below,Allan Nascimento,1815.3271322369983,4
+Allan Nascimento,Catch Weight,1815.3271322369983,4,win,1,above,Daniel Santos,1880.4769925653036,3
+Allan Nascimento,Catch Weight,1815.3271322369983,4,win,2,above,Brian Ortega,1980.581103285987,2
+Allan Nascimento,Catch Weight,1815.3271322369983,4,win,3,below,Wang Cong,1733.9039617140356,5
+Wang Cong,Catch Weight,1733.9039617140356,5,win,1,above,Allan Nascimento,1815.3271322369983,4
+Wang Cong,Catch Weight,1733.9039617140356,5,win,2,above,Daniel Santos,1880.4769925653036,3
+Wang Cong,Catch Weight,1733.9039617140356,5,win,3,below,Regina Tarin,1652.5703694436909,6
+Regina Tarin,Catch Weight,1652.5703694436909,6,win,1,above,Wang Cong,1733.9039617140356,5
+Regina Tarin,Catch Weight,1652.5703694436909,6,win,2,above,Allan Nascimento,1815.3271322369983,4
+Regina Tarin,Catch Weight,1652.5703694436909,6,win,3,below,Eduarda Moura,1635.605269709323,7
+Eduarda Moura,Catch Weight,1635.605269709323,7,loss,1,below,John Castaneda,1622.9767302666728,8
+Eduarda Moura,Catch Weight,1635.605269709323,7,loss,2,below,Mark Vologdin,1613.009483109201,9
+Eduarda Moura,Catch Weight,1635.605269709323,7,loss,3,above,Regina Tarin,1652.5703694436909,6
+John Castaneda,Catch Weight,1622.9767302666728,8,win,1,above,Eduarda Moura,1635.605269709323,7
+John Castaneda,Catch Weight,1622.9767302666728,8,win,2,above,Regina Tarin,1652.5703694436909,6
+John Castaneda,Catch Weight,1622.9767302666728,8,win,3,below,Mark Vologdin,1613.009483109201,9
+Mark Vologdin,Catch Weight,1613.009483109201,9,win,1,above,John Castaneda,1622.9767302666728,8
+Mark Vologdin,Catch Weight,1613.009483109201,9,win,2,above,Eduarda Moura,1635.605269709323,7
+Mark Vologdin,Catch Weight,1613.009483109201,9,win,3,below,JooSang Yoo,1491.7951322032677,10
+JooSang Yoo,Catch Weight,1491.7951322032677,10,loss,1,below,Ernesta Kareckaite,1351.210819339271,11
+JooSang Yoo,Catch Weight,1491.7951322032677,10,loss,2,below,Jackson McVey,1111.5029872452403,12
+JooSang Yoo,Catch Weight,1491.7951322032677,10,loss,3,above,Mark Vologdin,1613.009483109201,9
+Ernesta Kareckaite,Catch Weight,1351.210819339271,11,loss,1,below,Jackson McVey,1111.5029872452403,12
+Ernesta Kareckaite,Catch Weight,1351.210819339271,11,loss,2,above,JooSang Yoo,1491.7951322032677,10
+Jackson McVey,Catch Weight,1111.5029872452403,12,loss,1,above,Ernesta Kareckaite,1351.210819339271,11
+Alexander Volkanovski,Featherweight,2189.3114820575024,1,win,1,below,Movsar Evloev,2140.802286858851,2
+Movsar Evloev,Featherweight,2140.802286858851,2,win,1,above,Alexander Volkanovski,2189.3114820575024,1
+Movsar Evloev,Featherweight,2140.802286858851,2,win,2,below,Lerone Murphy,2073.4583856299714,3
+Lerone Murphy,Featherweight,2073.4583856299714,3,loss,1,below,Diego Lopes,2051.7956899294063,4
+Lerone Murphy,Featherweight,2073.4583856299714,3,loss,2,below,Kevin Vallejos,1991.70980770529,5
+Lerone Murphy,Featherweight,2073.4583856299714,3,loss,3,above,Movsar Evloev,2140.802286858851,2
+Diego Lopes,Featherweight,2051.7956899294063,4,loss,1,below,Kevin Vallejos,1991.70980770529,5
+Diego Lopes,Featherweight,2051.7956899294063,4,loss,2,below,Jean Silva,1988.377719297017,6
+Diego Lopes,Featherweight,2051.7956899294063,4,loss,3,above,Lerone Murphy,2073.4583856299714,3
+Kevin Vallejos,Featherweight,1991.70980770529,5,win,1,above,Diego Lopes,2051.7956899294063,4
+Kevin Vallejos,Featherweight,1991.70980770529,5,win,2,above,Lerone Murphy,2073.4583856299714,3
+Kevin Vallejos,Featherweight,1991.70980770529,5,win,3,below,Jean Silva,1988.377719297017,6
+Jean Silva,Featherweight,1988.377719297017,6,win,1,above,Kevin Vallejos,1991.70980770529,5
+Jean Silva,Featherweight,1988.377719297017,6,win,2,above,Diego Lopes,2051.7956899294063,4
+Jean Silva,Featherweight,1988.377719297017,6,win,3,below,Yair Rodriguez,1985.1474537583808,7
+Yair Rodriguez,Featherweight,1985.1474537583808,7,win,1,above,Jean Silva,1988.377719297017,6
+Yair Rodriguez,Featherweight,1985.1474537583808,7,win,2,above,Kevin Vallejos,1991.70980770529,5
+Yair Rodriguez,Featherweight,1985.1474537583808,7,win,3,below,Arnold Allen,1959.1081950908303,8
+Arnold Allen,Featherweight,1959.1081950908303,8,loss,1,below,Pat Sabatini,1945.532469439552,9
+Arnold Allen,Featherweight,1959.1081950908303,8,loss,2,below,Melquizael Costa,1933.1869437104192,10
+Arnold Allen,Featherweight,1959.1081950908303,8,loss,3,above,Yair Rodriguez,1985.1474537583808,7
+Pat Sabatini,Featherweight,1945.532469439552,9,win,1,above,Arnold Allen,1959.1081950908303,8
+Pat Sabatini,Featherweight,1945.532469439552,9,win,2,above,Yair Rodriguez,1985.1474537583808,7
+Pat Sabatini,Featherweight,1945.532469439552,9,win,3,below,Melquizael Costa,1933.1869437104192,10
+Melquizael Costa,Featherweight,1933.1869437104192,10,win,1,above,Pat Sabatini,1945.532469439552,9
+Melquizael Costa,Featherweight,1933.1869437104192,10,win,2,above,Arnold Allen,1959.1081950908303,8
+Melquizael Costa,Featherweight,1933.1869437104192,10,win,3,below,Steve Garcia,1926.432533893544,11
+Steve Garcia,Featherweight,1926.432533893544,11,win,1,above,Melquizael Costa,1933.1869437104192,10
+Steve Garcia,Featherweight,1926.432533893544,11,win,2,above,Pat Sabatini,1945.532469439552,9
+Steve Garcia,Featherweight,1926.432533893544,11,win,3,below,Mairon Santos,1925.0753075440343,12
+Mairon Santos,Featherweight,1925.0753075440343,12,win,1,above,Steve Garcia,1926.432533893544,11
+Mairon Santos,Featherweight,1925.0753075440343,12,win,2,above,Melquizael Costa,1933.1869437104192,10
+Mairon Santos,Featherweight,1925.0753075440343,12,win,3,below,Josh Emmett,1862.2332741523437,13
+Josh Emmett,Featherweight,1862.2332741523437,13,loss,1,below,Nathaniel Wood,1861.3901831176065,14
+Josh Emmett,Featherweight,1862.2332741523437,13,loss,2,below,Youssef Zalal,1857.6097231133983,15
+Josh Emmett,Featherweight,1862.2332741523437,13,loss,3,above,Mairon Santos,1925.0753075440343,12
+Nathaniel Wood,Featherweight,1861.3901831176065,14,win,1,above,Josh Emmett,1862.2332741523437,13
+Nathaniel Wood,Featherweight,1861.3901831176065,14,win,2,above,Mairon Santos,1925.0753075440343,12
+Nathaniel Wood,Featherweight,1861.3901831176065,14,win,3,below,Youssef Zalal,1857.6097231133983,15
+Youssef Zalal,Featherweight,1857.6097231133983,15,win,1,above,Nathaniel Wood,1861.3901831176065,14
+Youssef Zalal,Featherweight,1857.6097231133983,15,win,2,above,Josh Emmett,1862.2332741523437,13
+Youssef Zalal,Featherweight,1857.6097231133983,15,win,3,below,Chepe Mariscal,1857.158369272172,16
+Chepe Mariscal,Featherweight,1857.158369272172,16,loss,1,below,William Gomis,1851.5387232942344,17
+Chepe Mariscal,Featherweight,1857.158369272172,16,loss,2,below,Joanderson Brito,1839.23739220804,18
+Chepe Mariscal,Featherweight,1857.158369272172,16,loss,3,above,Youssef Zalal,1857.6097231133983,15
+William Gomis,Featherweight,1851.5387232942344,17,win,1,above,Chepe Mariscal,1857.158369272172,16
+William Gomis,Featherweight,1851.5387232942344,17,win,2,above,Youssef Zalal,1857.6097231133983,15
+William Gomis,Featherweight,1851.5387232942344,17,win,3,below,Joanderson Brito,1839.23739220804,18
+Joanderson Brito,Featherweight,1839.23739220804,18,win,1,above,William Gomis,1851.5387232942344,17
+Joanderson Brito,Featherweight,1839.23739220804,18,win,2,above,Chepe Mariscal,1857.158369272172,16
+Joanderson Brito,Featherweight,1839.23739220804,18,win,3,below,Lerryan Douglas,1811.1675128164716,19
+Lerryan Douglas,Featherweight,1811.1675128164716,19,win,1,above,Joanderson Brito,1839.23739220804,18
+Lerryan Douglas,Featherweight,1811.1675128164716,19,win,2,above,William Gomis,1851.5387232942344,17
+Lerryan Douglas,Featherweight,1811.1675128164716,19,win,3,below,David Onama,1808.2170600532504,20
+David Onama,Featherweight,1808.2170600532504,20,loss,1,below,Jose Delgado,1793.5236389660915,21
+David Onama,Featherweight,1808.2170600532504,20,loss,2,below,Dan Ige,1782.5709854204715,22
+David Onama,Featherweight,1808.2170600532504,20,loss,3,above,Lerryan Douglas,1811.1675128164716,19
+Jose Delgado,Featherweight,1793.5236389660915,21,win,1,above,David Onama,1808.2170600532504,20
+Jose Delgado,Featherweight,1793.5236389660915,21,win,2,above,Lerryan Douglas,1811.1675128164716,19
+Jose Delgado,Featherweight,1793.5236389660915,21,win,3,below,Dan Ige,1782.5709854204715,22
+Dan Ige,Featherweight,1782.5709854204715,22,loss,1,below,Giga Chikadze,1780.7366232468305,23
+Dan Ige,Featherweight,1782.5709854204715,22,loss,2,below,Aaron Pico,1769.0113952074664,24
+Dan Ige,Featherweight,1782.5709854204715,22,loss,3,above,Jose Delgado,1793.5236389660915,21
+Giga Chikadze,Featherweight,1780.7366232468305,23,loss,1,below,Aaron Pico,1769.0113952074664,24
+Giga Chikadze,Featherweight,1780.7366232468305,23,loss,2,below,Javier Reyes,1756.0331959430775,25
+Giga Chikadze,Featherweight,1780.7366232468305,23,loss,3,above,Dan Ige,1782.5709854204715,22
+Aaron Pico,Featherweight,1769.0113952074664,24,win,1,above,Giga Chikadze,1780.7366232468305,23
+Aaron Pico,Featherweight,1769.0113952074664,24,win,2,above,Dan Ige,1782.5709854204715,22
+Aaron Pico,Featherweight,1769.0113952074664,24,win,3,below,Javier Reyes,1756.0331959430775,25
+Javier Reyes,Featherweight,1756.0331959430775,25,win,1,above,Aaron Pico,1769.0113952074664,24
+Javier Reyes,Featherweight,1756.0331959430775,25,win,2,above,Giga Chikadze,1780.7366232468305,23
+Javier Reyes,Featherweight,1756.0331959430775,25,win,3,below,Calvin Kattar,1746.02730513945,26
+Calvin Kattar,Featherweight,1746.02730513945,26,loss,1,below,Luke Riley,1738.263853359274,27
+Calvin Kattar,Featherweight,1746.02730513945,26,loss,2,below,Darren Elkins,1737.034181259177,28
+Calvin Kattar,Featherweight,1746.02730513945,26,loss,3,above,Javier Reyes,1756.0331959430775,25
+Luke Riley,Featherweight,1738.263853359274,27,win,1,above,Calvin Kattar,1746.02730513945,26
+Luke Riley,Featherweight,1738.263853359274,27,win,2,above,Javier Reyes,1756.0331959430775,25
+Luke Riley,Featherweight,1738.263853359274,27,win,3,below,Darren Elkins,1737.034181259177,28
+Darren Elkins,Featherweight,1737.034181259177,28,loss,1,below,Muhammad Naimov,1732.916778647364,29
+Darren Elkins,Featherweight,1737.034181259177,28,loss,2,below,Danny Silva,1708.436652298015,30
+Darren Elkins,Featherweight,1737.034181259177,28,loss,3,above,Luke Riley,1738.263853359274,27
+Muhammad Naimov,Featherweight,1732.916778647364,29,loss,1,below,Danny Silva,1708.436652298015,30
+Muhammad Naimov,Featherweight,1732.916778647364,29,loss,2,below,Sean Woodson,1708.1917754605047,31
+Muhammad Naimov,Featherweight,1732.916778647364,29,loss,3,above,Darren Elkins,1737.034181259177,28
+Danny Silva,Featherweight,1708.436652298015,30,win,1,above,Muhammad Naimov,1732.916778647364,29
+Danny Silva,Featherweight,1708.436652298015,30,win,2,above,Darren Elkins,1737.034181259177,28
+Danny Silva,Featherweight,1708.436652298015,30,win,3,below,Sean Woodson,1708.1917754605047,31
+Sean Woodson,Featherweight,1708.1917754605047,31,loss,1,below,Kaan Ofli,1676.068123880945,32
+Sean Woodson,Featherweight,1708.1917754605047,31,loss,2,below,Julian Erosa,1672.327449825474,33
+Sean Woodson,Featherweight,1708.1917754605047,31,loss,3,above,Danny Silva,1708.436652298015,30
+Kaan Ofli,Featherweight,1676.068123880945,32,win,1,above,Sean Woodson,1708.1917754605047,31
+Kaan Ofli,Featherweight,1676.068123880945,32,win,2,above,Danny Silva,1708.436652298015,30
+Kaan Ofli,Featherweight,1676.068123880945,32,win,3,below,Julian Erosa,1672.327449825474,33
+Julian Erosa,Featherweight,1672.327449825474,33,loss,1,below,Dooho Choi,1668.1150915227252,34
+Julian Erosa,Featherweight,1672.327449825474,33,loss,2,below,Andre Fili,1667.1440807271215,35
+Julian Erosa,Featherweight,1672.327449825474,33,loss,3,above,Kaan Ofli,1676.068123880945,32
+Dooho Choi,Featherweight,1668.1150915227252,34,win,1,above,Julian Erosa,1672.327449825474,33
+Dooho Choi,Featherweight,1668.1150915227252,34,win,2,above,Kaan Ofli,1676.068123880945,32
+Dooho Choi,Featherweight,1668.1150915227252,34,win,3,below,Andre Fili,1667.1440807271215,35
+Andre Fili,Featherweight,1667.1440807271215,35,loss,1,below,Keiichiro Nakamura,1662.2120014703455,36
+Andre Fili,Featherweight,1667.1440807271215,35,loss,2,below,Jamall Emmers,1630.1218629784626,37
+Andre Fili,Featherweight,1667.1440807271215,35,loss,3,above,Dooho Choi,1668.1150915227252,34
+Keiichiro Nakamura,Featherweight,1662.2120014703455,36,win,1,above,Andre Fili,1667.1440807271215,35
+Keiichiro Nakamura,Featherweight,1662.2120014703455,36,win,2,above,Dooho Choi,1668.1150915227252,34
+Keiichiro Nakamura,Featherweight,1662.2120014703455,36,win,3,below,Jamall Emmers,1630.1218629784626,37
+Jamall Emmers,Featherweight,1630.1218629784626,37,win,1,above,Keiichiro Nakamura,1662.2120014703455,36
+Jamall Emmers,Featherweight,1630.1218629784626,37,win,2,above,Andre Fili,1667.1440807271215,35
+Jamall Emmers,Featherweight,1630.1218629784626,37,win,3,below,Jordan Leavitt,1624.4256614543724,38
+Jordan Leavitt,Featherweight,1624.4256614543724,38,win,1,above,Jamall Emmers,1630.1218629784626,37
+Jordan Leavitt,Featherweight,1624.4256614543724,38,win,2,above,Keiichiro Nakamura,1662.2120014703455,36
+Jordan Leavitt,Featherweight,1624.4256614543724,38,win,3,below,Jose Delano,1616.1223047477545,39
+Jose Delano,Featherweight,1616.1223047477545,39,win,1,above,Jordan Leavitt,1624.4256614543724,38
+Jose Delano,Featherweight,1616.1223047477545,39,win,2,above,Jamall Emmers,1630.1218629784626,37
+Jose Delano,Featherweight,1616.1223047477545,39,win,3,below,Gabriel Santos,1614.6503247578175,40
+Gabriel Santos,Featherweight,1614.6503247578175,40,win,1,above,Jose Delano,1616.1223047477545,39
+Gabriel Santos,Featherweight,1614.6503247578175,40,win,2,above,Jordan Leavitt,1624.4256614543724,38
+Gabriel Santos,Featherweight,1614.6503247578175,40,win,3,below,Morgan Charriere,1614.132115149404,41
+Morgan Charriere,Featherweight,1614.132115149404,41,loss,1,below,Tommy McMillen,1598.7893329403669,42
+Morgan Charriere,Featherweight,1614.132115149404,41,loss,2,below,Marwan Rahiki,1596.419472601472,43
+Morgan Charriere,Featherweight,1614.132115149404,41,loss,3,above,Gabriel Santos,1614.6503247578175,40
+Tommy McMillen,Featherweight,1598.7893329403669,42,win,1,above,Morgan Charriere,1614.132115149404,41
+Tommy McMillen,Featherweight,1598.7893329403669,42,win,2,above,Gabriel Santos,1614.6503247578175,40
+Tommy McMillen,Featherweight,1598.7893329403669,42,win,3,below,Marwan Rahiki,1596.419472601472,43
+Marwan Rahiki,Featherweight,1596.419472601472,43,win,1,above,Tommy McMillen,1598.7893329403669,42
+Marwan Rahiki,Featherweight,1596.419472601472,43,win,2,above,Morgan Charriere,1614.132115149404,41
+Marwan Rahiki,Featherweight,1596.419472601472,43,win,3,below,Douglas Silva de Andrade,1589.758991044641,44
+Douglas Silva de Andrade,Featherweight,1589.758991044641,44,loss,1,below,Billy Quarantillo,1588.211157881591,45
+Douglas Silva de Andrade,Featherweight,1589.758991044641,44,loss,2,below,Alberto Montes,1578.426214617882,46
+Douglas Silva de Andrade,Featherweight,1589.758991044641,44,loss,3,above,Marwan Rahiki,1596.419472601472,43
+Billy Quarantillo,Featherweight,1588.211157881591,45,loss,1,below,Alberto Montes,1578.426214617882,46
+Billy Quarantillo,Featherweight,1588.211157881591,45,loss,2,below,Christian Rodriguez,1576.0080435428667,47
+Billy Quarantillo,Featherweight,1588.211157881591,45,loss,3,above,Douglas Silva de Andrade,1589.758991044641,44
+Alberto Montes,Featherweight,1578.426214617882,46,win,1,above,Billy Quarantillo,1588.211157881591,45
+Alberto Montes,Featherweight,1578.426214617882,46,win,2,above,Douglas Silva de Andrade,1589.758991044641,44
+Alberto Montes,Featherweight,1578.426214617882,46,win,3,below,Christian Rodriguez,1576.0080435428667,47
+Christian Rodriguez,Featherweight,1576.0080435428667,47,loss,1,below,Marcio Barbosa,1574.4436183227342,48
+Christian Rodriguez,Featherweight,1576.0080435428667,47,loss,2,below,Hyder Amil,1566.6264923399062,49
+Christian Rodriguez,Featherweight,1576.0080435428667,47,loss,3,above,Alberto Montes,1578.426214617882,46
+Marcio Barbosa,Featherweight,1574.4436183227342,48,win,1,above,Christian Rodriguez,1576.0080435428667,47
+Marcio Barbosa,Featherweight,1574.4436183227342,48,win,2,above,Alberto Montes,1578.426214617882,46
+Marcio Barbosa,Featherweight,1574.4436183227342,48,win,3,below,Hyder Amil,1566.6264923399062,49
+Hyder Amil,Featherweight,1566.6264923399062,49,loss,1,below,Austin Bashi,1560.179354921447,50
+Hyder Amil,Featherweight,1566.6264923399062,49,loss,2,below,Jack Jenkins,1551.7529437967196,51
+Hyder Amil,Featherweight,1566.6264923399062,49,loss,3,above,Marcio Barbosa,1574.4436183227342,48
+Austin Bashi,Featherweight,1560.179354921447,50,win,1,above,Hyder Amil,1566.6264923399062,49
+Austin Bashi,Featherweight,1560.179354921447,50,win,2,above,Marcio Barbosa,1574.4436183227342,48
+Austin Bashi,Featherweight,1560.179354921447,50,win,3,below,Jack Jenkins,1551.7529437967196,51
+Jack Jenkins,Featherweight,1551.7529437967196,51,win,1,above,Austin Bashi,1560.179354921447,50
+Jack Jenkins,Featherweight,1551.7529437967196,51,win,2,above,Hyder Amil,1566.6264923399062,49
+Jack Jenkins,Featherweight,1551.7529437967196,51,win,3,below,Melsik Baghdasaryan,1551.4641279628124,52
+Melsik Baghdasaryan,Featherweight,1551.4641279628124,52,loss,1,below,Malcolm Wellmaker,1528.9347495333604,53
+Melsik Baghdasaryan,Featherweight,1551.4641279628124,52,loss,2,below,Fernando Padilla,1517.8606830551616,54
+Melsik Baghdasaryan,Featherweight,1551.4641279628124,52,loss,3,above,Jack Jenkins,1551.7529437967196,51
+Malcolm Wellmaker,Featherweight,1528.9347495333604,53,loss,1,below,Fernando Padilla,1517.8606830551616,54
+Malcolm Wellmaker,Featherweight,1528.9347495333604,53,loss,2,below,Yadier del Valle,1502.5514687583031,55
+Malcolm Wellmaker,Featherweight,1528.9347495333604,53,loss,3,above,Melsik Baghdasaryan,1551.4641279628124,52
+Fernando Padilla,Featherweight,1517.8606830551616,54,loss,1,below,Yadier del Valle,1502.5514687583031,55
+Fernando Padilla,Featherweight,1517.8606830551616,54,loss,2,below,Nate Landwehr,1487.4417964663835,56
+Fernando Padilla,Featherweight,1517.8606830551616,54,loss,3,above,Malcolm Wellmaker,1528.9347495333604,53
+Yadier del Valle,Featherweight,1502.5514687583031,55,loss,1,below,Nate Landwehr,1487.4417964663835,56
+Yadier del Valle,Featherweight,1502.5514687583031,55,loss,2,below,JeongYeong Lee,1469.722478494734,57
+Yadier del Valle,Featherweight,1502.5514687583031,55,loss,3,above,Fernando Padilla,1517.8606830551616,54
+Nate Landwehr,Featherweight,1487.4417964663835,56,loss,1,below,JeongYeong Lee,1469.722478494734,57
+Nate Landwehr,Featherweight,1487.4417964663835,56,loss,2,below,Francis Marshall,1426.3689731571835,58
+Nate Landwehr,Featherweight,1487.4417964663835,56,loss,3,above,Yadier del Valle,1502.5514687583031,55
+JeongYeong Lee,Featherweight,1469.722478494734,57,loss,1,below,Francis Marshall,1426.3689731571835,58
+JeongYeong Lee,Featherweight,1469.722478494734,57,loss,2,below,Michael Aswell Jr.,1402.3971355260217,59
+JeongYeong Lee,Featherweight,1469.722478494734,57,loss,3,above,Nate Landwehr,1487.4417964663835,56
+Francis Marshall,Featherweight,1426.3689731571835,58,win,1,above,JeongYeong Lee,1469.722478494734,57
+Francis Marshall,Featherweight,1426.3689731571835,58,win,2,above,Nate Landwehr,1487.4417964663835,56
+Francis Marshall,Featherweight,1426.3689731571835,58,win,3,below,Michael Aswell Jr.,1402.3971355260217,59
+Michael Aswell Jr.,Featherweight,1402.3971355260217,59,loss,1,below,Losene Keita,1399.1263522376787,60
+Michael Aswell Jr.,Featherweight,1402.3971355260217,59,loss,2,below,Isaac Thomson,1392.6406572597691,61
+Michael Aswell Jr.,Featherweight,1402.3971355260217,59,loss,3,above,Francis Marshall,1426.3689731571835,58
+Losene Keita,Featherweight,1399.1263522376787,60,loss,1,below,Isaac Thomson,1392.6406572597691,61
+Losene Keita,Featherweight,1399.1263522376787,60,loss,2,below,Shayilan Nuerdanbieke,1355.688999763109,62
+Losene Keita,Featherweight,1399.1263522376787,60,loss,3,above,Michael Aswell Jr.,1402.3971355260217,59
+Isaac Thomson,Featherweight,1392.6406572597691,61,loss,1,below,Shayilan Nuerdanbieke,1355.688999763109,62
+Isaac Thomson,Featherweight,1392.6406572597691,61,loss,2,below,Bogdan Grad,1341.5319886540908,63
+Isaac Thomson,Featherweight,1392.6406572597691,61,loss,3,above,Losene Keita,1399.1263522376787,60
+Shayilan Nuerdanbieke,Featherweight,1355.688999763109,62,loss,1,below,Bogdan Grad,1341.5319886540908,63
+Shayilan Nuerdanbieke,Featherweight,1355.688999763109,62,loss,2,below,Yizha,1297.4344337149294,64
+Shayilan Nuerdanbieke,Featherweight,1355.688999763109,62,loss,3,above,Isaac Thomson,1392.6406572597691,61
+Bogdan Grad,Featherweight,1341.5319886540908,63,loss,1,below,Yizha,1297.4344337149294,64
+Bogdan Grad,Featherweight,1341.5319886540908,63,loss,2,below,Kurtis Campbell,1293.8441031509378,65
+Bogdan Grad,Featherweight,1341.5319886540908,63,loss,3,above,Shayilan Nuerdanbieke,1355.688999763109,62
+Yizha,Featherweight,1297.4344337149294,64,loss,1,below,Kurtis Campbell,1293.8441031509378,65
+Yizha,Featherweight,1297.4344337149294,64,loss,2,below,Ramon Taveras,1283.9593043538534,66
+Yizha,Featherweight,1297.4344337149294,64,loss,3,above,Bogdan Grad,1341.5319886540908,63
+Kurtis Campbell,Featherweight,1293.8441031509378,65,loss,1,below,Ramon Taveras,1283.9593043538534,66
+Kurtis Campbell,Featherweight,1293.8441031509378,65,loss,2,below,Steven Nguyen,1244.1675472167776,67
+Kurtis Campbell,Featherweight,1293.8441031509378,65,loss,3,above,Yizha,1297.4344337149294,64
+Ramon Taveras,Featherweight,1283.9593043538534,66,loss,1,below,Steven Nguyen,1244.1675472167776,67
+Ramon Taveras,Featherweight,1283.9593043538534,66,loss,2,below,Robert Ruchala,1231.9010107620647,68
+Ramon Taveras,Featherweight,1283.9593043538534,66,loss,3,above,Kurtis Campbell,1293.8441031509378,65
+Steven Nguyen,Featherweight,1244.1675472167776,67,win,1,above,Ramon Taveras,1283.9593043538534,66
+Steven Nguyen,Featherweight,1244.1675472167776,67,win,2,above,Kurtis Campbell,1293.8441031509378,65
+Steven Nguyen,Featherweight,1244.1675472167776,67,win,3,below,Robert Ruchala,1231.9010107620647,68
+Robert Ruchala,Featherweight,1231.9010107620647,68,loss,1,below,Ricky Turcios,1133.889560716618,69
+Robert Ruchala,Featherweight,1231.9010107620647,68,loss,2,below,Manolo Zecchini,1128.5513779290031,70
+Robert Ruchala,Featherweight,1231.9010107620647,68,loss,3,above,Steven Nguyen,1244.1675472167776,67
+Ricky Turcios,Featherweight,1133.889560716618,69,loss,1,below,Manolo Zecchini,1128.5513779290031,70
+Ricky Turcios,Featherweight,1133.889560716618,69,loss,2,below,Harry Hardwick,1121.9193517121653,71
+Ricky Turcios,Featherweight,1133.889560716618,69,loss,3,above,Robert Ruchala,1231.9010107620647,68
+Manolo Zecchini,Featherweight,1128.5513779290031,70,loss,1,below,Harry Hardwick,1121.9193517121653,71
+Manolo Zecchini,Featherweight,1128.5513779290031,70,loss,2,below,Dennis Buzukja,1080.7755947272285,72
+Manolo Zecchini,Featherweight,1128.5513779290031,70,loss,3,above,Ricky Turcios,1133.889560716618,69
+Harry Hardwick,Featherweight,1121.9193517121653,71,loss,1,below,Dennis Buzukja,1080.7755947272285,72
+Harry Hardwick,Featherweight,1121.9193517121653,71,loss,2,below,Roberto Romero,1026.6600983966953,73
+Harry Hardwick,Featherweight,1121.9193517121653,71,loss,3,above,Manolo Zecchini,1128.5513779290031,70
+Dennis Buzukja,Featherweight,1080.7755947272285,72,loss,1,below,Roberto Romero,1026.6600983966953,73
+Dennis Buzukja,Featherweight,1080.7755947272285,72,loss,2,above,Harry Hardwick,1121.9193517121653,71
+Roberto Romero,Featherweight,1026.6600983966953,73,loss,1,above,Dennis Buzukja,1080.7755947272285,72
+Tatsuro Taira,Flyweight,1954.860122271092,1,win,1,below,Alexandre Pantoja,1945.209316330668,2
+Alexandre Pantoja,Flyweight,1945.209316330668,2,loss,1,below,Joshua Van,1916.7898424623831,3
+Alexandre Pantoja,Flyweight,1945.209316330668,2,loss,2,below,Kyoji Horiguchi,1910.80275325148,4
+Alexandre Pantoja,Flyweight,1945.209316330668,2,loss,3,above,Tatsuro Taira,1954.860122271092,1
+Joshua Van,Flyweight,1916.7898424623831,3,win,1,above,Alexandre Pantoja,1945.209316330668,2
+Joshua Van,Flyweight,1916.7898424623831,3,win,2,above,Tatsuro Taira,1954.860122271092,1
+Joshua Van,Flyweight,1916.7898424623831,3,win,3,below,Kyoji Horiguchi,1910.80275325148,4
+Kyoji Horiguchi,Flyweight,1910.80275325148,4,win,1,above,Joshua Van,1916.7898424623831,3
+Kyoji Horiguchi,Flyweight,1910.80275325148,4,win,2,above,Alexandre Pantoja,1945.209316330668,2
+Kyoji Horiguchi,Flyweight,1910.80275325148,4,win,3,below,Manel Kape,1888.0225087058263,5
+Manel Kape,Flyweight,1888.0225087058263,5,win,1,above,Kyoji Horiguchi,1910.80275325148,4
+Manel Kape,Flyweight,1888.0225087058263,5,win,2,above,Joshua Van,1916.7898424623831,3
+Manel Kape,Flyweight,1888.0225087058263,5,win,3,below,Brandon Moreno,1834.217268511891,6
+Brandon Moreno,Flyweight,1834.217268511891,6,loss,1,below,Asu Almabayev,1826.141783191228,7
+Brandon Moreno,Flyweight,1834.217268511891,6,loss,2,below,Andre Lima,1817.2612212602637,8
+Brandon Moreno,Flyweight,1834.217268511891,6,loss,3,above,Manel Kape,1888.0225087058263,5
+Asu Almabayev,Flyweight,1826.141783191228,7,win,1,above,Brandon Moreno,1834.217268511891,6
+Asu Almabayev,Flyweight,1826.141783191228,7,win,2,above,Manel Kape,1888.0225087058263,5
+Asu Almabayev,Flyweight,1826.141783191228,7,win,3,below,Andre Lima,1817.2612212602637,8
+Andre Lima,Flyweight,1817.2612212602637,8,win,1,above,Asu Almabayev,1826.141783191228,7
+Andre Lima,Flyweight,1817.2612212602637,8,win,2,above,Brandon Moreno,1834.217268511891,6
+Andre Lima,Flyweight,1817.2612212602637,8,win,3,below,Brandon Royval,1784.3594025985708,9
+Brandon Royval,Flyweight,1784.3594025985708,9,loss,1,below,Ramazan Temirov,1760.7560960318492,10
+Brandon Royval,Flyweight,1784.3594025985708,9,loss,2,below,Lone'er Kavanagh,1753.3644667035198,11
+Brandon Royval,Flyweight,1784.3594025985708,9,loss,3,above,Andre Lima,1817.2612212602637,8
+Ramazan Temirov,Flyweight,1760.7560960318492,10,win,1,above,Brandon Royval,1784.3594025985708,9
+Ramazan Temirov,Flyweight,1760.7560960318492,10,win,2,above,Andre Lima,1817.2612212602637,8
+Ramazan Temirov,Flyweight,1760.7560960318492,10,win,3,below,Lone'er Kavanagh,1753.3644667035198,11
+Lone'er Kavanagh,Flyweight,1753.3644667035198,11,win,1,above,Ramazan Temirov,1760.7560960318492,10
+Lone'er Kavanagh,Flyweight,1753.3644667035198,11,win,2,above,Brandon Royval,1784.3594025985708,9
+Lone'er Kavanagh,Flyweight,1753.3644667035198,11,win,3,below,Kai Kara-France,1745.0656257737594,12
+Kai Kara-France,Flyweight,1745.0656257737594,12,loss,1,below,Tagir Ulanbekov,1742.6727741627355,13
+Kai Kara-France,Flyweight,1745.0656257737594,12,loss,2,below,Amir Albazi,1724.8762347692611,14
+Kai Kara-France,Flyweight,1745.0656257737594,12,loss,3,above,Lone'er Kavanagh,1753.3644667035198,11
+Tagir Ulanbekov,Flyweight,1742.6727741627355,13,loss,1,below,Amir Albazi,1724.8762347692611,14
+Tagir Ulanbekov,Flyweight,1742.6727741627355,13,loss,2,below,Alex Perez,1724.0243090154531,15
+Tagir Ulanbekov,Flyweight,1742.6727741627355,13,loss,3,above,Kai Kara-France,1745.0656257737594,12
+Amir Albazi,Flyweight,1724.8762347692611,14,loss,1,below,Alex Perez,1724.0243090154531,15
+Amir Albazi,Flyweight,1724.8762347692611,14,loss,2,below,Alden Coria,1685.1296332141928,16
+Amir Albazi,Flyweight,1724.8762347692611,14,loss,3,above,Tagir Ulanbekov,1742.6727741627355,13
+Alex Perez,Flyweight,1724.0243090154531,15,win,1,above,Amir Albazi,1724.8762347692611,14
+Alex Perez,Flyweight,1724.0243090154531,15,win,2,above,Tagir Ulanbekov,1742.6727741627355,13
+Alex Perez,Flyweight,1724.0243090154531,15,win,3,below,Alden Coria,1685.1296332141928,16
+Alden Coria,Flyweight,1685.1296332141928,16,win,1,above,Alex Perez,1724.0243090154531,15
+Alden Coria,Flyweight,1685.1296332141928,16,win,2,above,Amir Albazi,1724.8762347692611,14
+Alden Coria,Flyweight,1685.1296332141928,16,win,3,below,Jafel Filho,1662.964329779158,17
+Jafel Filho,Flyweight,1662.964329779158,17,win,1,above,Alden Coria,1685.1296332141928,16
+Jafel Filho,Flyweight,1662.964329779158,17,win,2,above,Alex Perez,1724.0243090154531,15
+Jafel Filho,Flyweight,1662.964329779158,17,win,3,below,DongHun Choi,1662.2120014703455,18
+DongHun Choi,Flyweight,1662.2120014703455,18,win,1,above,Jafel Filho,1662.964329779158,17
+DongHun Choi,Flyweight,1662.2120014703455,18,win,2,above,Alden Coria,1685.1296332141928,16
+DongHun Choi,Flyweight,1662.2120014703455,18,win,3,below,Charles Johnson,1650.6253284655104,19
+Charles Johnson,Flyweight,1650.6253284655104,19,win,1,above,DongHun Choi,1662.2120014703455,18
+Charles Johnson,Flyweight,1650.6253284655104,19,win,2,above,Jafel Filho,1662.964329779158,17
+Charles Johnson,Flyweight,1650.6253284655104,19,win,3,below,Tim Elliott,1644.436433793794,20
+Tim Elliott,Flyweight,1644.436433793794,20,win,1,above,Charles Johnson,1650.6253284655104,19
+Tim Elliott,Flyweight,1644.436433793794,20,win,2,above,DongHun Choi,1662.2120014703455,18
+Tim Elliott,Flyweight,1644.436433793794,20,win,3,below,Joseph Morales,1614.84314599657,21
+Joseph Morales,Flyweight,1614.84314599657,21,win,1,above,Tim Elliott,1644.436433793794,20
+Joseph Morales,Flyweight,1614.84314599657,21,win,2,above,Charles Johnson,1650.6253284655104,19
+Joseph Morales,Flyweight,1614.84314599657,21,win,3,below,Imanol Rodriguez,1589.412685654289,22
+Imanol Rodriguez,Flyweight,1589.412685654289,22,win,1,above,Joseph Morales,1614.84314599657,21
+Imanol Rodriguez,Flyweight,1589.412685654289,22,win,2,above,Tim Elliott,1644.436433793794,20
+Imanol Rodriguez,Flyweight,1589.412685654289,22,win,3,below,Nyamjargal Tumendemberel,1571.809183626766,23
+Nyamjargal Tumendemberel,Flyweight,1571.809183626766,23,win,1,above,Imanol Rodriguez,1589.412685654289,22
+Nyamjargal Tumendemberel,Flyweight,1571.809183626766,23,win,2,above,Joseph Morales,1614.84314599657,21
+Nyamjargal Tumendemberel,Flyweight,1571.809183626766,23,win,3,below,Sumudaerji,1558.9339574324003,24
+Sumudaerji,Flyweight,1558.9339574324003,24,win,1,above,Nyamjargal Tumendemberel,1571.809183626766,23
+Sumudaerji,Flyweight,1558.9339574324003,24,win,2,above,Imanol Rodriguez,1589.412685654289,22
+Sumudaerji,Flyweight,1558.9339574324003,24,win,3,below,Edgar Chairez,1523.3894727218606,25
+Edgar Chairez,Flyweight,1523.3894727218606,25,win,1,above,Sumudaerji,1558.9339574324003,24
+Edgar Chairez,Flyweight,1523.3894727218606,25,win,2,above,Nyamjargal Tumendemberel,1571.809183626766,23
+Edgar Chairez,Flyweight,1523.3894727218606,25,win,3,below,Rei Tsuruya,1478.0032307299666,26
+Rei Tsuruya,Flyweight,1478.0032307299666,26,loss,1,below,Jose Ochoa,1471.4536099173329,27
+Rei Tsuruya,Flyweight,1478.0032307299666,26,loss,2,below,Matt Schnell,1470.3607307882344,28
+Rei Tsuruya,Flyweight,1478.0032307299666,26,loss,3,above,Edgar Chairez,1523.3894727218606,25
+Jose Ochoa,Flyweight,1471.4536099173329,27,loss,1,below,Matt Schnell,1470.3607307882344,28
+Jose Ochoa,Flyweight,1471.4536099173329,27,loss,2,below,Alessandro Costa,1437.2371902465572,29
+Jose Ochoa,Flyweight,1471.4536099173329,27,loss,3,above,Rei Tsuruya,1478.0032307299666,26
+Matt Schnell,Flyweight,1470.3607307882344,28,loss,1,below,Alessandro Costa,1437.2371902465572,29
+Matt Schnell,Flyweight,1470.3607307882344,28,loss,2,below,HyunSung Park,1425.1665302655267,30
+Matt Schnell,Flyweight,1470.3607307882344,28,loss,3,above,Jose Ochoa,1471.4536099173329,27
+Alessandro Costa,Flyweight,1437.2371902465572,29,win,1,above,Matt Schnell,1470.3607307882344,28
+Alessandro Costa,Flyweight,1437.2371902465572,29,win,2,above,Jose Ochoa,1471.4536099173329,27
+Alessandro Costa,Flyweight,1437.2371902465572,29,win,3,below,HyunSung Park,1425.1665302655267,30
+HyunSung Park,Flyweight,1425.1665302655267,30,loss,1,below,Lucas Rocha,1424.0355963278091,31
+HyunSung Park,Flyweight,1425.1665302655267,30,loss,2,below,Clayton Carpenter,1421.979252018709,32
+HyunSung Park,Flyweight,1425.1665302655267,30,loss,3,above,Alessandro Costa,1437.2371902465572,29
+Lucas Rocha,Flyweight,1424.0355963278091,31,win,1,above,HyunSung Park,1425.1665302655267,30
+Lucas Rocha,Flyweight,1424.0355963278091,31,win,2,above,Alessandro Costa,1437.2371902465572,29
+Lucas Rocha,Flyweight,1424.0355963278091,31,win,3,below,Clayton Carpenter,1421.979252018709,32
+Clayton Carpenter,Flyweight,1421.979252018709,32,loss,1,below,Ronaldo Rodriguez,1409.3878478127706,33
+Clayton Carpenter,Flyweight,1421.979252018709,32,loss,2,below,Jesus Aguilar,1402.0530604306543,34
+Clayton Carpenter,Flyweight,1421.979252018709,32,loss,3,above,Lucas Rocha,1424.0355963278091,31
+Ronaldo Rodriguez,Flyweight,1409.3878478127706,33,loss,1,below,Jesus Aguilar,1402.0530604306543,34
+Ronaldo Rodriguez,Flyweight,1409.3878478127706,33,loss,2,below,Ode Osbourne,1373.0355974217496,35
+Ronaldo Rodriguez,Flyweight,1409.3878478127706,33,loss,3,above,Clayton Carpenter,1421.979252018709,32
+Jesus Aguilar,Flyweight,1402.0530604306543,34,loss,1,below,Ode Osbourne,1373.0355974217496,35
+Jesus Aguilar,Flyweight,1402.0530604306543,34,loss,2,below,Cody Durden,1367.1457851447312,36
+Jesus Aguilar,Flyweight,1402.0530604306543,34,loss,3,above,Ronaldo Rodriguez,1409.3878478127706,33
+Ode Osbourne,Flyweight,1373.0355974217496,35,loss,1,below,Cody Durden,1367.1457851447312,36
+Ode Osbourne,Flyweight,1373.0355974217496,35,loss,2,below,Mitch Raposo,1343.9551971433143,37
+Ode Osbourne,Flyweight,1373.0355974217496,35,loss,3,above,Jesus Aguilar,1402.0530604306543,34
+Cody Durden,Flyweight,1367.1457851447312,36,loss,1,below,Mitch Raposo,1343.9551971433143,37
+Cody Durden,Flyweight,1367.1457851447312,36,loss,2,below,Daniel Barez,1324.7662460062522,38
+Cody Durden,Flyweight,1367.1457851447312,36,loss,3,above,Ode Osbourne,1373.0355974217496,35
+Mitch Raposo,Flyweight,1343.9551971433143,37,win,1,above,Cody Durden,1367.1457851447312,36
+Mitch Raposo,Flyweight,1343.9551971433143,37,win,2,above,Ode Osbourne,1373.0355974217496,35
+Mitch Raposo,Flyweight,1343.9551971433143,37,win,3,below,Daniel Barez,1324.7662460062522,38
+Daniel Barez,Flyweight,1324.7662460062522,38,loss,1,below,Kai Asakura,1211.7528013406863,39
+Daniel Barez,Flyweight,1324.7662460062522,38,loss,2,below,Alibi Idiris,1147.60007469706,40
+Daniel Barez,Flyweight,1324.7662460062522,38,loss,3,above,Mitch Raposo,1343.9551971433143,37
+Kai Asakura,Flyweight,1211.7528013406863,39,loss,1,below,Alibi Idiris,1147.60007469706,40
+Kai Asakura,Flyweight,1211.7528013406863,39,loss,2,below,Terrance Saeteurn,1131.906719566632,41
+Kai Asakura,Flyweight,1211.7528013406863,39,loss,3,above,Daniel Barez,1324.7662460062522,38
+Alibi Idiris,Flyweight,1147.60007469706,40,loss,1,below,Terrance Saeteurn,1131.906719566632,41
+Alibi Idiris,Flyweight,1147.60007469706,40,loss,2,below,Kevin Borjas,1126.4613211755725,42
+Alibi Idiris,Flyweight,1147.60007469706,40,loss,3,above,Kai Asakura,1211.7528013406863,39
+Terrance Saeteurn,Flyweight,1131.906719566632,41,loss,1,below,Kevin Borjas,1126.4613211755725,42
+Terrance Saeteurn,Flyweight,1131.906719566632,41,loss,2,below,Luis Gurule,1018.8059095537426,43
+Terrance Saeteurn,Flyweight,1131.906719566632,41,loss,3,above,Alibi Idiris,1147.60007469706,40
+Kevin Borjas,Flyweight,1126.4613211755725,42,loss,1,below,Luis Gurule,1018.8059095537426,43
+Kevin Borjas,Flyweight,1126.4613211755725,42,loss,2,below,Stewart Nicoll,933.05290477328,44
+Kevin Borjas,Flyweight,1126.4613211755725,42,loss,3,above,Terrance Saeteurn,1131.906719566632,41
+Luis Gurule,Flyweight,1018.8059095537426,43,loss,1,below,Stewart Nicoll,933.05290477328,44
+Luis Gurule,Flyweight,1018.8059095537426,43,loss,2,above,Kevin Borjas,1126.4613211755725,42
+Stewart Nicoll,Flyweight,933.05290477328,44,loss,1,above,Luis Gurule,1018.8059095537426,43
+Ciryl Gane,Heavyweight,2149.058717693412,1,loss,1,below,Tom Aspinall,2119.8288315868635,2
+Ciryl Gane,Heavyweight,2149.058717693412,1,loss,2,below,Alexander Volkov,2053.1328994902638,3
+Tom Aspinall,Heavyweight,2119.8288315868635,2,loss,1,below,Alexander Volkov,2053.1328994902638,3
+Tom Aspinall,Heavyweight,2119.8288315868635,2,loss,2,below,Sergei Pavlovich,2042.3249590854696,4
+Tom Aspinall,Heavyweight,2119.8288315868635,2,loss,3,above,Ciryl Gane,2149.058717693412,1
+Alexander Volkov,Heavyweight,2053.1328994902638,3,win,1,above,Tom Aspinall,2119.8288315868635,2
+Alexander Volkov,Heavyweight,2053.1328994902638,3,win,2,above,Ciryl Gane,2149.058717693412,1
+Alexander Volkov,Heavyweight,2053.1328994902638,3,win,3,below,Sergei Pavlovich,2042.3249590854696,4
+Sergei Pavlovich,Heavyweight,2042.3249590854696,4,win,1,above,Alexander Volkov,2053.1328994902638,3
+Sergei Pavlovich,Heavyweight,2042.3249590854696,4,win,2,above,Tom Aspinall,2119.8288315868635,2
+Sergei Pavlovich,Heavyweight,2042.3249590854696,4,win,3,below,Curtis Blaydes,2016.8529938227969,5
+Curtis Blaydes,Heavyweight,2016.8529938227969,5,loss,1,below,Josh Hokit,1986.6127075696097,6
+Curtis Blaydes,Heavyweight,2016.8529938227969,5,loss,2,below,Rizvan Kuniev,1944.1493088526488,7
+Curtis Blaydes,Heavyweight,2016.8529938227969,5,loss,3,above,Sergei Pavlovich,2042.3249590854696,4
+Josh Hokit,Heavyweight,1986.6127075696097,6,win,1,above,Curtis Blaydes,2016.8529938227969,5
+Josh Hokit,Heavyweight,1986.6127075696097,6,win,2,above,Sergei Pavlovich,2042.3249590854696,4
+Josh Hokit,Heavyweight,1986.6127075696097,6,win,3,below,Rizvan Kuniev,1944.1493088526488,7
+Rizvan Kuniev,Heavyweight,1944.1493088526488,7,win,1,above,Josh Hokit,1986.6127075696097,6
+Rizvan Kuniev,Heavyweight,1944.1493088526488,7,win,2,above,Curtis Blaydes,2016.8529938227969,5
+Rizvan Kuniev,Heavyweight,1944.1493088526488,7,win,3,below,Derrick Lewis,1911.0411148455448,8
+Derrick Lewis,Heavyweight,1911.0411148455448,8,loss,1,below,Tyrell Fortune,1891.729673625636,9
+Derrick Lewis,Heavyweight,1911.0411148455448,8,loss,2,below,Serghei Spivac,1847.916503522644,10
+Derrick Lewis,Heavyweight,1911.0411148455448,8,loss,3,above,Rizvan Kuniev,1944.1493088526488,7
+Tyrell Fortune,Heavyweight,1891.729673625636,9,win,1,above,Derrick Lewis,1911.0411148455448,8
+Tyrell Fortune,Heavyweight,1891.729673625636,9,win,2,above,Rizvan Kuniev,1944.1493088526488,7
+Tyrell Fortune,Heavyweight,1891.729673625636,9,win,3,below,Serghei Spivac,1847.916503522644,10
+Serghei Spivac,Heavyweight,1847.916503522644,10,win,1,above,Tyrell Fortune,1891.729673625636,9
+Serghei Spivac,Heavyweight,1847.916503522644,10,win,2,above,Derrick Lewis,1911.0411148455448,8
+Serghei Spivac,Heavyweight,1847.916503522644,10,win,3,below,Mario Pinto,1819.0907200958773,11
+Mario Pinto,Heavyweight,1819.0907200958773,11,win,1,above,Serghei Spivac,1847.916503522644,10
+Mario Pinto,Heavyweight,1819.0907200958773,11,win,2,above,Tyrell Fortune,1891.729673625636,9
+Mario Pinto,Heavyweight,1819.0907200958773,11,win,3,below,Marcin Tybura,1817.077370050448,12
+Marcin Tybura,Heavyweight,1817.077370050448,12,loss,1,below,Valter Walker,1766.1533206624003,13
+Marcin Tybura,Heavyweight,1817.077370050448,12,loss,2,below,Mick Parkin,1765.4311700649664,14
+Marcin Tybura,Heavyweight,1817.077370050448,12,loss,3,above,Mario Pinto,1819.0907200958773,11
+Valter Walker,Heavyweight,1766.1533206624003,13,win,1,above,Marcin Tybura,1817.077370050448,12
+Valter Walker,Heavyweight,1766.1533206624003,13,win,2,above,Mario Pinto,1819.0907200958773,11
+Valter Walker,Heavyweight,1766.1533206624003,13,win,3,below,Mick Parkin,1765.4311700649664,14
+Mick Parkin,Heavyweight,1765.4311700649664,14,loss,1,below,Tallison Teixeira,1739.9510850595072,15
+Mick Parkin,Heavyweight,1765.4311700649664,14,loss,2,below,Brando Pericic,1719.5879137983754,16
+Mick Parkin,Heavyweight,1765.4311700649664,14,loss,3,above,Valter Walker,1766.1533206624003,13
+Tallison Teixeira,Heavyweight,1739.9510850595072,15,win,1,above,Mick Parkin,1765.4311700649664,14
+Tallison Teixeira,Heavyweight,1739.9510850595072,15,win,2,above,Valter Walker,1766.1533206624003,13
+Tallison Teixeira,Heavyweight,1739.9510850595072,15,win,3,below,Brando Pericic,1719.5879137983754,16
+Brando Pericic,Heavyweight,1719.5879137983754,16,win,1,above,Tallison Teixeira,1739.9510850595072,15
+Brando Pericic,Heavyweight,1719.5879137983754,16,win,2,above,Mick Parkin,1765.4311700649664,14
+Brando Pericic,Heavyweight,1719.5879137983754,16,win,3,below,Ryan Spann,1714.519692668835,17
+Ryan Spann,Heavyweight,1714.519692668835,17,win,1,above,Brando Pericic,1719.5879137983754,16
+Ryan Spann,Heavyweight,1714.519692668835,17,win,2,above,Tallison Teixeira,1739.9510850595072,15
+Ryan Spann,Heavyweight,1714.519692668835,17,win,3,below,Shamil Gaziev,1710.5089469140992,18
+Shamil Gaziev,Heavyweight,1710.5089469140992,18,loss,1,below,Vitor Petrino,1706.3920011670425,19
+Shamil Gaziev,Heavyweight,1710.5089469140992,18,loss,2,below,Tai Tuivasa,1666.1232833622466,20
+Shamil Gaziev,Heavyweight,1710.5089469140992,18,loss,3,above,Ryan Spann,1714.519692668835,17
+Vitor Petrino,Heavyweight,1706.3920011670425,19,win,1,above,Shamil Gaziev,1710.5089469140992,18
+Vitor Petrino,Heavyweight,1706.3920011670425,19,win,2,above,Ryan Spann,1714.519692668835,17
+Vitor Petrino,Heavyweight,1706.3920011670425,19,win,3,below,Tai Tuivasa,1666.1232833622466,20
+Tai Tuivasa,Heavyweight,1666.1232833622466,20,loss,1,below,Gokhan Saricam,1655.9964172129828,21
+Tai Tuivasa,Heavyweight,1666.1232833622466,20,loss,2,below,Kennedy Nzechukwu,1565.1277548953535,22
+Tai Tuivasa,Heavyweight,1666.1232833622466,20,loss,3,above,Vitor Petrino,1706.3920011670425,19
+Gokhan Saricam,Heavyweight,1655.9964172129828,21,win,1,above,Tai Tuivasa,1666.1232833622466,20
+Gokhan Saricam,Heavyweight,1655.9964172129828,21,win,2,above,Vitor Petrino,1706.3920011670425,19
+Gokhan Saricam,Heavyweight,1655.9964172129828,21,win,3,below,Kennedy Nzechukwu,1565.1277548953535,22
+Kennedy Nzechukwu,Heavyweight,1565.1277548953535,22,win,1,above,Gokhan Saricam,1655.9964172129828,21
+Kennedy Nzechukwu,Heavyweight,1565.1277548953535,22,win,2,above,Tai Tuivasa,1666.1232833622466,20
+Kennedy Nzechukwu,Heavyweight,1565.1277548953535,22,win,3,below,Jhonata Diniz,1564.249465546419,23
+Jhonata Diniz,Heavyweight,1564.249465546419,23,loss,1,below,Thomas Petersen,1563.6500871632447,24
+Jhonata Diniz,Heavyweight,1564.249465546419,23,loss,2,below,Marcus Buchecha,1525.8008048507854,25
+Jhonata Diniz,Heavyweight,1564.249465546419,23,loss,3,above,Kennedy Nzechukwu,1565.1277548953535,22
+Thomas Petersen,Heavyweight,1563.6500871632447,24,win,1,above,Jhonata Diniz,1564.249465546419,23
+Thomas Petersen,Heavyweight,1563.6500871632447,24,win,2,above,Kennedy Nzechukwu,1565.1277548953535,22
+Thomas Petersen,Heavyweight,1563.6500871632447,24,win,3,below,Marcus Buchecha,1525.8008048507854,25
+Marcus Buchecha,Heavyweight,1525.8008048507854,25,win,1,above,Thomas Petersen,1563.6500871632447,24
+Marcus Buchecha,Heavyweight,1525.8008048507854,25,win,2,above,Jhonata Diniz,1564.249465546419,23
+Marcus Buchecha,Heavyweight,1525.8008048507854,25,win,3,below,Ante Delija,1525.6972076242223,26
+Ante Delija,Heavyweight,1525.6972076242223,26,loss,1,below,Denzel Freeman,1473.7881989954064,27
+Ante Delija,Heavyweight,1525.6972076242223,26,loss,2,below,Tanner Boser,1397.56796980695,28
+Ante Delija,Heavyweight,1525.6972076242223,26,loss,3,above,Marcus Buchecha,1525.8008048507854,25
+Denzel Freeman,Heavyweight,1473.7881989954064,27,loss,1,below,Tanner Boser,1397.56796980695,28
+Denzel Freeman,Heavyweight,1473.7881989954064,27,loss,2,below,Steven Asplund,1395.684729150038,29
+Denzel Freeman,Heavyweight,1473.7881989954064,27,loss,3,above,Ante Delija,1525.6972076242223,26
+Tanner Boser,Heavyweight,1397.56796980695,28,loss,1,below,Steven Asplund,1395.684729150038,29
+Tanner Boser,Heavyweight,1397.56796980695,28,loss,2,below,Guilherme Pat,1389.850771774874,30
+Tanner Boser,Heavyweight,1397.56796980695,28,loss,3,above,Denzel Freeman,1473.7881989954064,27
+Steven Asplund,Heavyweight,1395.684729150038,29,loss,1,below,Guilherme Pat,1389.850771774874,30
+Steven Asplund,Heavyweight,1395.684729150038,29,loss,2,below,Felipe Franco,1385.707044401231,31
+Steven Asplund,Heavyweight,1395.684729150038,29,loss,3,above,Tanner Boser,1397.56796980695,28
+Guilherme Pat,Heavyweight,1389.850771774874,30,loss,1,below,Felipe Franco,1385.707044401231,31
+Guilherme Pat,Heavyweight,1389.850771774874,30,loss,2,below,Allen Frye Jr.,1287.687552061223,32
+Guilherme Pat,Heavyweight,1389.850771774874,30,loss,3,above,Steven Asplund,1395.684729150038,29
+Felipe Franco,Heavyweight,1385.707044401231,31,loss,1,below,Allen Frye Jr.,1287.687552061223,32
+Felipe Franco,Heavyweight,1385.707044401231,31,loss,2,below,Elisha Ellison,1264.0972800680256,33
+Felipe Franco,Heavyweight,1385.707044401231,31,loss,3,above,Guilherme Pat,1389.850771774874,30
+Allen Frye Jr.,Heavyweight,1287.687552061223,32,loss,1,below,Elisha Ellison,1264.0972800680256,33
+Allen Frye Jr.,Heavyweight,1287.687552061223,32,loss,2,below,Max Gimenis,1264.0972800680256,34
+Allen Frye Jr.,Heavyweight,1287.687552061223,32,loss,3,above,Felipe Franco,1385.707044401231,31
+Elisha Ellison,Heavyweight,1264.0972800680256,33,loss,1,below,Max Gimenis,1264.0972800680256,34
+Elisha Ellison,Heavyweight,1264.0972800680256,33,loss,2,below,Louie Sutherland,1213.458174929078,35
+Elisha Ellison,Heavyweight,1264.0972800680256,33,loss,3,above,Allen Frye Jr.,1287.687552061223,32
+Max Gimenis,Heavyweight,1264.0972800680256,34,loss,1,below,Louie Sutherland,1213.458174929078,35
+Max Gimenis,Heavyweight,1264.0972800680256,34,loss,2,below,Sean Sharaf,1013.1741025037808,36
+Max Gimenis,Heavyweight,1264.0972800680256,34,loss,3,above,Elisha Ellison,1264.0972800680256,33
+Louie Sutherland,Heavyweight,1213.458174929078,35,loss,1,below,Sean Sharaf,1013.1741025037808,36
+Louie Sutherland,Heavyweight,1213.458174929078,35,loss,2,above,Max Gimenis,1264.0972800680256,34
+Sean Sharaf,Heavyweight,1013.1741025037808,36,loss,1,above,Louie Sutherland,1213.458174929078,35
+Alex Pereira,Light Heavyweight,2231.48789945523,1,win,1,below,Magomed Ankalaev,2095.879454662057,2
+Magomed Ankalaev,Light Heavyweight,2095.879454662057,2,loss,1,below,Carlos Ulberg,2075.2961928320165,3
+Magomed Ankalaev,Light Heavyweight,2095.879454662057,2,loss,2,below,Jiri Prochazka,2056.11318585003,4
+Magomed Ankalaev,Light Heavyweight,2095.879454662057,2,loss,3,above,Alex Pereira,2231.48789945523,1
+Carlos Ulberg,Light Heavyweight,2075.2961928320165,3,win,1,above,Magomed Ankalaev,2095.879454662057,2
+Carlos Ulberg,Light Heavyweight,2075.2961928320165,3,win,2,above,Alex Pereira,2231.48789945523,1
+Carlos Ulberg,Light Heavyweight,2075.2961928320165,3,win,3,below,Jiri Prochazka,2056.11318585003,4
+Jiri Prochazka,Light Heavyweight,2056.11318585003,4,loss,1,below,Jan Blachowicz,1985.6004083979224,5
+Jiri Prochazka,Light Heavyweight,2056.11318585003,4,loss,2,below,Paulo Costa,1984.296317443376,6
+Jiri Prochazka,Light Heavyweight,2056.11318585003,4,loss,3,above,Carlos Ulberg,2075.2961928320165,3
+Jan Blachowicz,Light Heavyweight,1985.6004083979224,5,win,1,above,Jiri Prochazka,2056.11318585003,4
+Jan Blachowicz,Light Heavyweight,1985.6004083979224,5,win,2,above,Carlos Ulberg,2075.2961928320165,3
+Jan Blachowicz,Light Heavyweight,1985.6004083979224,5,win,3,below,Paulo Costa,1984.296317443376,6
+Paulo Costa,Light Heavyweight,1984.296317443376,6,win,1,above,Jan Blachowicz,1985.6004083979224,5
+Paulo Costa,Light Heavyweight,1984.296317443376,6,win,2,above,Jiri Prochazka,2056.11318585003,4
+Paulo Costa,Light Heavyweight,1984.296317443376,6,win,3,below,Bogdan Guskov,1941.9216905833575,7
+Bogdan Guskov,Light Heavyweight,1941.9216905833575,7,win,1,above,Paulo Costa,1984.296317443376,6
+Bogdan Guskov,Light Heavyweight,1941.9216905833575,7,win,2,above,Jan Blachowicz,1985.6004083979224,5
+Bogdan Guskov,Light Heavyweight,1941.9216905833575,7,win,3,below,Dominick Reyes,1934.5906498905535,8
+Dominick Reyes,Light Heavyweight,1934.5906498905535,8,win,1,above,Bogdan Guskov,1941.9216905833575,7
+Dominick Reyes,Light Heavyweight,1934.5906498905535,8,win,2,above,Paulo Costa,1984.296317443376,6
+Dominick Reyes,Light Heavyweight,1934.5906498905535,8,win,3,below,Azamat Murzakanov,1906.2672592256413,9
+Azamat Murzakanov,Light Heavyweight,1906.2672592256413,9,loss,1,below,Volkan Oezdemir,1858.2779145291504,10
+Azamat Murzakanov,Light Heavyweight,1906.2672592256413,9,loss,2,below,Jamahal Hill,1852.576521321104,11
+Azamat Murzakanov,Light Heavyweight,1906.2672592256413,9,loss,3,above,Dominick Reyes,1934.5906498905535,8
+Volkan Oezdemir,Light Heavyweight,1858.2779145291504,10,win,1,above,Azamat Murzakanov,1906.2672592256413,9
+Volkan Oezdemir,Light Heavyweight,1858.2779145291504,10,win,2,above,Dominick Reyes,1934.5906498905535,8
+Volkan Oezdemir,Light Heavyweight,1858.2779145291504,10,win,3,below,Jamahal Hill,1852.576521321104,11
+Jamahal Hill,Light Heavyweight,1852.576521321104,11,loss,1,below,Nikita Krylov,1826.434383560436,12
+Jamahal Hill,Light Heavyweight,1852.576521321104,11,loss,2,below,Khalil Rountree Jr.,1823.3780700923664,13
+Jamahal Hill,Light Heavyweight,1852.576521321104,11,loss,3,above,Volkan Oezdemir,1858.2779145291504,10
+Nikita Krylov,Light Heavyweight,1826.434383560436,12,win,1,above,Jamahal Hill,1852.576521321104,11
+Nikita Krylov,Light Heavyweight,1826.434383560436,12,win,2,above,Volkan Oezdemir,1858.2779145291504,10
+Nikita Krylov,Light Heavyweight,1826.434383560436,12,win,3,below,Khalil Rountree Jr.,1823.3780700923664,13
+Khalil Rountree Jr.,Light Heavyweight,1823.3780700923664,13,loss,1,below,Aleksandar Rakic,1807.9235886134672,14
+Khalil Rountree Jr.,Light Heavyweight,1823.3780700923664,13,loss,2,below,Johnny Walker,1802.0859883667329,15
+Khalil Rountree Jr.,Light Heavyweight,1823.3780700923664,13,loss,3,above,Nikita Krylov,1826.434383560436,12
+Aleksandar Rakic,Light Heavyweight,1807.9235886134672,14,loss,1,below,Johnny Walker,1802.0859883667329,15
+Aleksandar Rakic,Light Heavyweight,1807.9235886134672,14,loss,2,below,Navajo Stirling,1786.3863688959932,16
+Aleksandar Rakic,Light Heavyweight,1807.9235886134672,14,loss,3,above,Khalil Rountree Jr.,1823.3780700923664,13
+Johnny Walker,Light Heavyweight,1802.0859883667329,15,loss,1,below,Navajo Stirling,1786.3863688959932,16
+Johnny Walker,Light Heavyweight,1802.0859883667329,15,loss,2,below,Dustin Jacoby,1761.718161630659,17
+Johnny Walker,Light Heavyweight,1802.0859883667329,15,loss,3,above,Aleksandar Rakic,1807.9235886134672,14
+Navajo Stirling,Light Heavyweight,1786.3863688959932,16,win,1,above,Johnny Walker,1802.0859883667329,15
+Navajo Stirling,Light Heavyweight,1786.3863688959932,16,win,2,above,Aleksandar Rakic,1807.9235886134672,14
+Navajo Stirling,Light Heavyweight,1786.3863688959932,16,win,3,below,Dustin Jacoby,1761.718161630659,17
+Dustin Jacoby,Light Heavyweight,1761.718161630659,17,win,1,above,Navajo Stirling,1786.3863688959932,16
+Dustin Jacoby,Light Heavyweight,1761.718161630659,17,win,2,above,Johnny Walker,1802.0859883667329,15
+Dustin Jacoby,Light Heavyweight,1761.718161630659,17,win,3,below,Zhang Mingyang,1745.425037475128,18
+Zhang Mingyang,Light Heavyweight,1745.425037475128,18,loss,1,below,Alonzo Menifield,1727.7362353169751,19
+Zhang Mingyang,Light Heavyweight,1745.425037475128,18,loss,2,below,Modestas Bukauskas,1675.2451952758538,20
+Zhang Mingyang,Light Heavyweight,1745.425037475128,18,loss,3,above,Dustin Jacoby,1761.718161630659,17
+Alonzo Menifield,Light Heavyweight,1727.7362353169751,19,loss,1,below,Modestas Bukauskas,1675.2451952758538,20
+Alonzo Menifield,Light Heavyweight,1727.7362353169751,19,loss,2,below,Billy Elekana,1670.96787800092,21
+Alonzo Menifield,Light Heavyweight,1727.7362353169751,19,loss,3,above,Zhang Mingyang,1745.425037475128,18
+Modestas Bukauskas,Light Heavyweight,1675.2451952758538,20,loss,1,below,Billy Elekana,1670.96787800092,21
+Modestas Bukauskas,Light Heavyweight,1675.2451952758538,20,loss,2,below,Abdul Rakhman Yakhyaev,1642.1305926295277,22
+Modestas Bukauskas,Light Heavyweight,1675.2451952758538,20,loss,3,above,Alonzo Menifield,1727.7362353169751,19
+Billy Elekana,Light Heavyweight,1670.96787800092,21,win,1,above,Modestas Bukauskas,1675.2451952758538,20
+Billy Elekana,Light Heavyweight,1670.96787800092,21,win,2,above,Alonzo Menifield,1727.7362353169751,19
+Billy Elekana,Light Heavyweight,1670.96787800092,21,win,3,below,Abdul Rakhman Yakhyaev,1642.1305926295277,22
+Abdul Rakhman Yakhyaev,Light Heavyweight,1642.1305926295277,22,win,1,above,Billy Elekana,1670.96787800092,21
+Abdul Rakhman Yakhyaev,Light Heavyweight,1642.1305926295277,22,win,2,above,Modestas Bukauskas,1675.2451952758538,20
+Abdul Rakhman Yakhyaev,Light Heavyweight,1642.1305926295277,22,win,3,below,Iwo Baraniewski,1640.3732834270563,23
+Iwo Baraniewski,Light Heavyweight,1640.3732834270563,23,win,1,above,Abdul Rakhman Yakhyaev,1642.1305926295277,22
+Iwo Baraniewski,Light Heavyweight,1640.3732834270563,23,win,2,above,Billy Elekana,1670.96787800092,21
+Iwo Baraniewski,Light Heavyweight,1640.3732834270563,23,win,3,below,Jimmy Crute,1632.0336857725044,24
+Jimmy Crute,Light Heavyweight,1632.0336857725044,24,win,1,above,Iwo Baraniewski,1640.3732834270563,23
+Jimmy Crute,Light Heavyweight,1632.0336857725044,24,win,2,above,Abdul Rakhman Yakhyaev,1642.1305926295277,22
+Jimmy Crute,Light Heavyweight,1632.0336857725044,24,win,3,below,Ion Cutelaba,1615.2571423700836,25
+Ion Cutelaba,Light Heavyweight,1615.2571423700836,25,win,1,above,Jimmy Crute,1632.0336857725044,24
+Ion Cutelaba,Light Heavyweight,1615.2571423700836,25,win,2,above,Iwo Baraniewski,1640.3732834270563,23
+Ion Cutelaba,Light Heavyweight,1615.2571423700836,25,win,3,below,Rodolfo Bellato,1604.7665916381552,26
+Rodolfo Bellato,Light Heavyweight,1604.7665916381552,26,win,1,above,Ion Cutelaba,1615.2571423700836,25
+Rodolfo Bellato,Light Heavyweight,1604.7665916381552,26,win,2,above,Jimmy Crute,1632.0336857725044,24
+Rodolfo Bellato,Light Heavyweight,1604.7665916381552,26,win,3,below,Oumar Sy,1527.9879993911252,27
+Oumar Sy,Light Heavyweight,1527.9879993911252,27,loss,1,below,Uran Satybaldiev,1461.8647087186,28
+Oumar Sy,Light Heavyweight,1527.9879993911252,27,loss,2,below,Tuco Tokkos,1428.462619665858,29
+Oumar Sy,Light Heavyweight,1527.9879993911252,27,loss,3,above,Rodolfo Bellato,1604.7665916381552,26
+Uran Satybaldiev,Light Heavyweight,1461.8647087186,28,win,1,above,Oumar Sy,1527.9879993911252,27
+Uran Satybaldiev,Light Heavyweight,1461.8647087186,28,win,2,above,Rodolfo Bellato,1604.7665916381552,26
+Uran Satybaldiev,Light Heavyweight,1461.8647087186,28,win,3,below,Tuco Tokkos,1428.462619665858,29
+Tuco Tokkos,Light Heavyweight,1428.462619665858,29,win,1,above,Uran Satybaldiev,1461.8647087186,28
+Tuco Tokkos,Light Heavyweight,1428.462619665858,29,win,2,above,Oumar Sy,1527.9879993911252,27
+Tuco Tokkos,Light Heavyweight,1428.462619665858,29,win,3,below,Bruno Lopes,1387.9788164384258,30
+Bruno Lopes,Light Heavyweight,1387.9788164384258,30,loss,1,below,Julius Walker,1325.7982713295764,31
+Bruno Lopes,Light Heavyweight,1387.9788164384258,30,loss,2,below,Diyar Nurgozhay,1325.7813340366356,32
+Bruno Lopes,Light Heavyweight,1387.9788164384258,30,loss,3,above,Tuco Tokkos,1428.462619665858,29
+Julius Walker,Light Heavyweight,1325.7982713295764,31,loss,1,below,Diyar Nurgozhay,1325.7813340366356,32
+Julius Walker,Light Heavyweight,1325.7982713295764,31,loss,2,below,Brendson Ribeiro,1268.9627760647095,33
+Julius Walker,Light Heavyweight,1325.7982713295764,31,loss,3,above,Bruno Lopes,1387.9788164384258,30
+Diyar Nurgozhay,Light Heavyweight,1325.7813340366356,32,win,1,above,Julius Walker,1325.7982713295764,31
+Diyar Nurgozhay,Light Heavyweight,1325.7813340366356,32,win,2,above,Bruno Lopes,1387.9788164384258,30
+Diyar Nurgozhay,Light Heavyweight,1325.7813340366356,32,win,3,below,Brendson Ribeiro,1268.9627760647095,33
+Brendson Ribeiro,Light Heavyweight,1268.9627760647095,33,loss,1,below,Kevin Christian,1252.1147355850972,34
+Brendson Ribeiro,Light Heavyweight,1268.9627760647095,33,loss,2,below,Luke Fernandez,1228.3811109099374,35
+Brendson Ribeiro,Light Heavyweight,1268.9627760647095,33,loss,3,above,Diyar Nurgozhay,1325.7813340366356,32
+Kevin Christian,Light Heavyweight,1252.1147355850972,34,loss,1,below,Luke Fernandez,1228.3811109099374,35
+Kevin Christian,Light Heavyweight,1252.1147355850972,34,loss,2,below,Ibo Aslan,1198.8631511192568,36
+Kevin Christian,Light Heavyweight,1252.1147355850972,34,loss,3,above,Brendson Ribeiro,1268.9627760647095,33
+Luke Fernandez,Light Heavyweight,1228.3811109099374,35,loss,1,below,Ibo Aslan,1198.8631511192568,36
+Luke Fernandez,Light Heavyweight,1228.3811109099374,35,loss,2,below,Junior Tafa,1173.0235442335752,37
+Luke Fernandez,Light Heavyweight,1228.3811109099374,35,loss,3,above,Kevin Christian,1252.1147355850972,34
+Ibo Aslan,Light Heavyweight,1198.8631511192568,36,loss,1,below,Junior Tafa,1173.0235442335752,37
+Ibo Aslan,Light Heavyweight,1198.8631511192568,36,loss,2,below,Rafael Tobias,1112.6405416868226,38
+Ibo Aslan,Light Heavyweight,1198.8631511192568,36,loss,3,above,Luke Fernandez,1228.3811109099374,35
+Junior Tafa,Light Heavyweight,1173.0235442335752,37,loss,1,below,Rafael Tobias,1112.6405416868226,38
+Junior Tafa,Light Heavyweight,1173.0235442335752,37,loss,2,below,Austen Lane,1098.497191370158,39
+Junior Tafa,Light Heavyweight,1173.0235442335752,37,loss,3,above,Ibo Aslan,1198.8631511192568,36
+Rafael Tobias,Light Heavyweight,1112.6405416868226,38,loss,1,below,Austen Lane,1098.497191370158,39
+Rafael Tobias,Light Heavyweight,1112.6405416868226,38,loss,2,below,Ivan Erslan,1059.071224234939,40
+Rafael Tobias,Light Heavyweight,1112.6405416868226,38,loss,3,above,Junior Tafa,1173.0235442335752,37
+Austen Lane,Light Heavyweight,1098.497191370158,39,loss,1,below,Ivan Erslan,1059.071224234939,40
+Austen Lane,Light Heavyweight,1098.497191370158,39,loss,2,above,Rafael Tobias,1112.6405416868226,38
+Ivan Erslan,Light Heavyweight,1059.071224234939,40,loss,1,above,Austen Lane,1098.497191370158,39
+Ilia Topuria,Lightweight,2276.658350137852,1,win,1,below,Justin Gaethje,2127.1170592667354,2
+Justin Gaethje,Lightweight,2127.1170592667354,2,win,1,above,Ilia Topuria,2276.658350137852,1
+Justin Gaethje,Lightweight,2127.1170592667354,2,win,2,below,Arman Tsarukyan,2120.4074466680936,3
+Arman Tsarukyan,Lightweight,2120.4074466680936,3,win,1,above,Justin Gaethje,2127.1170592667354,2
+Arman Tsarukyan,Lightweight,2120.4074466680936,3,win,2,above,Ilia Topuria,2276.658350137852,1
+Arman Tsarukyan,Lightweight,2120.4074466680936,3,win,3,below,Max Holloway,2115.9402495423983,4
+Max Holloway,Lightweight,2115.9402495423983,4,loss,1,below,Charles Oliveira,2064.6627297589357,5
+Max Holloway,Lightweight,2115.9402495423983,4,loss,2,below,Benoit Saint Denis,2006.6979705183,6
+Max Holloway,Lightweight,2115.9402495423983,4,loss,3,above,Arman Tsarukyan,2120.4074466680936,3
+Charles Oliveira,Lightweight,2064.6627297589357,5,win,1,above,Max Holloway,2115.9402495423983,4
+Charles Oliveira,Lightweight,2064.6627297589357,5,win,2,above,Arman Tsarukyan,2120.4074466680936,3
+Charles Oliveira,Lightweight,2064.6627297589357,5,win,3,below,Benoit Saint Denis,2006.6979705183,6
+Benoit Saint Denis,Lightweight,2006.6979705183,6,win,1,above,Charles Oliveira,2064.6627297589357,5
+Benoit Saint Denis,Lightweight,2006.6979705183,6,win,2,above,Max Holloway,2115.9402495423983,4
+Benoit Saint Denis,Lightweight,2006.6979705183,6,win,3,below,Mateusz Gamrot,2004.873905093888,7
+Mateusz Gamrot,Lightweight,2004.873905093888,7,win,1,above,Benoit Saint Denis,2006.6979705183,6
+Mateusz Gamrot,Lightweight,2004.873905093888,7,win,2,above,Charles Oliveira,2064.6627297589357,5
+Mateusz Gamrot,Lightweight,2004.873905093888,7,win,3,below,Paddy Pimblett,1972.6167207092917,8
+Paddy Pimblett,Lightweight,1972.6167207092917,8,loss,1,below,Grant Dawson,1947.171558048333,9
+Paddy Pimblett,Lightweight,1972.6167207092917,8,loss,2,below,Beneil Dariush,1944.5448336870772,10
+Paddy Pimblett,Lightweight,1972.6167207092917,8,loss,3,above,Mateusz Gamrot,2004.873905093888,7
+Grant Dawson,Lightweight,1947.171558048333,9,loss,1,below,Beneil Dariush,1944.5448336870772,10
+Grant Dawson,Lightweight,1947.171558048333,9,loss,2,below,Renato Moicano,1924.8740406655231,11
+Grant Dawson,Lightweight,1947.171558048333,9,loss,3,above,Paddy Pimblett,1972.6167207092917,8
+Beneil Dariush,Lightweight,1944.5448336870772,10,loss,1,below,Renato Moicano,1924.8740406655231,11
+Beneil Dariush,Lightweight,1944.5448336870772,10,loss,2,below,Manuel Torres,1906.60154978762,12
+Beneil Dariush,Lightweight,1944.5448336870772,10,loss,3,above,Grant Dawson,1947.171558048333,9
+Renato Moicano,Lightweight,1924.8740406655231,11,win,1,above,Beneil Dariush,1944.5448336870772,10
+Renato Moicano,Lightweight,1924.8740406655231,11,win,2,above,Grant Dawson,1947.171558048333,9
+Renato Moicano,Lightweight,1924.8740406655231,11,win,3,below,Manuel Torres,1906.60154978762,12
+Manuel Torres,Lightweight,1906.60154978762,12,win,1,above,Renato Moicano,1924.8740406655231,11
+Manuel Torres,Lightweight,1906.60154978762,12,win,2,above,Beneil Dariush,1944.5448336870772,10
+Manuel Torres,Lightweight,1906.60154978762,12,win,3,below,Fares Ziam,1906.2901610617384,13
+Fares Ziam,Lightweight,1906.2901610617384,13,win,1,above,Manuel Torres,1906.60154978762,12
+Fares Ziam,Lightweight,1906.2901610617384,13,win,2,above,Renato Moicano,1924.8740406655231,11
+Fares Ziam,Lightweight,1906.2901610617384,13,win,3,below,Quillan Salkilld,1904.927078636474,14
+Quillan Salkilld,Lightweight,1904.927078636474,14,win,1,above,Fares Ziam,1906.2901610617384,13
+Quillan Salkilld,Lightweight,1904.927078636474,14,win,2,above,Manuel Torres,1906.60154978762,12
+Quillan Salkilld,Lightweight,1904.927078636474,14,win,3,below,Mauricio Ruffy,1885.3244819228876,15
+Mauricio Ruffy,Lightweight,1885.3244819228876,15,win,1,above,Quillan Salkilld,1904.927078636474,14
+Mauricio Ruffy,Lightweight,1885.3244819228876,15,win,2,above,Fares Ziam,1906.2901610617384,13
+Mauricio Ruffy,Lightweight,1885.3244819228876,15,win,3,below,Drakkar Klose,1876.486175710917,16
+Drakkar Klose,Lightweight,1876.486175710917,16,win,1,above,Mauricio Ruffy,1885.3244819228876,15
+Drakkar Klose,Lightweight,1876.486175710917,16,win,2,above,Quillan Salkilld,1904.927078636474,14
+Drakkar Klose,Lightweight,1876.486175710917,16,win,3,below,Dan Hooker,1873.418308713364,17
+Dan Hooker,Lightweight,1873.418308713364,17,loss,1,below,Rafael Fiziev,1855.1094679955645,18
+Dan Hooker,Lightweight,1873.418308713364,17,loss,2,below,Rafa Garcia,1843.8042819146565,19
+Dan Hooker,Lightweight,1873.418308713364,17,loss,3,above,Drakkar Klose,1876.486175710917,16
+Rafael Fiziev,Lightweight,1855.1094679955645,18,loss,1,below,Rafa Garcia,1843.8042819146565,19
+Rafael Fiziev,Lightweight,1855.1094679955645,18,loss,2,below,Ludovit Klein,1835.7422225980847,20
+Rafael Fiziev,Lightweight,1855.1094679955645,18,loss,3,above,Dan Hooker,1873.418308713364,17
+Rafa Garcia,Lightweight,1843.8042819146565,19,win,1,above,Rafael Fiziev,1855.1094679955645,18
+Rafa Garcia,Lightweight,1843.8042819146565,19,win,2,above,Dan Hooker,1873.418308713364,17
+Rafa Garcia,Lightweight,1843.8042819146565,19,win,3,below,Ludovit Klein,1835.7422225980847,20
+Ludovit Klein,Lightweight,1835.7422225980847,20,win,1,above,Rafa Garcia,1843.8042819146565,19
+Ludovit Klein,Lightweight,1835.7422225980847,20,win,2,above,Rafael Fiziev,1855.1094679955645,18
+Ludovit Klein,Lightweight,1835.7422225980847,20,win,3,below,Nurullo Aliev,1812.555887381298,21
+Nurullo Aliev,Lightweight,1812.555887381298,21,win,1,above,Ludovit Klein,1835.7422225980847,20
+Nurullo Aliev,Lightweight,1812.555887381298,21,win,2,above,Rafa Garcia,1843.8042819146565,19
+Nurullo Aliev,Lightweight,1812.555887381298,21,win,3,below,Chris Padilla,1800.5214549159352,22
+Chris Padilla,Lightweight,1800.5214549159352,22,win,1,above,Nurullo Aliev,1812.555887381298,21
+Chris Padilla,Lightweight,1800.5214549159352,22,win,2,above,Ludovit Klein,1835.7422225980847,20
+Chris Padilla,Lightweight,1800.5214549159352,22,win,3,below,Edson Barboza,1797.8389055134078,23
+Edson Barboza,Lightweight,1797.8389055134078,23,loss,1,below,King Green,1794.9288645294814,24
+Edson Barboza,Lightweight,1797.8389055134078,23,loss,2,below,Diego Ferreira,1794.9273337133752,25
+Edson Barboza,Lightweight,1797.8389055134078,23,loss,3,above,Chris Padilla,1800.5214549159352,22
+King Green,Lightweight,1794.9288645294814,24,win,1,above,Edson Barboza,1797.8389055134078,23
+King Green,Lightweight,1794.9288645294814,24,win,2,above,Chris Padilla,1800.5214549159352,22
+King Green,Lightweight,1794.9288645294814,24,win,3,below,Diego Ferreira,1794.9273337133752,25
+Diego Ferreira,Lightweight,1794.9273337133752,25,loss,1,below,Nasrat Haqparast,1793.3553349564231,26
+Diego Ferreira,Lightweight,1794.9273337133752,25,loss,2,below,Mason Jones,1792.696343828077,27
+Diego Ferreira,Lightweight,1794.9273337133752,25,loss,3,above,King Green,1794.9288645294814,24
+Nasrat Haqparast,Lightweight,1793.3553349564231,26,loss,1,below,Mason Jones,1792.696343828077,27
+Nasrat Haqparast,Lightweight,1793.3553349564231,26,loss,2,below,Chris Duncan,1788.3129979044493,28
+Nasrat Haqparast,Lightweight,1793.3553349564231,26,loss,3,above,Diego Ferreira,1794.9273337133752,25
+Mason Jones,Lightweight,1792.696343828077,27,win,1,above,Nasrat Haqparast,1793.3553349564231,26
+Mason Jones,Lightweight,1792.696343828077,27,win,2,above,Diego Ferreira,1794.9273337133752,25
+Mason Jones,Lightweight,1792.696343828077,27,win,3,below,Chris Duncan,1788.3129979044493,28
+Chris Duncan,Lightweight,1788.3129979044493,28,loss,1,below,Jalin Turner,1787.0570070893054,29
+Chris Duncan,Lightweight,1788.3129979044493,28,loss,2,below,Tofiq Musayev,1774.8759042351203,30
+Chris Duncan,Lightweight,1788.3129979044493,28,loss,3,above,Mason Jones,1792.696343828077,27
+Jalin Turner,Lightweight,1787.0570070893054,29,win,1,above,Chris Duncan,1788.3129979044493,28
+Jalin Turner,Lightweight,1787.0570070893054,29,win,2,above,Mason Jones,1792.696343828077,27
+Jalin Turner,Lightweight,1787.0570070893054,29,win,3,below,Tofiq Musayev,1774.8759042351203,30
+Tofiq Musayev,Lightweight,1774.8759042351203,30,win,1,above,Jalin Turner,1787.0570070893054,29
+Tofiq Musayev,Lightweight,1774.8759042351203,30,win,2,above,Chris Duncan,1788.3129979044493,28
+Tofiq Musayev,Lightweight,1774.8759042351203,30,win,3,below,Alexander Hernandez,1763.2739499955494,31
+Alexander Hernandez,Lightweight,1763.2739499955494,31,win,1,above,Tofiq Musayev,1774.8759042351203,30
+Alexander Hernandez,Lightweight,1763.2739499955494,31,win,2,above,Jalin Turner,1787.0570070893054,29
+Alexander Hernandez,Lightweight,1763.2739499955494,31,win,3,below,MarQuel Mederos,1759.8011830467271,32
+MarQuel Mederos,Lightweight,1759.8011830467271,32,win,1,above,Alexander Hernandez,1763.2739499955494,31
+MarQuel Mederos,Lightweight,1759.8011830467271,32,win,2,above,Tofiq Musayev,1774.8759042351203,30
+MarQuel Mederos,Lightweight,1759.8011830467271,32,win,3,below,Drew Dober,1738.4255654370652,33
+Drew Dober,Lightweight,1738.4255654370652,33,win,1,above,MarQuel Mederos,1759.8011830467271,32
+Drew Dober,Lightweight,1738.4255654370652,33,win,2,above,Alexander Hernandez,1763.2739499955494,31
+Drew Dober,Lightweight,1738.4255654370652,33,win,3,below,Jim Miller,1736.436829355288,34
+Jim Miller,Lightweight,1736.436829355288,34,loss,1,below,Nazim Sadykhov,1734.468217809113,35
+Jim Miller,Lightweight,1736.436829355288,34,loss,2,below,Lance Gibson Jr.,1727.618831483038,36
+Jim Miller,Lightweight,1736.436829355288,34,loss,3,above,Drew Dober,1738.4255654370652,33
+Nazim Sadykhov,Lightweight,1734.468217809113,35,loss,1,below,Lance Gibson Jr.,1727.618831483038,36
+Nazim Sadykhov,Lightweight,1734.468217809113,35,loss,2,below,Jared Gordon,1725.151891551996,37
+Nazim Sadykhov,Lightweight,1734.468217809113,35,loss,3,above,Jim Miller,1736.436829355288,34
+Lance Gibson Jr.,Lightweight,1727.618831483038,36,win,1,above,Nazim Sadykhov,1734.468217809113,35
+Lance Gibson Jr.,Lightweight,1727.618831483038,36,win,2,above,Jim Miller,1736.436829355288,34
+Lance Gibson Jr.,Lightweight,1727.618831483038,36,win,3,below,Jared Gordon,1725.151891551996,37
+Jared Gordon,Lightweight,1725.151891551996,37,loss,1,below,Esteban Ribovics,1719.3670781094715,38
+Jared Gordon,Lightweight,1725.151891551996,37,loss,2,below,Ignacio Bahamondes,1713.7113186147378,39
+Jared Gordon,Lightweight,1725.151891551996,37,loss,3,above,Lance Gibson Jr.,1727.618831483038,36
+Esteban Ribovics,Lightweight,1719.3670781094715,38,loss,1,below,Ignacio Bahamondes,1713.7113186147378,39
+Esteban Ribovics,Lightweight,1719.3670781094715,38,loss,2,below,Sodiq Yusuff,1712.476782335852,40
+Esteban Ribovics,Lightweight,1719.3670781094715,38,loss,3,above,Jared Gordon,1725.151891551996,37
+Ignacio Bahamondes,Lightweight,1713.7113186147378,39,loss,1,below,Sodiq Yusuff,1712.476782335852,40
+Ignacio Bahamondes,Lightweight,1713.7113186147378,39,loss,2,below,Joaquim Silva,1668.2655674453706,41
+Ignacio Bahamondes,Lightweight,1713.7113186147378,39,loss,3,above,Esteban Ribovics,1719.3670781094715,38
+Sodiq Yusuff,Lightweight,1712.476782335852,40,loss,1,below,Joaquim Silva,1668.2655674453706,41
+Sodiq Yusuff,Lightweight,1712.476782335852,40,loss,2,below,Mike Davis,1667.0586506159163,42
+Sodiq Yusuff,Lightweight,1712.476782335852,40,loss,3,above,Ignacio Bahamondes,1713.7113186147378,39
+Joaquim Silva,Lightweight,1668.2655674453706,41,win,1,above,Sodiq Yusuff,1712.476782335852,40
+Joaquim Silva,Lightweight,1668.2655674453706,41,win,2,above,Ignacio Bahamondes,1713.7113186147378,39
+Joaquim Silva,Lightweight,1668.2655674453706,41,win,3,below,Mike Davis,1667.0586506159163,42
+Mike Davis,Lightweight,1667.0586506159163,42,win,1,above,Joaquim Silva,1668.2655674453706,41
+Mike Davis,Lightweight,1667.0586506159163,42,win,2,above,Sodiq Yusuff,1712.476782335852,40
+Mike Davis,Lightweight,1667.0586506159163,42,win,3,below,Tom Nolan,1662.034617254135,43
+Tom Nolan,Lightweight,1662.034617254135,43,win,1,above,Mike Davis,1667.0586506159163,42
+Tom Nolan,Lightweight,1662.034617254135,43,win,2,above,Joaquim Silva,1668.2655674453706,41
+Tom Nolan,Lightweight,1662.034617254135,43,win,3,below,Terrance McKinney,1654.2251828904143,44
+Terrance McKinney,Lightweight,1654.2251828904143,44,win,1,above,Tom Nolan,1662.034617254135,43
+Terrance McKinney,Lightweight,1654.2251828904143,44,win,2,above,Mike Davis,1667.0586506159163,42
+Terrance McKinney,Lightweight,1654.2251828904143,44,win,3,below,Jeremy Stephens,1651.7970938429717,45
+Jeremy Stephens,Lightweight,1651.7970938429717,45,loss,1,below,Kyle Nelson,1651.686485580145,46
+Jeremy Stephens,Lightweight,1651.7970938429717,45,loss,2,below,Manoel Sousa,1649.5943484578806,47
+Jeremy Stephens,Lightweight,1651.7970938429717,45,loss,3,above,Terrance McKinney,1654.2251828904143,44
+Kyle Nelson,Lightweight,1651.686485580145,46,loss,1,below,Manoel Sousa,1649.5943484578806,47
+Kyle Nelson,Lightweight,1651.686485580145,46,loss,2,below,Dom Mar Fan,1645.990801323311,48
+Kyle Nelson,Lightweight,1651.686485580145,46,loss,3,above,Jeremy Stephens,1651.7970938429717,45
+Manoel Sousa,Lightweight,1649.5943484578806,47,win,1,above,Kyle Nelson,1651.686485580145,46
+Manoel Sousa,Lightweight,1649.5943484578806,47,win,2,above,Jeremy Stephens,1651.7970938429717,45
+Manoel Sousa,Lightweight,1649.5943484578806,47,win,3,below,Dom Mar Fan,1645.990801323311,48
+Dom Mar Fan,Lightweight,1645.990801323311,48,win,1,above,Manoel Sousa,1649.5943484578806,47
+Dom Mar Fan,Lightweight,1645.990801323311,48,win,2,above,Kyle Nelson,1651.686485580145,46
+Dom Mar Fan,Lightweight,1645.990801323311,48,win,3,below,Mateusz Rebecki,1644.0470244082949,49
+Mateusz Rebecki,Lightweight,1644.0470244082949,49,loss,1,below,Kaue Fernandes,1643.622558888765,50
+Mateusz Rebecki,Lightweight,1644.0470244082949,49,loss,2,below,Michael Chandler,1643.4882338424925,51
+Mateusz Rebecki,Lightweight,1644.0470244082949,49,loss,3,above,Dom Mar Fan,1645.990801323311,48
+Kaue Fernandes,Lightweight,1643.622558888765,50,win,1,above,Mateusz Rebecki,1644.0470244082949,49
+Kaue Fernandes,Lightweight,1643.622558888765,50,win,2,above,Dom Mar Fan,1645.990801323311,48
+Kaue Fernandes,Lightweight,1643.622558888765,50,win,3,below,Michael Chandler,1643.4882338424925,51
+Michael Chandler,Lightweight,1643.4882338424925,51,loss,1,below,Michael Johnson,1632.392932090737,52
+Michael Chandler,Lightweight,1643.4882338424925,51,loss,2,below,Gauge Young,1630.6862336258544,53
+Michael Chandler,Lightweight,1643.4882338424925,51,loss,3,above,Kaue Fernandes,1643.622558888765,50
+Michael Johnson,Lightweight,1632.392932090737,52,loss,1,below,Gauge Young,1630.6862336258544,53
+Michael Johnson,Lightweight,1632.392932090737,52,loss,2,below,Matt Frevola,1625.383886919111,54
+Michael Johnson,Lightweight,1632.392932090737,52,loss,3,above,Michael Chandler,1643.4882338424925,51
+Gauge Young,Lightweight,1630.6862336258544,53,win,1,above,Michael Johnson,1632.392932090737,52
+Gauge Young,Lightweight,1630.6862336258544,53,win,2,above,Michael Chandler,1643.4882338424925,51
+Gauge Young,Lightweight,1630.6862336258544,53,win,3,below,Matt Frevola,1625.383886919111,54
+Matt Frevola,Lightweight,1625.383886919111,54,loss,1,below,Thiago Moises,1607.5734994567922,55
+Matt Frevola,Lightweight,1625.383886919111,54,loss,2,below,Chase Hooper,1604.3366652656869,56
+Matt Frevola,Lightweight,1625.383886919111,54,loss,3,above,Gauge Young,1630.6862336258544,53
+Thiago Moises,Lightweight,1607.5734994567922,55,loss,1,below,Chase Hooper,1604.3366652656869,56
+Thiago Moises,Lightweight,1607.5734994567922,55,loss,2,below,Claudio Puelles,1580.8109774983177,57
+Thiago Moises,Lightweight,1607.5734994567922,55,loss,3,above,Matt Frevola,1625.383886919111,54
+Chase Hooper,Lightweight,1604.3366652656869,56,loss,1,below,Claudio Puelles,1580.8109774983177,57
+Chase Hooper,Lightweight,1604.3366652656869,56,loss,2,below,Trey Ogden,1558.882540231872,58
+Chase Hooper,Lightweight,1604.3366652656869,56,loss,3,above,Thiago Moises,1607.5734994567922,55
+Claudio Puelles,Lightweight,1580.8109774983177,57,loss,1,below,Trey Ogden,1558.882540231872,58
+Claudio Puelles,Lightweight,1580.8109774983177,57,loss,2,below,Elves Brener,1549.4833864868274,59
+Claudio Puelles,Lightweight,1580.8109774983177,57,loss,3,above,Chase Hooper,1604.3366652656869,56
+Trey Ogden,Lightweight,1558.882540231872,58,loss,1,below,Elves Brener,1549.4833864868274,59
+Trey Ogden,Lightweight,1558.882540231872,58,loss,2,below,Gabe Green,1539.8980450950578,60
+Trey Ogden,Lightweight,1558.882540231872,58,loss,3,above,Claudio Puelles,1580.8109774983177,57
+Elves Brener,Lightweight,1549.4833864868274,59,loss,1,below,Gabe Green,1539.8980450950578,60
+Elves Brener,Lightweight,1549.4833864868274,59,loss,2,below,Jai Herbert,1537.3694035311512,61
+Elves Brener,Lightweight,1549.4833864868274,59,loss,3,above,Trey Ogden,1558.882540231872,58
+Gabe Green,Lightweight,1539.8980450950578,60,win,1,above,Elves Brener,1549.4833864868274,59
+Gabe Green,Lightweight,1539.8980450950578,60,win,2,above,Trey Ogden,1558.882540231872,58
+Gabe Green,Lightweight,1539.8980450950578,60,win,3,below,Jai Herbert,1537.3694035311512,61
+Jai Herbert,Lightweight,1537.3694035311512,61,win,1,above,Gabe Green,1539.8980450950578,60
+Jai Herbert,Lightweight,1537.3694035311512,61,win,2,above,Elves Brener,1549.4833864868274,59
+Jai Herbert,Lightweight,1537.3694035311512,61,win,3,below,Jamie Mullarkey,1527.111559085095,62
+Jamie Mullarkey,Lightweight,1527.111559085095,62,loss,1,below,Charlie Campbell,1517.7620896910344,63
+Jamie Mullarkey,Lightweight,1527.111559085095,62,loss,2,below,Nikolas Motta,1512.9865491169328,64
+Jamie Mullarkey,Lightweight,1527.111559085095,62,loss,3,above,Jai Herbert,1537.3694035311512,61
+Charlie Campbell,Lightweight,1517.7620896910344,63,loss,1,below,Nikolas Motta,1512.9865491169328,64
+Charlie Campbell,Lightweight,1517.7620896910344,63,loss,2,below,Rongzhu,1511.8383571623274,65
+Charlie Campbell,Lightweight,1517.7620896910344,63,loss,3,above,Jamie Mullarkey,1527.111559085095,62
+Nikolas Motta,Lightweight,1512.9865491169328,64,loss,1,below,Rongzhu,1511.8383571623274,65
+Nikolas Motta,Lightweight,1512.9865491169328,64,loss,2,below,Ismael Bonfim,1508.7803809482634,66
+Nikolas Motta,Lightweight,1512.9865491169328,64,loss,3,above,Charlie Campbell,1517.7620896910344,63
+Rongzhu,Lightweight,1511.8383571623274,65,win,1,above,Nikolas Motta,1512.9865491169328,64
+Rongzhu,Lightweight,1511.8383571623274,65,win,2,above,Charlie Campbell,1517.7620896910344,63
+Rongzhu,Lightweight,1511.8383571623274,65,win,3,below,Ismael Bonfim,1508.7803809482634,66
+Ismael Bonfim,Lightweight,1508.7803809482634,66,loss,1,below,Daniel Zellhuber,1482.404318764988,67
+Ismael Bonfim,Lightweight,1508.7803809482634,66,loss,2,below,Axel Sola,1481.9349533120237,68
+Ismael Bonfim,Lightweight,1508.7803809482634,66,loss,3,above,Rongzhu,1511.8383571623274,65
+Daniel Zellhuber,Lightweight,1482.404318764988,67,loss,1,below,Axel Sola,1481.9349533120237,68
+Daniel Zellhuber,Lightweight,1482.404318764988,67,loss,2,below,Evan Elder,1468.3099449130334,69
+Daniel Zellhuber,Lightweight,1482.404318764988,67,loss,3,above,Ismael Bonfim,1508.7803809482634,66
+Axel Sola,Lightweight,1481.9349533120237,68,loss,1,below,Evan Elder,1468.3099449130334,69
+Axel Sola,Lightweight,1481.9349533120237,68,loss,2,below,Damir Hadzovic,1426.6767696895877,70
+Axel Sola,Lightweight,1481.9349533120237,68,loss,3,above,Daniel Zellhuber,1482.404318764988,67
+Evan Elder,Lightweight,1468.3099449130334,69,win,1,above,Axel Sola,1481.9349533120237,68
+Evan Elder,Lightweight,1468.3099449130334,69,win,2,above,Daniel Zellhuber,1482.404318764988,67
+Evan Elder,Lightweight,1468.3099449130334,69,win,3,below,Damir Hadzovic,1426.6767696895877,70
+Damir Hadzovic,Lightweight,1426.6767696895877,70,loss,1,below,Abdul-Kareem Al-Selwady,1423.70392688229,71
+Damir Hadzovic,Lightweight,1426.6767696895877,70,loss,2,below,Kai Kamaka III,1400.8185440596526,72
+Damir Hadzovic,Lightweight,1426.6767696895877,70,loss,3,above,Evan Elder,1468.3099449130334,69
+Abdul-Kareem Al-Selwady,Lightweight,1423.70392688229,71,win,1,above,Damir Hadzovic,1426.6767696895877,70
+Abdul-Kareem Al-Selwady,Lightweight,1423.70392688229,71,win,2,above,Evan Elder,1468.3099449130334,69
+Abdul-Kareem Al-Selwady,Lightweight,1423.70392688229,71,win,3,below,Kai Kamaka III,1400.8185440596526,72
+Kai Kamaka III,Lightweight,1400.8185440596526,72,win,1,above,Abdul-Kareem Al-Selwady,1423.70392688229,71
+Kai Kamaka III,Lightweight,1400.8185440596526,72,win,2,above,Damir Hadzovic,1426.6767696895877,70
+Kai Kamaka III,Lightweight,1400.8185440596526,72,win,3,below,Darrius Flowers,1392.9668621039752,73
+Darrius Flowers,Lightweight,1392.9668621039752,73,win,1,above,Kai Kamaka III,1400.8185440596526,72
+Darrius Flowers,Lightweight,1392.9668621039752,73,win,2,above,Abdul-Kareem Al-Selwady,1423.70392688229,71
+Darrius Flowers,Lightweight,1392.9668621039752,73,win,3,below,Matheus Camilo,1372.1937256161375,74
+Matheus Camilo,Lightweight,1372.1937256161375,74,win,1,above,Darrius Flowers,1392.9668621039752,73
+Matheus Camilo,Lightweight,1372.1937256161375,74,win,2,above,Kai Kamaka III,1400.8185440596526,72
+Matheus Camilo,Lightweight,1372.1937256161375,74,win,3,below,Bolaji Oki,1335.3612393448266,75
+Bolaji Oki,Lightweight,1335.3612393448266,75,loss,1,below,Mark Choinski,1330.2607302252843,76
+Bolaji Oki,Lightweight,1335.3612393448266,75,loss,2,below,Ottman Azaitar,1326.38292171039,77
+Bolaji Oki,Lightweight,1335.3612393448266,75,loss,3,above,Matheus Camilo,1372.1937256161375,74
+Mark Choinski,Lightweight,1330.2607302252843,76,loss,1,below,Ottman Azaitar,1326.38292171039,77
+Mark Choinski,Lightweight,1330.2607302252843,76,loss,2,below,Trevor Peek,1317.056433143277,78
+Mark Choinski,Lightweight,1330.2607302252843,76,loss,3,above,Bolaji Oki,1335.3612393448266,75
+Ottman Azaitar,Lightweight,1326.38292171039,77,loss,1,below,Trevor Peek,1317.056433143277,78
+Ottman Azaitar,Lightweight,1326.38292171039,77,loss,2,below,Lando Vannata,1294.4360670086062,79
+Ottman Azaitar,Lightweight,1326.38292171039,77,loss,3,above,Mark Choinski,1330.2607302252843,76
+Trevor Peek,Lightweight,1317.056433143277,78,loss,1,below,Lando Vannata,1294.4360670086062,79
+Trevor Peek,Lightweight,1317.056433143277,78,loss,2,below,Anshul Jubli,1239.4845179232937,80
+Trevor Peek,Lightweight,1317.056433143277,78,loss,3,above,Ottman Azaitar,1326.38292171039,77
+Lando Vannata,Lightweight,1294.4360670086062,79,loss,1,below,Anshul Jubli,1239.4845179232937,80
+Lando Vannata,Lightweight,1294.4360670086062,79,loss,2,below,Mitch Ramirez,1184.8707355948882,81
+Lando Vannata,Lightweight,1294.4360670086062,79,loss,3,above,Trevor Peek,1317.056433143277,78
+Anshul Jubli,Lightweight,1239.4845179232937,80,loss,1,below,Mitch Ramirez,1184.8707355948882,81
+Anshul Jubli,Lightweight,1239.4845179232937,80,loss,2,below,Mandel Nallo,1182.89819991827,82
+Anshul Jubli,Lightweight,1239.4845179232937,80,loss,3,above,Lando Vannata,1294.4360670086062,79
+Mitch Ramirez,Lightweight,1184.8707355948882,81,loss,1,below,Mandel Nallo,1182.89819991827,82
+Mitch Ramirez,Lightweight,1184.8707355948882,81,loss,2,below,Kody Steele,1155.5303645716813,83
+Mitch Ramirez,Lightweight,1184.8707355948882,81,loss,3,above,Anshul Jubli,1239.4845179232937,80
+Mandel Nallo,Lightweight,1182.89819991827,82,loss,1,below,Kody Steele,1155.5303645716813,83
+Mandel Nallo,Lightweight,1182.89819991827,82,loss,2,below,Dakota Hope,1137.9801438775094,84
+Mandel Nallo,Lightweight,1182.89819991827,82,loss,3,above,Mitch Ramirez,1184.8707355948882,81
+Kody Steele,Lightweight,1155.5303645716813,83,loss,1,below,Dakota Hope,1137.9801438775094,84
+Kody Steele,Lightweight,1155.5303645716813,83,loss,2,below,Shem Rock,1100.359422610685,85
+Kody Steele,Lightweight,1155.5303645716813,83,loss,3,above,Mandel Nallo,1182.89819991827,82
+Dakota Hope,Lightweight,1137.9801438775094,84,loss,1,below,Shem Rock,1100.359422610685,85
+Dakota Hope,Lightweight,1137.9801438775094,84,loss,2,below,Kyle Prepolec,1038.964527064528,86
+Dakota Hope,Lightweight,1137.9801438775094,84,loss,3,above,Kody Steele,1155.5303645716813,83
+Shem Rock,Lightweight,1100.359422610685,85,loss,1,below,Kyle Prepolec,1038.964527064528,86
+Shem Rock,Lightweight,1100.359422610685,85,loss,2,below,Alex Reyes,1034.545889581978,87
+Shem Rock,Lightweight,1100.359422610685,85,loss,3,above,Dakota Hope,1137.9801438775094,84
+Kyle Prepolec,Lightweight,1038.964527064528,86,loss,1,below,Alex Reyes,1034.545889581978,87
+Kyle Prepolec,Lightweight,1038.964527064528,86,loss,2,below,Victor Martinez,976.114546470374,88
+Kyle Prepolec,Lightweight,1038.964527064528,86,loss,3,above,Shem Rock,1100.359422610685,85
+Alex Reyes,Lightweight,1034.545889581978,87,loss,1,below,Victor Martinez,976.114546470374,88
+Alex Reyes,Lightweight,1034.545889581978,87,loss,2,above,Kyle Prepolec,1038.964527064528,86
+Victor Martinez,Lightweight,976.114546470374,88,loss,1,above,Alex Reyes,1034.545889581978,87
+Khamzat Chimaev,Middleweight,2217.024822597648,1,win,1,below,Dricus Du Plessis,2190.8313889426317,2
+Dricus Du Plessis,Middleweight,2190.8313889426317,2,loss,1,below,Nassourdine Imavov,2138.611851213768,3
+Dricus Du Plessis,Middleweight,2190.8313889426317,2,loss,2,below,Robert Whittaker,2084.1002995604904,4
+Dricus Du Plessis,Middleweight,2190.8313889426317,2,loss,3,above,Khamzat Chimaev,2217.024822597648,1
+Nassourdine Imavov,Middleweight,2138.611851213768,3,win,1,above,Dricus Du Plessis,2190.8313889426317,2
+Nassourdine Imavov,Middleweight,2138.611851213768,3,win,2,above,Khamzat Chimaev,2217.024822597648,1
+Nassourdine Imavov,Middleweight,2138.611851213768,3,win,3,below,Robert Whittaker,2084.1002995604904,4
+Robert Whittaker,Middleweight,2084.1002995604904,4,loss,1,below,Israel Adesanya,2058.604334200332,5
+Robert Whittaker,Middleweight,2084.1002995604904,4,loss,2,below,Caio Borralho,2046.586026836259,6
+Robert Whittaker,Middleweight,2084.1002995604904,4,loss,3,above,Nassourdine Imavov,2138.611851213768,3
+Israel Adesanya,Middleweight,2058.604334200332,5,loss,1,below,Caio Borralho,2046.586026836259,6
+Israel Adesanya,Middleweight,2058.604334200332,5,loss,2,below,Joe Pyfer,2044.880022158384,7
+Israel Adesanya,Middleweight,2058.604334200332,5,loss,3,above,Robert Whittaker,2084.1002995604904,4
+Caio Borralho,Middleweight,2046.586026836259,6,win,1,above,Israel Adesanya,2058.604334200332,5
+Caio Borralho,Middleweight,2046.586026836259,6,win,2,above,Robert Whittaker,2084.1002995604904,4
+Caio Borralho,Middleweight,2046.586026836259,6,win,3,below,Joe Pyfer,2044.880022158384,7
+Joe Pyfer,Middleweight,2044.880022158384,7,win,1,above,Caio Borralho,2046.586026836259,6
+Joe Pyfer,Middleweight,2044.880022158384,7,win,2,above,Israel Adesanya,2058.604334200332,5
+Joe Pyfer,Middleweight,2044.880022158384,7,win,3,below,Sean Strickland,2036.468558208652,8
+Sean Strickland,Middleweight,2036.468558208652,8,win,1,above,Joe Pyfer,2044.880022158384,7
+Sean Strickland,Middleweight,2036.468558208652,8,win,2,above,Caio Borralho,2046.586026836259,6
+Sean Strickland,Middleweight,2036.468558208652,8,win,3,below,Brendan Allen,2032.6244200432436,9
+Brendan Allen,Middleweight,2032.6244200432436,9,win,1,above,Sean Strickland,2036.468558208652,8
+Brendan Allen,Middleweight,2032.6244200432436,9,win,2,above,Joe Pyfer,2044.880022158384,7
+Brendan Allen,Middleweight,2032.6244200432436,9,win,3,below,Anthony Hernandez,2011.9066707734223,10
+Anthony Hernandez,Middleweight,2011.9066707734223,10,loss,1,below,Jared Cannonier,1969.231227940355,11
+Anthony Hernandez,Middleweight,2011.9066707734223,10,loss,2,below,Ikram Aliskerov,1948.9689408795584,12
+Anthony Hernandez,Middleweight,2011.9066707734223,10,loss,3,above,Brendan Allen,2032.6244200432436,9
+Jared Cannonier,Middleweight,1969.231227940355,11,loss,1,below,Ikram Aliskerov,1948.9689408795584,12
+Jared Cannonier,Middleweight,1969.231227940355,11,loss,2,below,Reinier de Ridder,1928.6281930905525,13
+Jared Cannonier,Middleweight,1969.231227940355,11,loss,3,above,Anthony Hernandez,2011.9066707734223,10
+Ikram Aliskerov,Middleweight,1948.9689408795584,12,win,1,above,Jared Cannonier,1969.231227940355,11
+Ikram Aliskerov,Middleweight,1948.9689408795584,12,win,2,above,Anthony Hernandez,2011.9066707734223,10
+Ikram Aliskerov,Middleweight,1948.9689408795584,12,win,3,below,Reinier de Ridder,1928.6281930905525,13
+Reinier de Ridder,Middleweight,1928.6281930905525,13,loss,1,below,Vicente Luque,1924.328619948745,14
+Reinier de Ridder,Middleweight,1928.6281930905525,13,loss,2,below,Gregory Rodrigues,1919.496794170729,15
+Reinier de Ridder,Middleweight,1928.6281930905525,13,loss,3,above,Ikram Aliskerov,1948.9689408795584,12
+Vicente Luque,Middleweight,1924.328619948745,14,win,1,above,Reinier de Ridder,1928.6281930905525,13
+Vicente Luque,Middleweight,1924.328619948745,14,win,2,above,Ikram Aliskerov,1948.9689408795584,12
+Vicente Luque,Middleweight,1924.328619948745,14,win,3,below,Gregory Rodrigues,1919.496794170729,15
+Gregory Rodrigues,Middleweight,1919.496794170729,15,win,1,above,Vicente Luque,1924.328619948745,14
+Gregory Rodrigues,Middleweight,1919.496794170729,15,win,2,above,Reinier de Ridder,1928.6281930905525,13
+Gregory Rodrigues,Middleweight,1919.496794170729,15,win,3,below,Yousri Belgaroui,1915.555142526812,16
+Yousri Belgaroui,Middleweight,1915.555142526812,16,win,1,above,Gregory Rodrigues,1919.496794170729,15
+Yousri Belgaroui,Middleweight,1915.555142526812,16,win,2,above,Vicente Luque,1924.328619948745,14
+Yousri Belgaroui,Middleweight,1915.555142526812,16,win,3,below,Kelvin Gastelum,1859.832042752185,17
+Kelvin Gastelum,Middleweight,1859.832042752185,17,loss,1,below,Roman Dolidze,1854.4975921219464,18
+Kelvin Gastelum,Middleweight,1859.832042752185,17,loss,2,below,Christian Leroy Duncan,1840.6906278155236,19
+Kelvin Gastelum,Middleweight,1859.832042752185,17,loss,3,above,Yousri Belgaroui,1915.555142526812,16
+Roman Dolidze,Middleweight,1854.4975921219464,18,loss,1,below,Christian Leroy Duncan,1840.6906278155236,19
+Roman Dolidze,Middleweight,1854.4975921219464,18,loss,2,below,Shara Magomedov,1837.9651162099503,20
+Roman Dolidze,Middleweight,1854.4975921219464,18,loss,3,above,Kelvin Gastelum,1859.832042752185,17
+Christian Leroy Duncan,Middleweight,1840.6906278155236,19,win,1,above,Roman Dolidze,1854.4975921219464,18
+Christian Leroy Duncan,Middleweight,1840.6906278155236,19,win,2,above,Kelvin Gastelum,1859.832042752185,17
+Christian Leroy Duncan,Middleweight,1840.6906278155236,19,win,3,below,Shara Magomedov,1837.9651162099503,20
+Shara Magomedov,Middleweight,1837.9651162099503,20,win,1,above,Christian Leroy Duncan,1840.6906278155236,19
+Shara Magomedov,Middleweight,1837.9651162099503,20,win,2,above,Roman Dolidze,1854.4975921219464,18
+Shara Magomedov,Middleweight,1837.9651162099503,20,win,3,below,Bo Nickal,1834.566509369104,21
+Bo Nickal,Middleweight,1834.566509369104,21,win,1,above,Shara Magomedov,1837.9651162099503,20
+Bo Nickal,Middleweight,1834.566509369104,21,win,2,above,Christian Leroy Duncan,1840.6906278155236,19
+Bo Nickal,Middleweight,1834.566509369104,21,win,3,below,Abus Magomedov,1817.6452364282088,22
+Abus Magomedov,Middleweight,1817.6452364282088,22,loss,1,below,Cam Rowston,1817.32181180708,23
+Abus Magomedov,Middleweight,1817.6452364282088,22,loss,2,below,Nursulton Ruziboev,1812.60896598077,24
+Abus Magomedov,Middleweight,1817.6452364282088,22,loss,3,above,Bo Nickal,1834.566509369104,21
+Cam Rowston,Middleweight,1817.32181180708,23,win,1,above,Abus Magomedov,1817.6452364282088,22
+Cam Rowston,Middleweight,1817.32181180708,23,win,2,above,Bo Nickal,1834.566509369104,21
+Cam Rowston,Middleweight,1817.32181180708,23,win,3,below,Nursulton Ruziboev,1812.60896598077,24
+Nursulton Ruziboev,Middleweight,1812.60896598077,24,win,1,above,Cam Rowston,1817.32181180708,23
+Nursulton Ruziboev,Middleweight,1812.60896598077,24,win,2,above,Abus Magomedov,1817.6452364282088,22
+Nursulton Ruziboev,Middleweight,1812.60896598077,24,win,3,below,Marvin Vettori,1803.319108188468,25
+Marvin Vettori,Middleweight,1803.319108188468,25,loss,1,below,Michel Pereira,1791.4995779481558,26
+Marvin Vettori,Middleweight,1803.319108188468,25,loss,2,below,Baisangur Susurkaev,1773.7169975864003,27
+Marvin Vettori,Middleweight,1803.319108188468,25,loss,3,above,Nursulton Ruziboev,1812.60896598077,24
+Michel Pereira,Middleweight,1791.4995779481558,26,win,1,above,Marvin Vettori,1803.319108188468,25
+Michel Pereira,Middleweight,1791.4995779481558,26,win,2,above,Nursulton Ruziboev,1812.60896598077,24
+Michel Pereira,Middleweight,1791.4995779481558,26,win,3,below,Baisangur Susurkaev,1773.7169975864003,27
+Baisangur Susurkaev,Middleweight,1773.7169975864003,27,win,1,above,Michel Pereira,1791.4995779481558,26
+Baisangur Susurkaev,Middleweight,1773.7169975864003,27,win,2,above,Marvin Vettori,1803.319108188468,25
+Baisangur Susurkaev,Middleweight,1773.7169975864003,27,win,3,below,Ateba Gautier,1762.6276736111226,28
+Ateba Gautier,Middleweight,1762.6276736111226,28,win,1,above,Baisangur Susurkaev,1773.7169975864003,27
+Ateba Gautier,Middleweight,1762.6276736111226,28,win,2,above,Michel Pereira,1791.4995779481558,26
+Ateba Gautier,Middleweight,1762.6276736111226,28,win,3,below,Brunno Ferreira,1759.7445406356514,29
+Brunno Ferreira,Middleweight,1759.7445406356514,29,loss,1,below,JunYong Park,1751.9020161437809,30
+Brunno Ferreira,Middleweight,1759.7445406356514,29,loss,2,below,Robert Bryczek,1743.5603717927188,31
+Brunno Ferreira,Middleweight,1759.7445406356514,29,loss,3,above,Ateba Gautier,1762.6276736111226,28
+JunYong Park,Middleweight,1751.9020161437809,30,loss,1,below,Robert Bryczek,1743.5603717927188,31
+JunYong Park,Middleweight,1751.9020161437809,30,loss,2,below,Edmen Shahbazyan,1741.3726545614695,32
+JunYong Park,Middleweight,1751.9020161437809,30,loss,3,above,Brunno Ferreira,1759.7445406356514,29
+Robert Bryczek,Middleweight,1743.5603717927188,31,win,1,above,JunYong Park,1751.9020161437809,30
+Robert Bryczek,Middleweight,1743.5603717927188,31,win,2,above,Brunno Ferreira,1759.7445406356514,29
+Robert Bryczek,Middleweight,1743.5603717927188,31,win,3,below,Edmen Shahbazyan,1741.3726545614695,32
+Edmen Shahbazyan,Middleweight,1741.3726545614695,32,win,1,above,Robert Bryczek,1743.5603717927188,31
+Edmen Shahbazyan,Middleweight,1741.3726545614695,32,win,2,above,JunYong Park,1751.9020161437809,30
+Edmen Shahbazyan,Middleweight,1741.3726545614695,32,win,3,below,Cezary Oleksiejczuk,1735.8274099601667,33
+Cezary Oleksiejczuk,Middleweight,1735.8274099601667,33,win,1,above,Edmen Shahbazyan,1741.3726545614695,32
+Cezary Oleksiejczuk,Middleweight,1735.8274099601667,33,win,2,above,Robert Bryczek,1743.5603717927188,31
+Cezary Oleksiejczuk,Middleweight,1735.8274099601667,33,win,3,below,Michal Oleksiejczuk,1714.1120813281982,34
+Michal Oleksiejczuk,Middleweight,1714.1120813281982,34,win,1,above,Cezary Oleksiejczuk,1735.8274099601667,33
+Michal Oleksiejczuk,Middleweight,1714.1120813281982,34,win,2,above,Edmen Shahbazyan,1741.3726545614695,32
+Michal Oleksiejczuk,Middleweight,1714.1120813281982,34,win,3,below,Jacob Malkoun,1713.3660811553516,35
+Jacob Malkoun,Middleweight,1713.3660811553516,35,win,1,above,Michal Oleksiejczuk,1714.1120813281982,34
+Jacob Malkoun,Middleweight,1713.3660811553516,35,win,2,above,Cezary Oleksiejczuk,1735.8274099601667,33
+Jacob Malkoun,Middleweight,1713.3660811553516,35,win,3,below,Kyle Daukaus,1712.9836187850249,36
+Kyle Daukaus,Middleweight,1712.9836187850249,36,win,1,above,Jacob Malkoun,1713.3660811553516,35
+Kyle Daukaus,Middleweight,1712.9836187850249,36,win,2,above,Michal Oleksiejczuk,1714.1120813281982,34
+Kyle Daukaus,Middleweight,1712.9836187850249,36,win,3,below,Roman Kopylov,1705.5079883958056,37
+Roman Kopylov,Middleweight,1705.5079883958056,37,loss,1,below,Ismail Naurdiev,1693.4443592385287,38
+Roman Kopylov,Middleweight,1705.5079883958056,37,loss,2,below,Donte Johnson,1687.1016351075668,39
+Roman Kopylov,Middleweight,1705.5079883958056,37,loss,3,above,Kyle Daukaus,1712.9836187850249,36
+Ismail Naurdiev,Middleweight,1693.4443592385287,38,win,1,above,Roman Kopylov,1705.5079883958056,37
+Ismail Naurdiev,Middleweight,1693.4443592385287,38,win,2,above,Kyle Daukaus,1712.9836187850249,36
+Ismail Naurdiev,Middleweight,1693.4443592385287,38,win,3,below,Donte Johnson,1687.1016351075668,39
+Donte Johnson,Middleweight,1687.1016351075668,39,win,1,above,Ismail Naurdiev,1693.4443592385287,38
+Donte Johnson,Middleweight,1687.1016351075668,39,win,2,above,Roman Kopylov,1705.5079883958056,37
+Donte Johnson,Middleweight,1687.1016351075668,39,win,3,below,Brad Tavares,1683.869462660319,40
+Brad Tavares,Middleweight,1683.869462660319,40,loss,1,below,Damian Pinas,1662.2120014703455,41
+Brad Tavares,Middleweight,1683.869462660319,40,loss,2,below,Aliaskhab Khizriev,1662.2120014703455,42
+Brad Tavares,Middleweight,1683.869462660319,40,loss,3,above,Donte Johnson,1687.1016351075668,39
+Damian Pinas,Middleweight,1662.2120014703455,41,win,1,above,Brad Tavares,1683.869462660319,40
+Damian Pinas,Middleweight,1662.2120014703455,41,win,2,above,Donte Johnson,1687.1016351075668,39
+Damian Pinas,Middleweight,1662.2120014703455,41,win,3,below,Aliaskhab Khizriev,1662.2120014703455,42
+Aliaskhab Khizriev,Middleweight,1662.2120014703455,42,loss,1,below,Rodolfo Vieira,1616.0861043606362,43
+Aliaskhab Khizriev,Middleweight,1662.2120014703455,42,loss,2,below,Mansur Abdul-Malik,1608.1619370225856,44
+Aliaskhab Khizriev,Middleweight,1662.2120014703455,42,loss,3,above,Damian Pinas,1662.2120014703455,41
+Rodolfo Vieira,Middleweight,1616.0861043606362,43,loss,1,below,Mansur Abdul-Malik,1608.1619370225856,44
+Rodolfo Vieira,Middleweight,1616.0861043606362,43,loss,2,below,Andre Petroski,1603.5960119354,45
+Rodolfo Vieira,Middleweight,1616.0861043606362,43,loss,3,above,Aliaskhab Khizriev,1662.2120014703455,42
+Mansur Abdul-Malik,Middleweight,1608.1619370225856,44,loss,1,below,Andre Petroski,1603.5960119354,45
+Mansur Abdul-Malik,Middleweight,1608.1619370225856,44,loss,2,below,Cesar Almeida,1559.919943653554,46
+Mansur Abdul-Malik,Middleweight,1608.1619370225856,44,loss,3,above,Rodolfo Vieira,1616.0861043606362,43
+Andre Petroski,Middleweight,1603.5960119354,45,loss,1,below,Cesar Almeida,1559.919943653554,46
+Andre Petroski,Middleweight,1603.5960119354,45,loss,2,below,Marco Tulio,1555.3312484626474,47
+Andre Petroski,Middleweight,1603.5960119354,45,loss,3,above,Mansur Abdul-Malik,1608.1619370225856,44
+Cesar Almeida,Middleweight,1559.919943653554,46,loss,1,below,Marco Tulio,1555.3312484626474,47
+Cesar Almeida,Middleweight,1559.919943653554,46,loss,2,below,Gerald Meerschaert,1550.004559422772,48
+Cesar Almeida,Middleweight,1559.919943653554,46,loss,3,above,Andre Petroski,1603.5960119354,45
+Marco Tulio,Middleweight,1555.3312484626474,47,loss,1,below,Gerald Meerschaert,1550.004559422772,48
+Marco Tulio,Middleweight,1555.3312484626474,47,loss,2,below,Mantas Kondratavicius,1537.288172702556,49
+Marco Tulio,Middleweight,1555.3312484626474,47,loss,3,above,Cesar Almeida,1559.919943653554,46
+Gerald Meerschaert,Middleweight,1550.004559422772,48,loss,1,below,Mantas Kondratavicius,1537.288172702556,49
+Gerald Meerschaert,Middleweight,1550.004559422772,48,loss,2,below,Ryan Gandra,1533.6239972432998,50
+Gerald Meerschaert,Middleweight,1550.004559422772,48,loss,3,above,Marco Tulio,1555.3312484626474,47
+Mantas Kondratavicius,Middleweight,1537.288172702556,49,win,1,above,Gerald Meerschaert,1550.004559422772,48
+Mantas Kondratavicius,Middleweight,1537.288172702556,49,win,2,above,Marco Tulio,1555.3312484626474,47
+Mantas Kondratavicius,Middleweight,1537.288172702556,49,win,3,below,Ryan Gandra,1533.6239972432998,50
+Ryan Gandra,Middleweight,1533.6239972432998,50,win,1,above,Mantas Kondratavicius,1537.288172702556,49
+Ryan Gandra,Middleweight,1533.6239972432998,50,win,2,above,Gerald Meerschaert,1550.004559422772,48
+Ryan Gandra,Middleweight,1533.6239972432998,50,win,3,below,Ozzy Diaz,1526.7194579956997,51
+Ozzy Diaz,Middleweight,1526.7194579956997,51,win,1,above,Ryan Gandra,1533.6239972432998,50
+Ozzy Diaz,Middleweight,1526.7194579956997,51,win,2,above,Mantas Kondratavicius,1537.288172702556,49
+Ozzy Diaz,Middleweight,1526.7194579956997,51,win,3,below,Tresean Gore,1525.0151164421584,52
+Tresean Gore,Middleweight,1525.0151164421584,52,win,1,above,Ozzy Diaz,1526.7194579956997,51
+Tresean Gore,Middleweight,1525.0151164421584,52,win,2,above,Ryan Gandra,1533.6239972432998,50
+Tresean Gore,Middleweight,1525.0151164421584,52,win,3,below,Djorden Santos,1513.646111947072,53
+Djorden Santos,Middleweight,1513.646111947072,53,win,1,above,Tresean Gore,1525.0151164421584,52
+Djorden Santos,Middleweight,1513.646111947072,53,win,2,above,Ozzy Diaz,1526.7194579956997,51
+Djorden Santos,Middleweight,1513.646111947072,53,win,3,below,Dustin Stoltzfus,1485.1003526084444,54
+Dustin Stoltzfus,Middleweight,1485.1003526084444,54,loss,1,below,Marc-Andre Barriault,1483.0799891710526,55
+Dustin Stoltzfus,Middleweight,1485.1003526084444,54,loss,2,below,Eric McConico,1450.5828145221976,56
+Dustin Stoltzfus,Middleweight,1485.1003526084444,54,loss,3,above,Djorden Santos,1513.646111947072,53
+Marc-Andre Barriault,Middleweight,1483.0799891710526,55,loss,1,below,Eric McConico,1450.5828145221976,56
+Marc-Andre Barriault,Middleweight,1483.0799891710526,55,loss,2,below,Azamat Bekoev,1428.3074697610332,57
+Marc-Andre Barriault,Middleweight,1483.0799891710526,55,loss,3,above,Dustin Stoltzfus,1485.1003526084444,54
+Eric McConico,Middleweight,1450.5828145221976,56,loss,1,below,Azamat Bekoev,1428.3074697610332,57
+Eric McConico,Middleweight,1450.5828145221976,56,loss,2,below,Torrez Finney,1421.8900159032485,58
+Eric McConico,Middleweight,1450.5828145221976,56,loss,3,above,Marc-Andre Barriault,1483.0799891710526,55
+Azamat Bekoev,Middleweight,1428.3074697610332,57,loss,1,below,Torrez Finney,1421.8900159032485,58
+Azamat Bekoev,Middleweight,1428.3074697610332,57,loss,2,below,Robert Valentin,1390.2384471185462,59
+Azamat Bekoev,Middleweight,1428.3074697610332,57,loss,3,above,Eric McConico,1450.5828145221976,56
+Torrez Finney,Middleweight,1421.8900159032485,58,loss,1,below,Robert Valentin,1390.2384471185462,59
+Torrez Finney,Middleweight,1421.8900159032485,58,loss,2,below,Cody Brundage,1378.5924290866226,60
+Torrez Finney,Middleweight,1421.8900159032485,58,loss,3,above,Azamat Bekoev,1428.3074697610332,57
+Robert Valentin,Middleweight,1390.2384471185462,59,win,1,above,Torrez Finney,1421.8900159032485,58
+Robert Valentin,Middleweight,1390.2384471185462,59,win,2,above,Azamat Bekoev,1428.3074697610332,57
+Robert Valentin,Middleweight,1390.2384471185462,59,win,3,below,Cody Brundage,1378.5924290866226,60
+Cody Brundage,Middleweight,1378.5924290866226,60,loss,1,below,Andrey Pulyaev,1365.9110838728811,61
+Cody Brundage,Middleweight,1378.5924290866226,60,loss,2,below,Ryan Loder,1350.9145442295137,62
+Cody Brundage,Middleweight,1378.5924290866226,60,loss,3,above,Robert Valentin,1390.2384471185462,59
+Andrey Pulyaev,Middleweight,1365.9110838728811,61,loss,1,below,Ryan Loder,1350.9145442295137,62
+Andrey Pulyaev,Middleweight,1365.9110838728811,61,loss,2,below,Sedriques Dumas,1315.5865562797003,63
+Andrey Pulyaev,Middleweight,1365.9110838728811,61,loss,3,above,Cody Brundage,1378.5924290866226,60
+Ryan Loder,Middleweight,1350.9145442295137,62,loss,1,below,Sedriques Dumas,1315.5865562797003,63
+Ryan Loder,Middleweight,1350.9145442295137,62,loss,2,below,Eric Nolan,1264.0972800680256,64
+Ryan Loder,Middleweight,1350.9145442295137,62,loss,3,above,Andrey Pulyaev,1365.9110838728811,61
+Sedriques Dumas,Middleweight,1315.5865562797003,63,loss,1,below,Eric Nolan,1264.0972800680256,64
+Sedriques Dumas,Middleweight,1315.5865562797003,63,loss,2,below,Wes Schultz,1264.0972800680256,65
+Sedriques Dumas,Middleweight,1315.5865562797003,63,loss,3,above,Ryan Loder,1350.9145442295137,62
+Eric Nolan,Middleweight,1264.0972800680256,64,loss,1,below,Wes Schultz,1264.0972800680256,65
+Eric Nolan,Middleweight,1264.0972800680256,64,loss,2,below,Dusko Todorovic,1263.1629761697134,66
+Eric Nolan,Middleweight,1264.0972800680256,64,loss,3,above,Sedriques Dumas,1315.5865562797003,63
+Wes Schultz,Middleweight,1264.0972800680256,65,loss,1,below,Dusko Todorovic,1263.1629761697134,66
+Wes Schultz,Middleweight,1264.0972800680256,65,loss,2,below,Julien Leblanc,1104.5496247038222,67
+Wes Schultz,Middleweight,1264.0972800680256,65,loss,3,above,Eric Nolan,1264.0972800680256,64
+Dusko Todorovic,Middleweight,1263.1629761697134,66,win,1,above,Wes Schultz,1264.0972800680256,65
+Dusko Todorovic,Middleweight,1263.1629761697134,66,win,2,above,Eric Nolan,1264.0972800680256,64
+Dusko Todorovic,Middleweight,1263.1629761697134,66,win,3,below,Julien Leblanc,1104.5496247038222,67
+Julien Leblanc,Middleweight,1104.5496247038222,67,loss,1,below,Nick Klein,1041.71512909768,68
+Julien Leblanc,Middleweight,1104.5496247038222,67,loss,2,above,Dusko Todorovic,1263.1629761697134,66
+Nick Klein,Middleweight,1041.71512909768,68,loss,1,above,Julien Leblanc,1104.5496247038222,67
+Islam Makhachev,Welterweight,2256.3082442207588,1,win,1,below,Shavkat Rakhmonov,2229.352157102824,2
+Shavkat Rakhmonov,Welterweight,2229.352157102824,2,win,1,above,Islam Makhachev,2256.3082442207588,1
+Shavkat Rakhmonov,Welterweight,2229.352157102824,2,win,2,below,Kamaru Usman,2179.0401554902564,3
+Kamaru Usman,Welterweight,2179.0401554902564,3,win,1,above,Shavkat Rakhmonov,2229.352157102824,2
+Kamaru Usman,Welterweight,2179.0401554902564,3,win,2,above,Islam Makhachev,2256.3082442207588,1
+Kamaru Usman,Welterweight,2179.0401554902564,3,win,3,below,Michael Morales,2140.4789658465893,4
+Michael Morales,Welterweight,2140.4789658465893,4,win,1,above,Kamaru Usman,2179.0401554902564,3
+Michael Morales,Welterweight,2140.4789658465893,4,win,2,above,Shavkat Rakhmonov,2229.352157102824,2
+Michael Morales,Welterweight,2140.4789658465893,4,win,3,below,Ian Machado Garry,2123.1279268985672,5
+Ian Machado Garry,Welterweight,2123.1279268985672,5,win,1,above,Michael Morales,2140.4789658465893,4
+Ian Machado Garry,Welterweight,2123.1279268985672,5,win,2,above,Kamaru Usman,2179.0401554902564,3
+Ian Machado Garry,Welterweight,2123.1279268985672,5,win,3,below,Jack Della Maddalena,2110.92150199359,6
+Jack Della Maddalena,Welterweight,2110.92150199359,6,loss,1,below,Michael Page,2099.124156387394,7
+Jack Della Maddalena,Welterweight,2110.92150199359,6,loss,2,below,Carlos Prates,2087.1282840798817,8
+Jack Della Maddalena,Welterweight,2110.92150199359,6,loss,3,above,Ian Machado Garry,2123.1279268985672,5
+Michael Page,Welterweight,2099.124156387394,7,win,1,above,Jack Della Maddalena,2110.92150199359,6
+Michael Page,Welterweight,2099.124156387394,7,win,2,above,Ian Machado Garry,2123.1279268985672,5
+Michael Page,Welterweight,2099.124156387394,7,win,3,below,Carlos Prates,2087.1282840798817,8
+Carlos Prates,Welterweight,2087.1282840798817,8,win,1,above,Michael Page,2099.124156387394,7
+Carlos Prates,Welterweight,2087.1282840798817,8,win,2,above,Jack Della Maddalena,2110.92150199359,6
+Carlos Prates,Welterweight,2087.1282840798817,8,win,3,below,Leon Edwards,2083.559254611217,9
+Leon Edwards,Welterweight,2083.559254611217,9,loss,1,below,Belal Muhammad,2079.0366302332814,10
+Leon Edwards,Welterweight,2083.559254611217,9,loss,2,below,Sean Brady,2057.5056872181926,11
+Leon Edwards,Welterweight,2083.559254611217,9,loss,3,above,Carlos Prates,2087.1282840798817,8
+Belal Muhammad,Welterweight,2079.0366302332814,10,loss,1,below,Sean Brady,2057.5056872181926,11
+Belal Muhammad,Welterweight,2079.0366302332814,10,loss,2,below,Colby Covington,2048.733195360835,12
+Belal Muhammad,Welterweight,2079.0366302332814,10,loss,3,above,Leon Edwards,2083.559254611217,9
+Sean Brady,Welterweight,2057.5056872181926,11,loss,1,below,Colby Covington,2048.733195360835,12
+Sean Brady,Welterweight,2057.5056872181926,11,loss,2,below,Gabriel Bonfim,2009.701184725616,13
+Sean Brady,Welterweight,2057.5056872181926,11,loss,3,above,Belal Muhammad,2079.0366302332814,10
+Colby Covington,Welterweight,2048.733195360835,12,loss,1,below,Gabriel Bonfim,2009.701184725616,13
+Colby Covington,Welterweight,2048.733195360835,12,loss,2,below,Yaroslav Amosov,1996.0396231675747,14
+Colby Covington,Welterweight,2048.733195360835,12,loss,3,above,Sean Brady,2057.5056872181926,11
+Gabriel Bonfim,Welterweight,2009.701184725616,13,win,1,above,Colby Covington,2048.733195360835,12
+Gabriel Bonfim,Welterweight,2009.701184725616,13,win,2,above,Sean Brady,2057.5056872181926,11
+Gabriel Bonfim,Welterweight,2009.701184725616,13,win,3,below,Yaroslav Amosov,1996.0396231675747,14
+Yaroslav Amosov,Welterweight,1996.0396231675747,14,win,1,above,Gabriel Bonfim,2009.701184725616,13
+Yaroslav Amosov,Welterweight,1996.0396231675747,14,win,2,above,Colby Covington,2048.733195360835,12
+Yaroslav Amosov,Welterweight,1996.0396231675747,14,win,3,below,Joel Alvarez,1982.465663090988,15
+Joel Alvarez,Welterweight,1982.465663090988,15,win,1,above,Yaroslav Amosov,1996.0396231675747,14
+Joel Alvarez,Welterweight,1982.465663090988,15,win,2,above,Gabriel Bonfim,2009.701184725616,13
+Joel Alvarez,Welterweight,1982.465663090988,15,win,3,below,Joaquin Buckley,1981.609877033742,16
+Joaquin Buckley,Welterweight,1981.609877033742,16,loss,1,below,Myktybek Orolbai,1957.5555836008805,17
+Joaquin Buckley,Welterweight,1981.609877033742,16,loss,2,below,Mike Malott,1955.405326020996,18
+Joaquin Buckley,Welterweight,1981.609877033742,16,loss,3,above,Joel Alvarez,1982.465663090988,15
+Myktybek Orolbai,Welterweight,1957.5555836008805,17,win,1,above,Joaquin Buckley,1981.609877033742,16
+Myktybek Orolbai,Welterweight,1957.5555836008805,17,win,2,above,Joel Alvarez,1982.465663090988,15
+Myktybek Orolbai,Welterweight,1957.5555836008805,17,win,3,below,Mike Malott,1955.405326020996,18
+Mike Malott,Welterweight,1955.405326020996,18,win,1,above,Myktybek Orolbai,1957.5555836008805,17
+Mike Malott,Welterweight,1955.405326020996,18,win,2,above,Joaquin Buckley,1981.609877033742,16
+Mike Malott,Welterweight,1955.405326020996,18,win,3,below,Rafael Dos Anjos,1924.6376305000708,19
+Rafael Dos Anjos,Welterweight,1924.6376305000708,19,loss,1,below,Neil Magny,1922.4685374209132,20
+Rafael Dos Anjos,Welterweight,1924.6376305000708,19,loss,2,below,Daniel Rodriguez,1910.1855561544955,21
+Rafael Dos Anjos,Welterweight,1924.6376305000708,19,loss,3,above,Mike Malott,1955.405326020996,18
+Neil Magny,Welterweight,1922.4685374209132,20,loss,1,below,Daniel Rodriguez,1910.1855561544955,21
+Neil Magny,Welterweight,1922.4685374209132,20,loss,2,below,Gilbert Burns,1905.362959053988,22
+Neil Magny,Welterweight,1922.4685374209132,20,loss,3,above,Rafael Dos Anjos,1924.6376305000708,19
+Daniel Rodriguez,Welterweight,1910.1855561544955,21,win,1,above,Neil Magny,1922.4685374209132,20
+Daniel Rodriguez,Welterweight,1910.1855561544955,21,win,2,above,Rafael Dos Anjos,1924.6376305000708,19
+Daniel Rodriguez,Welterweight,1910.1855561544955,21,win,3,below,Gilbert Burns,1905.362959053988,22
+Gilbert Burns,Welterweight,1905.362959053988,22,loss,1,below,Seokhyeon Ko,1890.919039544668,23
+Gilbert Burns,Welterweight,1905.362959053988,22,loss,2,below,Stephen Thompson,1873.1639114017464,24
+Gilbert Burns,Welterweight,1905.362959053988,22,loss,3,above,Daniel Rodriguez,1910.1855561544955,21
+Seokhyeon Ko,Welterweight,1890.919039544668,23,win,1,above,Gilbert Burns,1905.362959053988,22
+Seokhyeon Ko,Welterweight,1890.919039544668,23,win,2,above,Daniel Rodriguez,1910.1855561544955,21
+Seokhyeon Ko,Welterweight,1890.919039544668,23,win,3,below,Stephen Thompson,1873.1639114017464,24
+Stephen Thompson,Welterweight,1873.1639114017464,24,loss,1,below,Randy Brown,1866.789472479112,25
+Stephen Thompson,Welterweight,1873.1639114017464,24,loss,2,below,Geoff Neal,1843.9476982262504,26
+Stephen Thompson,Welterweight,1873.1639114017464,24,loss,3,above,Seokhyeon Ko,1890.919039544668,23
+Randy Brown,Welterweight,1866.789472479112,25,loss,1,below,Geoff Neal,1843.9476982262504,26
+Randy Brown,Welterweight,1866.789472479112,25,loss,2,below,Kevin Holland,1842.9445834259316,27
+Randy Brown,Welterweight,1866.789472479112,25,loss,3,above,Stephen Thompson,1873.1639114017464,24
+Geoff Neal,Welterweight,1843.9476982262504,26,loss,1,below,Kevin Holland,1842.9445834259316,27
+Geoff Neal,Welterweight,1843.9476982262504,26,loss,2,below,Jacobe Smith,1835.067578508057,28
+Geoff Neal,Welterweight,1843.9476982262504,26,loss,3,above,Randy Brown,1866.789472479112,25
+Kevin Holland,Welterweight,1842.9445834259316,27,win,1,above,Geoff Neal,1843.9476982262504,26
+Kevin Holland,Welterweight,1842.9445834259316,27,win,2,above,Randy Brown,1866.789472479112,25
+Kevin Holland,Welterweight,1842.9445834259316,27,win,3,below,Jacobe Smith,1835.067578508057,28
+Jacobe Smith,Welterweight,1835.067578508057,28,win,1,above,Kevin Holland,1842.9445834259316,27
+Jacobe Smith,Welterweight,1835.067578508057,28,win,2,above,Geoff Neal,1843.9476982262504,26
+Jacobe Smith,Welterweight,1835.067578508057,28,win,3,below,Nicolas Dalby,1830.690326974885,29
+Nicolas Dalby,Welterweight,1830.690326974885,29,win,1,above,Jacobe Smith,1835.067578508057,28
+Nicolas Dalby,Welterweight,1830.690326974885,29,win,2,above,Kevin Holland,1842.9445834259316,27
+Nicolas Dalby,Welterweight,1830.690326974885,29,win,3,below,Uros Medic,1827.5242421043424,30
+Uros Medic,Welterweight,1827.5242421043424,30,win,1,above,Nicolas Dalby,1830.690326974885,29
+Uros Medic,Welterweight,1827.5242421043424,30,win,2,above,Jacobe Smith,1835.067578508057,28
+Uros Medic,Welterweight,1827.5242421043424,30,win,3,below,Gunnar Nelson,1821.9319153051367,31
+Gunnar Nelson,Welterweight,1821.9319153051367,31,loss,1,below,Muslim Salikhov,1819.028343969612,32
+Gunnar Nelson,Welterweight,1821.9319153051367,31,loss,2,below,Jonathan Micallef,1812.1208315323636,33
+Gunnar Nelson,Welterweight,1821.9319153051367,31,loss,3,above,Uros Medic,1827.5242421043424,30
+Muslim Salikhov,Welterweight,1819.028343969612,32,loss,1,below,Jonathan Micallef,1812.1208315323636,33
+Muslim Salikhov,Welterweight,1819.028343969612,32,loss,2,below,Jack Hermansson,1808.093293441174,34
+Muslim Salikhov,Welterweight,1819.028343969612,32,loss,3,above,Gunnar Nelson,1821.9319153051367,31
+Jonathan Micallef,Welterweight,1812.1208315323636,33,win,1,above,Muslim Salikhov,1819.028343969612,32
+Jonathan Micallef,Welterweight,1812.1208315323636,33,win,2,above,Gunnar Nelson,1821.9319153051367,31
+Jonathan Micallef,Welterweight,1812.1208315323636,33,win,3,below,Jack Hermansson,1808.093293441174,34
+Jack Hermansson,Welterweight,1808.093293441174,34,loss,1,below,Santiago Ponzinibbio,1805.5023824197697,35
+Jack Hermansson,Welterweight,1808.093293441174,34,loss,2,below,Daniil Donchenko,1787.2003820986074,36
+Jack Hermansson,Welterweight,1808.093293441174,34,loss,3,above,Jonathan Micallef,1812.1208315323636,33
+Santiago Ponzinibbio,Welterweight,1805.5023824197697,35,loss,1,below,Daniil Donchenko,1787.2003820986074,36
+Santiago Ponzinibbio,Welterweight,1805.5023824197697,35,loss,2,below,Jeremiah Wells,1785.7486715308123,37
+Santiago Ponzinibbio,Welterweight,1805.5023824197697,35,loss,3,above,Jack Hermansson,1808.093293441174,34
+Daniil Donchenko,Welterweight,1787.2003820986074,36,win,1,above,Santiago Ponzinibbio,1805.5023824197697,35
+Daniil Donchenko,Welterweight,1787.2003820986074,36,win,2,above,Jack Hermansson,1808.093293441174,34
+Daniil Donchenko,Welterweight,1787.2003820986074,36,win,3,below,Jeremiah Wells,1785.7486715308123,37
+Jeremiah Wells,Welterweight,1785.7486715308123,37,win,1,above,Daniil Donchenko,1787.2003820986074,36
+Jeremiah Wells,Welterweight,1785.7486715308123,37,win,2,above,Santiago Ponzinibbio,1805.5023824197697,35
+Jeremiah Wells,Welterweight,1785.7486715308123,37,win,3,below,Jake Matthews,1777.8579475745871,38
+Jake Matthews,Welterweight,1777.8579475745871,38,loss,1,below,Sam Patterson,1769.513805941844,39
+Jake Matthews,Welterweight,1777.8579475745871,38,loss,2,below,Li Jingliang,1760.8827066706783,40
+Jake Matthews,Welterweight,1777.8579475745871,38,loss,3,above,Jeremiah Wells,1785.7486715308123,37
+Sam Patterson,Welterweight,1769.513805941844,39,loss,1,below,Li Jingliang,1760.8827066706783,40
+Sam Patterson,Welterweight,1769.513805941844,39,loss,2,below,Chris Curtis,1738.6426611498232,41
+Sam Patterson,Welterweight,1769.513805941844,39,loss,3,above,Jake Matthews,1777.8579475745871,38
+Li Jingliang,Welterweight,1760.8827066706783,40,loss,1,below,Chris Curtis,1738.6426611498232,41
+Li Jingliang,Welterweight,1760.8827066706783,40,loss,2,below,Carlos Leal,1722.6178066416533,42
+Li Jingliang,Welterweight,1760.8827066706783,40,loss,3,above,Sam Patterson,1769.513805941844,39
+Chris Curtis,Welterweight,1738.6426611498232,41,loss,1,below,Carlos Leal,1722.6178066416533,42
+Chris Curtis,Welterweight,1738.6426611498232,41,loss,2,below,Jean-Paul Lebosnoyani,1718.9690144830552,43
+Chris Curtis,Welterweight,1738.6426611498232,41,loss,3,above,Li Jingliang,1760.8827066706783,40
+Carlos Leal,Welterweight,1722.6178066416533,42,win,1,above,Chris Curtis,1738.6426611498232,41
+Carlos Leal,Welterweight,1722.6178066416533,42,win,2,above,Li Jingliang,1760.8827066706783,40
+Carlos Leal,Welterweight,1722.6178066416533,42,win,3,below,Jean-Paul Lebosnoyani,1718.9690144830552,43
+Jean-Paul Lebosnoyani,Welterweight,1718.9690144830552,43,win,1,above,Carlos Leal,1722.6178066416533,42
+Jean-Paul Lebosnoyani,Welterweight,1718.9690144830552,43,win,2,above,Chris Curtis,1738.6426611498232,41
+Jean-Paul Lebosnoyani,Welterweight,1718.9690144830552,43,win,3,below,Khaos Williams,1713.0247078085304,44
+Khaos Williams,Welterweight,1713.0247078085304,44,loss,1,below,Max Griffin,1695.6356333447563,45
+Khaos Williams,Welterweight,1713.0247078085304,44,loss,2,below,Islam Dulatov,1683.1033262921185,46
+Khaos Williams,Welterweight,1713.0247078085304,44,loss,3,above,Jean-Paul Lebosnoyani,1718.9690144830552,43
+Max Griffin,Welterweight,1695.6356333447563,45,loss,1,below,Islam Dulatov,1683.1033262921185,46
+Max Griffin,Welterweight,1695.6356333447563,45,loss,2,below,Andreas Gustafsson,1681.3058031056917,47
+Max Griffin,Welterweight,1695.6356333447563,45,loss,3,above,Khaos Williams,1713.0247078085304,44
+Islam Dulatov,Welterweight,1683.1033262921185,46,win,1,above,Max Griffin,1695.6356333447563,45
+Islam Dulatov,Welterweight,1683.1033262921185,46,win,2,above,Khaos Williams,1713.0247078085304,44
+Islam Dulatov,Welterweight,1683.1033262921185,46,win,3,below,Andreas Gustafsson,1681.3058031056917,47
+Andreas Gustafsson,Welterweight,1681.3058031056917,47,loss,1,below,Punahele Soriano,1677.3025552640613,48
+Andreas Gustafsson,Welterweight,1681.3058031056917,47,loss,2,below,Carlston Harris,1657.3613992474918,49
+Andreas Gustafsson,Welterweight,1681.3058031056917,47,loss,3,above,Islam Dulatov,1683.1033262921185,46
+Punahele Soriano,Welterweight,1677.3025552640613,48,win,1,above,Andreas Gustafsson,1681.3058031056917,47
+Punahele Soriano,Welterweight,1677.3025552640613,48,win,2,above,Islam Dulatov,1683.1033262921185,46
+Punahele Soriano,Welterweight,1677.3025552640613,48,win,3,below,Carlston Harris,1657.3613992474918,49
+Carlston Harris,Welterweight,1657.3613992474918,49,loss,1,below,Ty Miller,1636.1936688361602,50
+Carlston Harris,Welterweight,1657.3613992474918,49,loss,2,below,Themba Gorimbo,1623.831241389771,51
+Carlston Harris,Welterweight,1657.3613992474918,49,loss,3,above,Punahele Soriano,1677.3025552640613,48
+Ty Miller,Welterweight,1636.1936688361602,50,win,1,above,Carlston Harris,1657.3613992474918,49
+Ty Miller,Welterweight,1636.1936688361602,50,win,2,above,Punahele Soriano,1677.3025552640613,48
+Ty Miller,Welterweight,1636.1936688361602,50,win,3,below,Themba Gorimbo,1623.831241389771,51
+Themba Gorimbo,Welterweight,1623.831241389771,51,loss,1,below,Trey Waters,1616.5157634450647,52
+Themba Gorimbo,Welterweight,1623.831241389771,51,loss,2,below,Charles Radtke,1603.4068248798533,53
+Themba Gorimbo,Welterweight,1623.831241389771,51,loss,3,above,Ty Miller,1636.1936688361602,50
+Trey Waters,Welterweight,1616.5157634450647,52,loss,1,below,Charles Radtke,1603.4068248798533,53
+Trey Waters,Welterweight,1616.5157634450647,52,loss,2,below,Nikolay Veretennikov,1593.8158050058446,54
+Trey Waters,Welterweight,1616.5157634450647,52,loss,3,above,Themba Gorimbo,1623.831241389771,51
+Charles Radtke,Welterweight,1603.4068248798533,53,win,1,above,Trey Waters,1616.5157634450647,52
+Charles Radtke,Welterweight,1603.4068248798533,53,win,2,above,Themba Gorimbo,1623.831241389771,51
+Charles Radtke,Welterweight,1603.4068248798533,53,win,3,below,Nikolay Veretennikov,1593.8158050058446,54
+Nikolay Veretennikov,Welterweight,1593.8158050058446,54,win,1,above,Charles Radtke,1603.4068248798533,53
+Nikolay Veretennikov,Welterweight,1593.8158050058446,54,win,2,above,Trey Waters,1616.5157634450647,52
+Nikolay Veretennikov,Welterweight,1593.8158050058446,54,win,3,below,Tim Means,1590.4206696646456,55
+Tim Means,Welterweight,1590.4206696646456,55,loss,1,below,Court McGee,1570.6141924863778,56
+Tim Means,Welterweight,1590.4206696646456,55,loss,2,below,Oban Elliott,1565.6551830316464,57
+Tim Means,Welterweight,1590.4206696646456,55,loss,3,above,Nikolay Veretennikov,1593.8158050058446,54
+Court McGee,Welterweight,1570.6141924863778,56,loss,1,below,Oban Elliott,1565.6551830316464,57
+Court McGee,Welterweight,1570.6141924863778,56,loss,2,below,Taiyilake Nueraji,1564.2466998098037,58
+Court McGee,Welterweight,1570.6141924863778,56,loss,3,above,Tim Means,1590.4206696646456,55
+Oban Elliott,Welterweight,1565.6551830316464,57,loss,1,below,Taiyilake Nueraji,1564.2466998098037,58
+Oban Elliott,Welterweight,1565.6551830316464,57,loss,2,below,Ramiz Brahimaj,1554.621897627395,59
+Oban Elliott,Welterweight,1565.6551830316464,57,loss,3,above,Court McGee,1570.6141924863778,56
+Taiyilake Nueraji,Welterweight,1564.2466998098037,58,win,1,above,Oban Elliott,1565.6551830316464,57
+Taiyilake Nueraji,Welterweight,1564.2466998098037,58,win,2,above,Court McGee,1570.6141924863778,56
+Taiyilake Nueraji,Welterweight,1564.2466998098037,58,win,3,below,Ramiz Brahimaj,1554.621897627395,59
+Ramiz Brahimaj,Welterweight,1554.621897627395,59,loss,1,below,Chidi Njokuani,1520.903415206437,60
+Ramiz Brahimaj,Welterweight,1554.621897627395,59,loss,2,below,Song Kenan,1520.8481125232224,61
+Ramiz Brahimaj,Welterweight,1554.621897627395,59,loss,3,above,Taiyilake Nueraji,1564.2466998098037,58
+Chidi Njokuani,Welterweight,1520.903415206437,60,loss,1,below,Song Kenan,1520.8481125232224,61
+Chidi Njokuani,Welterweight,1520.903415206437,60,loss,2,below,Bassil Hafez,1493.2392872481068,62
+Chidi Njokuani,Welterweight,1520.903415206437,60,loss,3,above,Ramiz Brahimaj,1554.621897627395,59
+Song Kenan,Welterweight,1520.8481125232224,61,loss,1,below,Bassil Hafez,1493.2392872481068,62
+Song Kenan,Welterweight,1520.8481125232224,61,loss,2,below,Wellington Turman,1398.689688385812,63
+Song Kenan,Welterweight,1520.8481125232224,61,loss,3,above,Chidi Njokuani,1520.903415206437,60
+Bassil Hafez,Welterweight,1493.2392872481068,62,loss,1,below,Wellington Turman,1398.689688385812,63
+Bassil Hafez,Welterweight,1493.2392872481068,62,loss,2,below,Saygid Izagakhmaev,1386.2952033681345,64
+Bassil Hafez,Welterweight,1493.2392872481068,62,loss,3,above,Song Kenan,1520.8481125232224,61
+Wellington Turman,Welterweight,1398.689688385812,63,loss,1,below,Saygid Izagakhmaev,1386.2952033681345,64
+Wellington Turman,Welterweight,1398.689688385812,63,loss,2,below,Austin Vanderford,1377.457075194926,65
+Wellington Turman,Welterweight,1398.689688385812,63,loss,3,above,Bassil Hafez,1493.2392872481068,62
+Saygid Izagakhmaev,Welterweight,1386.2952033681345,64,loss,1,below,Austin Vanderford,1377.457075194926,65
+Saygid Izagakhmaev,Welterweight,1386.2952033681345,64,loss,2,below,Josiah Harrell,1359.6369430178518,66
+Saygid Izagakhmaev,Welterweight,1386.2952033681345,64,loss,3,above,Wellington Turman,1398.689688385812,63
+Austin Vanderford,Welterweight,1377.457075194926,65,loss,1,below,Josiah Harrell,1359.6369430178518,66
+Austin Vanderford,Welterweight,1377.457075194926,65,loss,2,below,Mickey Gall,1328.0020304738605,67
+Austin Vanderford,Welterweight,1377.457075194926,65,loss,3,above,Saygid Izagakhmaev,1386.2952033681345,64
+Josiah Harrell,Welterweight,1359.6369430178518,66,loss,1,below,Mickey Gall,1328.0020304738605,67
+Josiah Harrell,Welterweight,1359.6369430178518,66,loss,2,below,Pete Rodriguez,1316.5260754178746,68
+Josiah Harrell,Welterweight,1359.6369430178518,66,loss,3,above,Austin Vanderford,1377.457075194926,65
+Mickey Gall,Welterweight,1328.0020304738605,67,loss,1,below,Pete Rodriguez,1316.5260754178746,68
+Mickey Gall,Welterweight,1328.0020304738605,67,loss,2,below,Rodrigo Sezinando,1264.0972800680256,69
+Mickey Gall,Welterweight,1328.0020304738605,67,loss,3,above,Josiah Harrell,1359.6369430178518,66
+Pete Rodriguez,Welterweight,1316.5260754178746,68,loss,1,below,Rodrigo Sezinando,1264.0972800680256,69
+Pete Rodriguez,Welterweight,1316.5260754178746,68,loss,2,below,Billy Ray Goff,1248.051880440936,70
+Pete Rodriguez,Welterweight,1316.5260754178746,68,loss,3,above,Mickey Gall,1328.0020304738605,67
+Rodrigo Sezinando,Welterweight,1264.0972800680256,69,loss,1,below,Billy Ray Goff,1248.051880440936,70
+Rodrigo Sezinando,Welterweight,1264.0972800680256,69,loss,2,below,Gilbert Urbina,1231.046714357272,71
+Rodrigo Sezinando,Welterweight,1264.0972800680256,69,loss,3,above,Pete Rodriguez,1316.5260754178746,68
+Billy Ray Goff,Welterweight,1248.051880440936,70,loss,1,below,Gilbert Urbina,1231.046714357272,71
+Billy Ray Goff,Welterweight,1248.051880440936,70,loss,2,below,Francisco Prado,1140.1513859184524,72
+Billy Ray Goff,Welterweight,1248.051880440936,70,loss,3,above,Rodrigo Sezinando,1264.0972800680256,69
+Gilbert Urbina,Welterweight,1231.046714357272,71,loss,1,below,Francisco Prado,1140.1513859184524,72
+Gilbert Urbina,Welterweight,1231.046714357272,71,loss,2,below,Daniel Frunza,1001.9595270131438,73
+Gilbert Urbina,Welterweight,1231.046714357272,71,loss,3,above,Billy Ray Goff,1248.051880440936,70
+Francisco Prado,Welterweight,1140.1513859184524,72,loss,1,below,Daniel Frunza,1001.9595270131438,73
+Francisco Prado,Welterweight,1140.1513859184524,72,loss,2,above,Gilbert Urbina,1231.046714357272,71
+Daniel Frunza,Welterweight,1001.9595270131438,73,loss,1,above,Francisco Prado,1140.1513859184524,72
+Amanda Nunes,Women's Bantamweight,2041.8923614928265,1,win,1,below,Kayla Harrison,2009.5939279031,2
+Kayla Harrison,Women's Bantamweight,2009.5939279031,2,win,1,above,Amanda Nunes,2041.8923614928265,1
+Kayla Harrison,Women's Bantamweight,2009.5939279031,2,win,2,below,Norma Dumont,1913.5317783853036,3
+Norma Dumont,Women's Bantamweight,1913.5317783853036,3,win,1,above,Kayla Harrison,2009.5939279031,2
+Norma Dumont,Women's Bantamweight,1913.5317783853036,3,win,2,above,Amanda Nunes,2041.8923614928265,1
+Norma Dumont,Women's Bantamweight,1913.5317783853036,3,win,3,below,Jacqueline Cavalcanti,1861.874109898078,4
+Jacqueline Cavalcanti,Women's Bantamweight,1861.874109898078,4,win,1,above,Norma Dumont,1913.5317783853036,3
+Jacqueline Cavalcanti,Women's Bantamweight,1861.874109898078,4,win,2,above,Kayla Harrison,2009.5939279031,2
+Jacqueline Cavalcanti,Women's Bantamweight,1861.874109898078,4,win,3,below,Julianna Pena,1846.0885532715424,5
+Julianna Pena,Women's Bantamweight,1846.0885532715424,5,loss,1,below,Raquel Pennington,1816.6037957839524,6
+Julianna Pena,Women's Bantamweight,1846.0885532715424,5,loss,2,below,Luana Santos,1751.207251413981,7
+Julianna Pena,Women's Bantamweight,1846.0885532715424,5,loss,3,above,Jacqueline Cavalcanti,1861.874109898078,4
+Raquel Pennington,Women's Bantamweight,1816.6037957839524,6,loss,1,below,Luana Santos,1751.207251413981,7
+Raquel Pennington,Women's Bantamweight,1816.6037957839524,6,loss,2,below,Irene Aldana,1750.168755075044,8
+Raquel Pennington,Women's Bantamweight,1816.6037957839524,6,loss,3,above,Julianna Pena,1846.0885532715424,5
+Luana Santos,Women's Bantamweight,1751.207251413981,7,win,1,above,Raquel Pennington,1816.6037957839524,6
+Luana Santos,Women's Bantamweight,1751.207251413981,7,win,2,above,Julianna Pena,1846.0885532715424,5
+Luana Santos,Women's Bantamweight,1751.207251413981,7,win,3,below,Irene Aldana,1750.168755075044,8
+Irene Aldana,Women's Bantamweight,1750.168755075044,8,loss,1,below,Ketlen Vieira,1749.0870568851155,9
+Irene Aldana,Women's Bantamweight,1750.168755075044,8,loss,2,below,Ailin Perez,1748.16286864905,10
+Irene Aldana,Women's Bantamweight,1750.168755075044,8,loss,3,above,Luana Santos,1751.207251413981,7
+Ketlen Vieira,Women's Bantamweight,1749.0870568851155,9,loss,1,below,Ailin Perez,1748.16286864905,10
+Ketlen Vieira,Women's Bantamweight,1749.0870568851155,9,loss,2,below,Bia Mesquita,1734.6355839086425,11
+Ketlen Vieira,Women's Bantamweight,1749.0870568851155,9,loss,3,above,Irene Aldana,1750.168755075044,8
+Ailin Perez,Women's Bantamweight,1748.16286864905,10,win,1,above,Ketlen Vieira,1749.0870568851155,9
+Ailin Perez,Women's Bantamweight,1748.16286864905,10,win,2,above,Irene Aldana,1750.168755075044,8
+Ailin Perez,Women's Bantamweight,1748.16286864905,10,win,3,below,Bia Mesquita,1734.6355839086425,11
+Bia Mesquita,Women's Bantamweight,1734.6355839086425,11,win,1,above,Ailin Perez,1748.16286864905,10
+Bia Mesquita,Women's Bantamweight,1734.6355839086425,11,win,2,above,Ketlen Vieira,1749.0870568851155,9
+Bia Mesquita,Women's Bantamweight,1734.6355839086425,11,win,3,below,Yana Santos,1703.9438920472091,12
+Yana Santos,Women's Bantamweight,1703.9438920472091,12,win,1,above,Bia Mesquita,1734.6355839086425,11
+Yana Santos,Women's Bantamweight,1703.9438920472091,12,win,2,above,Ailin Perez,1748.16286864905,10
+Yana Santos,Women's Bantamweight,1703.9438920472091,12,win,3,below,Michelle Montague,1676.4391591917904,13
+Michelle Montague,Women's Bantamweight,1676.4391591917904,13,win,1,above,Yana Santos,1703.9438920472091,12
+Michelle Montague,Women's Bantamweight,1676.4391591917904,13,win,2,above,Bia Mesquita,1734.6355839086425,11
+Michelle Montague,Women's Bantamweight,1676.4391591917904,13,win,3,below,Melissa Croden,1658.3956597589072,14
+Melissa Croden,Women's Bantamweight,1658.3956597589072,14,win,1,above,Michelle Montague,1676.4391591917904,13
+Melissa Croden,Women's Bantamweight,1658.3956597589072,14,win,2,above,Yana Santos,1703.9438920472091,12
+Melissa Croden,Women's Bantamweight,1658.3956597589072,14,win,3,below,Karol Rosa,1646.2359922965425,15
+Karol Rosa,Women's Bantamweight,1646.2359922965425,15,win,1,above,Melissa Croden,1658.3956597589072,14
+Karol Rosa,Women's Bantamweight,1646.2359922965425,15,win,2,above,Michelle Montague,1676.4391591917904,13
+Karol Rosa,Women's Bantamweight,1646.2359922965425,15,win,3,below,Klaudia Sygula,1600.929603053666,16
+Klaudia Sygula,Women's Bantamweight,1600.929603053666,16,win,1,above,Karol Rosa,1646.2359922965425,15
+Klaudia Sygula,Women's Bantamweight,1600.929603053666,16,win,2,above,Melissa Croden,1658.3956597589072,14
+Klaudia Sygula,Women's Bantamweight,1600.929603053666,16,win,3,below,Joselyne Edwards,1597.774540765353,17
+Joselyne Edwards,Women's Bantamweight,1597.774540765353,17,win,1,above,Klaudia Sygula,1600.929603053666,16
+Joselyne Edwards,Women's Bantamweight,1597.774540765353,17,win,2,above,Karol Rosa,1646.2359922965425,15
+Joselyne Edwards,Women's Bantamweight,1597.774540765353,17,win,3,below,Macy Chiasson,1577.720163731887,18
+Macy Chiasson,Women's Bantamweight,1577.720163731887,18,loss,1,below,Miesha Tate,1562.228300962438,19
+Macy Chiasson,Women's Bantamweight,1577.720163731887,18,loss,2,below,Mayra Bueno Silva,1490.1277978607548,20
+Macy Chiasson,Women's Bantamweight,1577.720163731887,18,loss,3,above,Joselyne Edwards,1597.774540765353,17
+Miesha Tate,Women's Bantamweight,1562.228300962438,19,loss,1,below,Mayra Bueno Silva,1490.1277978607548,20
+Miesha Tate,Women's Bantamweight,1562.228300962438,19,loss,2,below,Daria Zhelezniakova,1473.9745288296572,21
+Miesha Tate,Women's Bantamweight,1562.228300962438,19,loss,3,above,Macy Chiasson,1577.720163731887,18
+Mayra Bueno Silva,Women's Bantamweight,1490.1277978607548,20,loss,1,below,Daria Zhelezniakova,1473.9745288296572,21
+Mayra Bueno Silva,Women's Bantamweight,1490.1277978607548,20,loss,2,below,Melissa Mullins,1464.8527745076249,22
+Mayra Bueno Silva,Women's Bantamweight,1490.1277978607548,20,loss,3,above,Miesha Tate,1562.228300962438,19
+Daria Zhelezniakova,Women's Bantamweight,1473.9745288296572,21,loss,1,below,Melissa Mullins,1464.8527745076249,22
+Daria Zhelezniakova,Women's Bantamweight,1473.9745288296572,21,loss,2,below,Nora Cornolle,1425.5715071909888,23
+Daria Zhelezniakova,Women's Bantamweight,1473.9745288296572,21,loss,3,above,Mayra Bueno Silva,1490.1277978607548,20
+Melissa Mullins,Women's Bantamweight,1464.8527745076249,22,loss,1,below,Nora Cornolle,1425.5715071909888,23
+Melissa Mullins,Women's Bantamweight,1464.8527745076249,22,loss,2,below,Alice Pereira,1392.8740757823623,24
+Melissa Mullins,Women's Bantamweight,1464.8527745076249,22,loss,3,above,Daria Zhelezniakova,1473.9745288296572,21
+Nora Cornolle,Women's Bantamweight,1425.5715071909888,23,loss,1,below,Alice Pereira,1392.8740757823623,24
+Nora Cornolle,Women's Bantamweight,1425.5715071909888,23,loss,2,below,Tainara Lisboa,1391.7324655533946,25
+Nora Cornolle,Women's Bantamweight,1425.5715071909888,23,loss,3,above,Melissa Mullins,1464.8527745076249,22
+Alice Pereira,Women's Bantamweight,1392.8740757823623,24,win,1,above,Nora Cornolle,1425.5715071909888,23
+Alice Pereira,Women's Bantamweight,1392.8740757823623,24,win,2,above,Melissa Mullins,1464.8527745076249,22
+Alice Pereira,Women's Bantamweight,1392.8740757823623,24,win,3,below,Tainara Lisboa,1391.7324655533946,25
+Tainara Lisboa,Women's Bantamweight,1391.7324655533946,25,loss,1,below,Priscila Cachoeira,1343.7908575598744,26
+Tainara Lisboa,Women's Bantamweight,1391.7324655533946,25,loss,2,below,Chelsea Chandler,1299.0819715051805,27
+Tainara Lisboa,Women's Bantamweight,1391.7324655533946,25,loss,3,above,Alice Pereira,1392.8740757823623,24
+Priscila Cachoeira,Women's Bantamweight,1343.7908575598744,26,loss,1,below,Chelsea Chandler,1299.0819715051805,27
+Priscila Cachoeira,Women's Bantamweight,1343.7908575598744,26,loss,2,below,Josiane Nunes,1286.6972221901815,28
+Priscila Cachoeira,Women's Bantamweight,1343.7908575598744,26,loss,3,above,Tainara Lisboa,1391.7324655533946,25
+Chelsea Chandler,Women's Bantamweight,1299.0819715051805,27,loss,1,below,Josiane Nunes,1286.6972221901815,28
+Chelsea Chandler,Women's Bantamweight,1299.0819715051805,27,loss,2,below,Hailey Cowan,976.1088545177248,29
+Chelsea Chandler,Women's Bantamweight,1299.0819715051805,27,loss,3,above,Priscila Cachoeira,1343.7908575598744,26
+Josiane Nunes,Women's Bantamweight,1286.6972221901815,28,loss,1,below,Hailey Cowan,976.1088545177248,29
+Josiane Nunes,Women's Bantamweight,1286.6972221901815,28,loss,2,above,Chelsea Chandler,1299.0819715051805,27
+Hailey Cowan,Women's Bantamweight,976.1088545177248,29,loss,1,above,Josiane Nunes,1286.6972221901815,28
+Valentina Shevchenko,Women's Flyweight,2082.522366242603,1,win,1,below,Natalia Silva,2042.6159469575184,2
+Natalia Silva,Women's Flyweight,2042.6159469575184,2,win,1,above,Valentina Shevchenko,2082.522366242603,1
+Natalia Silva,Women's Flyweight,2042.6159469575184,2,win,2,below,Manon Fiorot,2023.235759435032,3
+Manon Fiorot,Women's Flyweight,2023.235759435032,3,win,1,above,Natalia Silva,2042.6159469575184,2
+Manon Fiorot,Women's Flyweight,2023.235759435032,3,win,2,above,Valentina Shevchenko,2082.522366242603,1
+Manon Fiorot,Women's Flyweight,2023.235759435032,3,win,3,below,Zhang Weili,2020.3762895406528,4
+Zhang Weili,Women's Flyweight,2020.3762895406528,4,loss,1,below,Erin Blanchfield,2014.761779252121,5
+Zhang Weili,Women's Flyweight,2020.3762895406528,4,loss,2,below,Rose Namajunas,1924.244192198684,6
+Zhang Weili,Women's Flyweight,2020.3762895406528,4,loss,3,above,Manon Fiorot,2023.235759435032,3
+Erin Blanchfield,Women's Flyweight,2014.761779252121,5,win,1,above,Zhang Weili,2020.3762895406528,4
+Erin Blanchfield,Women's Flyweight,2014.761779252121,5,win,2,above,Manon Fiorot,2023.235759435032,3
+Erin Blanchfield,Women's Flyweight,2014.761779252121,5,win,3,below,Rose Namajunas,1924.244192198684,6
+Rose Namajunas,Women's Flyweight,1924.244192198684,6,loss,1,below,Alexa Grasso,1880.0583576611496,7
+Rose Namajunas,Women's Flyweight,1924.244192198684,6,loss,2,below,Maycee Barber,1856.1615674889936,8
+Rose Namajunas,Women's Flyweight,1924.244192198684,6,loss,3,above,Erin Blanchfield,2014.761779252121,5
+Alexa Grasso,Women's Flyweight,1880.0583576611496,7,win,1,above,Rose Namajunas,1924.244192198684,6
+Alexa Grasso,Women's Flyweight,1880.0583576611496,7,win,2,above,Erin Blanchfield,2014.761779252121,5
+Alexa Grasso,Women's Flyweight,1880.0583576611496,7,win,3,below,Maycee Barber,1856.1615674889936,8
+Maycee Barber,Women's Flyweight,1856.1615674889936,8,loss,1,below,Jasmine Jasudavicius,1839.2006874689052,9
+Maycee Barber,Women's Flyweight,1856.1615674889936,8,loss,2,below,Tracy Cortez,1795.1805665172192,10
+Maycee Barber,Women's Flyweight,1856.1615674889936,8,loss,3,above,Alexa Grasso,1880.0583576611496,7
+Jasmine Jasudavicius,Women's Flyweight,1839.2006874689052,9,win,1,above,Maycee Barber,1856.1615674889936,8
+Jasmine Jasudavicius,Women's Flyweight,1839.2006874689052,9,win,2,above,Alexa Grasso,1880.0583576611496,7
+Jasmine Jasudavicius,Women's Flyweight,1839.2006874689052,9,win,3,below,Tracy Cortez,1795.1805665172192,10
+Tracy Cortez,Women's Flyweight,1795.1805665172192,10,loss,1,below,Katlyn Cerminara,1774.387934445144,11
+Tracy Cortez,Women's Flyweight,1795.1805665172192,10,loss,2,below,Casey O'Neill,1716.8268500669874,12
+Tracy Cortez,Women's Flyweight,1795.1805665172192,10,loss,3,above,Jasmine Jasudavicius,1839.2006874689052,9
+Katlyn Cerminara,Women's Flyweight,1774.387934445144,11,loss,1,below,Casey O'Neill,1716.8268500669874,12
+Katlyn Cerminara,Women's Flyweight,1774.387934445144,11,loss,2,below,Miranda Maverick,1674.4071506297232,13
+Katlyn Cerminara,Women's Flyweight,1774.387934445144,11,loss,3,above,Tracy Cortez,1795.1805665172192,10
+Casey O'Neill,Women's Flyweight,1716.8268500669874,12,win,1,above,Katlyn Cerminara,1774.387934445144,11
+Casey O'Neill,Women's Flyweight,1716.8268500669874,12,win,2,above,Tracy Cortez,1795.1805665172192,10
+Casey O'Neill,Women's Flyweight,1716.8268500669874,12,win,3,below,Miranda Maverick,1674.4071506297232,13
+Miranda Maverick,Women's Flyweight,1674.4071506297232,13,loss,1,below,Karine Silva,1648.7826796837085,14
+Miranda Maverick,Women's Flyweight,1674.4071506297232,13,loss,2,below,JJ Aldrich,1609.2547920512293,15
+Miranda Maverick,Women's Flyweight,1674.4071506297232,13,loss,3,above,Casey O'Neill,1716.8268500669874,12
+Karine Silva,Women's Flyweight,1648.7826796837085,14,loss,1,below,JJ Aldrich,1609.2547920512293,15
+Karine Silva,Women's Flyweight,1648.7826796837085,14,loss,2,below,Veronica Hardy,1591.5464628736613,16
+Karine Silva,Women's Flyweight,1648.7826796837085,14,loss,3,above,Miranda Maverick,1674.4071506297232,13
+JJ Aldrich,Women's Flyweight,1609.2547920512293,15,win,1,above,Karine Silva,1648.7826796837085,14
+JJ Aldrich,Women's Flyweight,1609.2547920512293,15,win,2,above,Miranda Maverick,1674.4071506297232,13
+JJ Aldrich,Women's Flyweight,1609.2547920512293,15,win,3,below,Veronica Hardy,1591.5464628736613,16
+Veronica Hardy,Women's Flyweight,1591.5464628736613,16,win,1,above,JJ Aldrich,1609.2547920512293,15
+Veronica Hardy,Women's Flyweight,1591.5464628736613,16,win,2,above,Karine Silva,1648.7826796837085,14
+Veronica Hardy,Women's Flyweight,1591.5464628736613,16,win,3,below,Carli Judice,1575.2182723232297,17
+Carli Judice,Women's Flyweight,1575.2182723232297,17,win,1,above,Veronica Hardy,1591.5464628736613,16
+Carli Judice,Women's Flyweight,1575.2182723232297,17,win,2,above,JJ Aldrich,1609.2547920512293,15
+Carli Judice,Women's Flyweight,1575.2182723232297,17,win,3,below,Dione Barbosa,1553.36085941414,18
+Dione Barbosa,Women's Flyweight,1553.36085941414,18,win,1,above,Carli Judice,1575.2182723232297,17
+Dione Barbosa,Women's Flyweight,1553.36085941414,18,win,2,above,Veronica Hardy,1591.5464628736613,16
+Dione Barbosa,Women's Flyweight,1553.36085941414,18,win,3,below,Gabriella Fernandes,1500.1467275354253,19
+Gabriella Fernandes,Women's Flyweight,1500.1467275354253,19,loss,1,below,Jamey-Lyn Horth,1492.8092890112969,20
+Gabriella Fernandes,Women's Flyweight,1500.1467275354253,19,loss,2,below,Melissa Gatto,1401.7966613574886,21
+Gabriella Fernandes,Women's Flyweight,1500.1467275354253,19,loss,3,above,Dione Barbosa,1553.36085941414,18
+Jamey-Lyn Horth,Women's Flyweight,1492.8092890112969,20,loss,1,below,Melissa Gatto,1401.7966613574886,21
+Jamey-Lyn Horth,Women's Flyweight,1492.8092890112969,20,loss,2,below,Vanessa Demopoulos,1370.7083770212823,22
+Jamey-Lyn Horth,Women's Flyweight,1492.8092890112969,20,loss,3,above,Gabriella Fernandes,1500.1467275354253,19
+Melissa Gatto,Women's Flyweight,1401.7966613574886,21,loss,1,below,Vanessa Demopoulos,1370.7083770212823,22
+Melissa Gatto,Women's Flyweight,1401.7966613574886,21,loss,2,below,Tereza Bleda,1279.5266007072864,23
+Melissa Gatto,Women's Flyweight,1401.7966613574886,21,loss,3,above,Jamey-Lyn Horth,1492.8092890112969,20
+Vanessa Demopoulos,Women's Flyweight,1370.7083770212823,22,loss,1,below,Tereza Bleda,1279.5266007072864,23
+Vanessa Demopoulos,Women's Flyweight,1370.7083770212823,22,loss,2,below,Juliana Miller,1263.5470913840857,24
+Vanessa Demopoulos,Women's Flyweight,1370.7083770212823,22,loss,3,above,Melissa Gatto,1401.7966613574886,21
+Tereza Bleda,Women's Flyweight,1279.5266007072864,23,loss,1,below,Juliana Miller,1263.5470913840857,24
+Tereza Bleda,Women's Flyweight,1279.5266007072864,23,loss,2,below,Yuneisy Duben,1119.0641061658823,25
+Tereza Bleda,Women's Flyweight,1279.5266007072864,23,loss,3,above,Vanessa Demopoulos,1370.7083770212823,22
+Juliana Miller,Women's Flyweight,1263.5470913840857,24,loss,1,below,Yuneisy Duben,1119.0641061658823,25
+Juliana Miller,Women's Flyweight,1263.5470913840857,24,loss,2,below,Nicolle Caliari,1048.73262877095,26
+Juliana Miller,Women's Flyweight,1263.5470913840857,24,loss,3,above,Tereza Bleda,1279.5266007072864,23
+Yuneisy Duben,Women's Flyweight,1119.0641061658823,25,loss,1,below,Nicolle Caliari,1048.73262877095,26
+Yuneisy Duben,Women's Flyweight,1119.0641061658823,25,loss,2,above,Juliana Miller,1263.5470913840857,24
+Nicolle Caliari,Women's Flyweight,1048.73262877095,26,loss,1,above,Yuneisy Duben,1119.0641061658823,25
+Tatiana Suarez,Women's Strawweight,2008.954342201737,1,win,1,below,Virna Jandiroba,1877.9397798687903,2
+Virna Jandiroba,Women's Strawweight,1877.9397798687903,2,win,1,above,Tatiana Suarez,2008.954342201737,1
+Virna Jandiroba,Women's Strawweight,1877.9397798687903,2,win,2,below,Yan Xiaonan,1815.658849884681,3
+Yan Xiaonan,Women's Strawweight,1815.658849884681,3,loss,1,below,Mackenzie Dern,1807.431056194916,4
+Yan Xiaonan,Women's Strawweight,1815.658849884681,3,loss,2,below,Jessica Andrade,1770.1954319783813,5
+Yan Xiaonan,Women's Strawweight,1815.658849884681,3,loss,3,above,Virna Jandiroba,1877.9397798687903,2
+Mackenzie Dern,Women's Strawweight,1807.431056194916,4,win,1,above,Yan Xiaonan,1815.658849884681,3
+Mackenzie Dern,Women's Strawweight,1807.431056194916,4,win,2,above,Virna Jandiroba,1877.9397798687903,2
+Mackenzie Dern,Women's Strawweight,1807.431056194916,4,win,3,below,Jessica Andrade,1770.1954319783813,5
+Jessica Andrade,Women's Strawweight,1770.1954319783813,5,loss,1,below,Denise Gomes,1766.170350981748,6
+Jessica Andrade,Women's Strawweight,1770.1954319783813,5,loss,2,below,Gillian Robertson,1757.0690067468486,7
+Jessica Andrade,Women's Strawweight,1770.1954319783813,5,loss,3,above,Mackenzie Dern,1807.431056194916,4
+Denise Gomes,Women's Strawweight,1766.170350981748,6,win,1,above,Jessica Andrade,1770.1954319783813,5
+Denise Gomes,Women's Strawweight,1766.170350981748,6,win,2,above,Mackenzie Dern,1807.431056194916,4
+Denise Gomes,Women's Strawweight,1766.170350981748,6,win,3,below,Gillian Robertson,1757.0690067468486,7
+Gillian Robertson,Women's Strawweight,1757.0690067468486,7,win,1,above,Denise Gomes,1766.170350981748,6
+Gillian Robertson,Women's Strawweight,1757.0690067468486,7,win,2,above,Jessica Andrade,1770.1954319783813,5
+Gillian Robertson,Women's Strawweight,1757.0690067468486,7,win,3,below,Amanda Lemos,1756.3185411232137,8
+Amanda Lemos,Women's Strawweight,1756.3185411232137,8,loss,1,below,Iasmin Lucindo,1749.031727863062,9
+Amanda Lemos,Women's Strawweight,1756.3185411232137,8,loss,2,below,Alexia Thainara,1745.01144055555,10
+Amanda Lemos,Women's Strawweight,1756.3185411232137,8,loss,3,above,Gillian Robertson,1757.0690067468486,7
+Iasmin Lucindo,Women's Strawweight,1749.031727863062,9,win,1,above,Amanda Lemos,1756.3185411232137,8
+Iasmin Lucindo,Women's Strawweight,1749.031727863062,9,win,2,above,Gillian Robertson,1757.0690067468486,7
+Iasmin Lucindo,Women's Strawweight,1749.031727863062,9,win,3,below,Alexia Thainara,1745.01144055555,10
+Alexia Thainara,Women's Strawweight,1745.01144055555,10,win,1,above,Iasmin Lucindo,1749.031727863062,9
+Alexia Thainara,Women's Strawweight,1745.01144055555,10,win,2,above,Amanda Lemos,1756.3185411232137,8
+Alexia Thainara,Women's Strawweight,1745.01144055555,10,win,3,below,Tabatha Ricci,1724.4122111535055,11
+Tabatha Ricci,Women's Strawweight,1724.4122111535055,11,loss,1,below,Mizuki,1709.047790232193,12
+Tabatha Ricci,Women's Strawweight,1724.4122111535055,11,loss,2,below,Loopy Godinez,1689.464054904586,13
+Tabatha Ricci,Women's Strawweight,1724.4122111535055,11,loss,3,above,Alexia Thainara,1745.01144055555,10
+Mizuki,Women's Strawweight,1709.047790232193,12,win,1,above,Tabatha Ricci,1724.4122111535055,11
+Mizuki,Women's Strawweight,1709.047790232193,12,win,2,above,Alexia Thainara,1745.01144055555,10
+Mizuki,Women's Strawweight,1709.047790232193,12,win,3,below,Loopy Godinez,1689.464054904586,13
+Loopy Godinez,Women's Strawweight,1689.464054904586,13,loss,1,below,Talita Alencar,1687.0503884698117,14
+Loopy Godinez,Women's Strawweight,1689.464054904586,13,loss,2,below,Piera Rodriguez,1683.993581164962,15
+Loopy Godinez,Women's Strawweight,1689.464054904586,13,loss,3,above,Mizuki,1709.047790232193,12
+Talita Alencar,Women's Strawweight,1687.0503884698117,14,win,1,above,Loopy Godinez,1689.464054904586,13
+Talita Alencar,Women's Strawweight,1687.0503884698117,14,win,2,above,Mizuki,1709.047790232193,12
+Talita Alencar,Women's Strawweight,1687.0503884698117,14,win,3,below,Piera Rodriguez,1683.993581164962,15
+Piera Rodriguez,Women's Strawweight,1683.993581164962,15,win,1,above,Talita Alencar,1687.0503884698117,14
+Piera Rodriguez,Women's Strawweight,1683.993581164962,15,win,2,above,Loopy Godinez,1689.464054904586,13
+Piera Rodriguez,Women's Strawweight,1683.993581164962,15,win,3,below,Fatima Kline,1674.729039006662,16
+Fatima Kline,Women's Strawweight,1674.729039006662,16,win,1,above,Piera Rodriguez,1683.993581164962,15
+Fatima Kline,Women's Strawweight,1674.729039006662,16,win,2,above,Talita Alencar,1687.0503884698117,14
+Fatima Kline,Women's Strawweight,1674.729039006662,16,win,3,below,Jaqueline Amorim,1646.3177646257564,17
+Jaqueline Amorim,Women's Strawweight,1646.3177646257564,17,loss,1,below,Amanda Ribas,1614.1793088439372,18
+Jaqueline Amorim,Women's Strawweight,1646.3177646257564,17,loss,2,below,Sam Hughes,1591.5278223200764,19
+Jaqueline Amorim,Women's Strawweight,1646.3177646257564,17,loss,3,above,Fatima Kline,1674.729039006662,16
+Amanda Ribas,Women's Strawweight,1614.1793088439372,18,loss,1,below,Sam Hughes,1591.5278223200764,19
+Amanda Ribas,Women's Strawweight,1614.1793088439372,18,loss,2,below,Shanelle Dyer,1569.577153174453,20
+Amanda Ribas,Women's Strawweight,1614.1793088439372,18,loss,3,above,Jaqueline Amorim,1646.3177646257564,17
+Sam Hughes,Women's Strawweight,1591.5278223200764,19,loss,1,below,Shanelle Dyer,1569.577153174453,20
+Sam Hughes,Women's Strawweight,1591.5278223200764,19,loss,2,below,Julia Polastri,1566.0508506487588,21
+Sam Hughes,Women's Strawweight,1591.5278223200764,19,loss,3,above,Amanda Ribas,1614.1793088439372,18
+Shanelle Dyer,Women's Strawweight,1569.577153174453,20,win,1,above,Sam Hughes,1591.5278223200764,19
+Shanelle Dyer,Women's Strawweight,1569.577153174453,20,win,2,above,Amanda Ribas,1614.1793088439372,18
+Shanelle Dyer,Women's Strawweight,1569.577153174453,20,win,3,below,Julia Polastri,1566.0508506487588,21
+Julia Polastri,Women's Strawweight,1566.0508506487588,21,win,1,above,Shanelle Dyer,1569.577153174453,20
+Julia Polastri,Women's Strawweight,1566.0508506487588,21,win,2,above,Sam Hughes,1591.5278223200764,19
+Julia Polastri,Women's Strawweight,1566.0508506487588,21,win,3,below,Angela Hill,1560.4512827621104,22
+Angela Hill,Women's Strawweight,1560.4512827621104,22,loss,1,below,Stephanie Luciano,1541.976119485107,23
+Angela Hill,Women's Strawweight,1560.4512827621104,22,loss,2,below,Loma Lookboonmee,1526.972250576153,24
+Angela Hill,Women's Strawweight,1560.4512827621104,22,loss,3,above,Julia Polastri,1566.0508506487588,21
+Stephanie Luciano,Women's Strawweight,1541.976119485107,23,win,1,above,Angela Hill,1560.4512827621104,22
+Stephanie Luciano,Women's Strawweight,1541.976119485107,23,win,2,above,Julia Polastri,1566.0508506487588,21
+Stephanie Luciano,Women's Strawweight,1541.976119485107,23,win,3,below,Loma Lookboonmee,1526.972250576153,24
+Loma Lookboonmee,Women's Strawweight,1526.972250576153,24,loss,1,below,Ketlen Souza,1486.6082343825751,25
+Loma Lookboonmee,Women's Strawweight,1526.972250576153,24,loss,2,below,Karolina Kowalkiewicz,1446.6785586979404,26
+Loma Lookboonmee,Women's Strawweight,1526.972250576153,24,loss,3,above,Stephanie Luciano,1541.976119485107,23
+Ketlen Souza,Women's Strawweight,1486.6082343825751,25,win,1,above,Loma Lookboonmee,1526.972250576153,24
+Ketlen Souza,Women's Strawweight,1486.6082343825751,25,win,2,above,Stephanie Luciano,1541.976119485107,23
+Ketlen Souza,Women's Strawweight,1486.6082343825751,25,win,3,below,Karolina Kowalkiewicz,1446.6785586979404,26
+Karolina Kowalkiewicz,Women's Strawweight,1446.6785586979404,26,loss,1,below,Shauna Bannon,1440.6952547577607,27
+Karolina Kowalkiewicz,Women's Strawweight,1446.6785586979404,26,loss,2,below,Ariane Carnelossi,1434.458817705969,28
+Karolina Kowalkiewicz,Women's Strawweight,1446.6785586979404,26,loss,3,above,Ketlen Souza,1486.6082343825751,25
+Shauna Bannon,Women's Strawweight,1440.6952547577607,27,loss,1,below,Ariane Carnelossi,1434.458817705969,28
+Shauna Bannon,Women's Strawweight,1440.6952547577607,27,loss,2,below,Yazmin Jauregui,1416.1733612098717,29
+Shauna Bannon,Women's Strawweight,1440.6952547577607,27,loss,3,above,Karolina Kowalkiewicz,1446.6785586979404,26
+Ariane Carnelossi,Women's Strawweight,1434.458817705969,28,loss,1,below,Yazmin Jauregui,1416.1733612098717,29
+Ariane Carnelossi,Women's Strawweight,1434.458817705969,28,loss,2,below,Luana Pinheiro,1379.7802299189932,30
+Ariane Carnelossi,Women's Strawweight,1434.458817705969,28,loss,3,above,Shauna Bannon,1440.6952547577607,27
+Yazmin Jauregui,Women's Strawweight,1416.1733612098717,29,loss,1,below,Luana Pinheiro,1379.7802299189932,30
+Yazmin Jauregui,Women's Strawweight,1416.1733612098717,29,loss,2,below,Shi Ming,1375.7117900644012,31
+Yazmin Jauregui,Women's Strawweight,1416.1733612098717,29,loss,3,above,Ariane Carnelossi,1434.458817705969,28
+Luana Pinheiro,Women's Strawweight,1379.7802299189932,30,loss,1,below,Shi Ming,1375.7117900644012,31
+Luana Pinheiro,Women's Strawweight,1379.7802299189932,30,loss,2,below,Elise Reed,1351.7712381474064,32
+Luana Pinheiro,Women's Strawweight,1379.7802299189932,30,loss,3,above,Yazmin Jauregui,1416.1733612098717,29
+Shi Ming,Women's Strawweight,1375.7117900644012,31,loss,1,below,Elise Reed,1351.7712381474064,32
+Shi Ming,Women's Strawweight,1375.7117900644012,31,loss,2,below,Puja Tomar,1342.865019515488,33
+Shi Ming,Women's Strawweight,1375.7117900644012,31,loss,3,above,Luana Pinheiro,1379.7802299189932,30
+Elise Reed,Women's Strawweight,1351.7712381474064,32,loss,1,below,Puja Tomar,1342.865019515488,33
+Elise Reed,Women's Strawweight,1351.7712381474064,32,loss,2,below,Alice Ardelean,1287.028549577415,34
+Elise Reed,Women's Strawweight,1351.7712381474064,32,loss,3,above,Shi Ming,1375.7117900644012,31
+Puja Tomar,Women's Strawweight,1342.865019515488,33,loss,1,below,Alice Ardelean,1287.028549577415,34
+Puja Tomar,Women's Strawweight,1342.865019515488,33,loss,2,below,Polyana Viana,1280.8463463673525,35
+Puja Tomar,Women's Strawweight,1342.865019515488,33,loss,3,above,Elise Reed,1351.7712381474064,32
+Alice Ardelean,Women's Strawweight,1287.028549577415,34,win,1,above,Puja Tomar,1342.865019515488,33
+Alice Ardelean,Women's Strawweight,1287.028549577415,34,win,2,above,Elise Reed,1351.7712381474064,32
+Alice Ardelean,Women's Strawweight,1287.028549577415,34,win,3,below,Polyana Viana,1280.8463463673525,35
+Polyana Viana,Women's Strawweight,1280.8463463673525,35,loss,1,below,Marnic Mann,1079.802226712995,36
+Polyana Viana,Women's Strawweight,1280.8463463673525,35,loss,2,below,Ravena Oliveira,1031.9877001672678,37
+Polyana Viana,Women's Strawweight,1280.8463463673525,35,loss,3,above,Alice Ardelean,1287.028549577415,34
+Marnic Mann,Women's Strawweight,1079.802226712995,36,loss,1,below,Ravena Oliveira,1031.9877001672678,37
+Marnic Mann,Women's Strawweight,1079.802226712995,36,loss,2,below,Montserrat Conejo Ruiz,1009.5147934085578,38
+Marnic Mann,Women's Strawweight,1079.802226712995,36,loss,3,above,Polyana Viana,1280.8463463673525,35
+Ravena Oliveira,Women's Strawweight,1031.9877001672678,37,loss,1,below,Montserrat Conejo Ruiz,1009.5147934085578,38
+Ravena Oliveira,Women's Strawweight,1031.9877001672678,37,loss,2,below,Rayanne dos Santos,857.2849577968365,39
+Ravena Oliveira,Women's Strawweight,1031.9877001672678,37,loss,3,above,Marnic Mann,1079.802226712995,36
+Montserrat Conejo Ruiz,Women's Strawweight,1009.5147934085578,38,loss,1,below,Rayanne dos Santos,857.2849577968365,39
+Montserrat Conejo Ruiz,Women's Strawweight,1009.5147934085578,38,loss,2,above,Ravena Oliveira,1031.9877001672678,37
+Rayanne dos Santos,Women's Strawweight,857.2849577968365,39,loss,1,above,Montserrat Conejo Ruiz,1009.5147934085578,38
