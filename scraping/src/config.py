@@ -10,6 +10,7 @@ OUTPUT_DIR = SCRAPING_DIR / "output"
 SOURCE_NAME = "ufcstats"
 BASE_URL = "http://ufcstats.com"
 EVENTS_INDEX_URL = f"{BASE_URL}/statistics/events/completed?page=all"
+ACTIVE_FIGHTERS_URL = "https://www.roster.watch/"
 
 
 USER_AGENT = (
@@ -27,6 +28,7 @@ INCLUDE_INCOMPLETE_FIGHTS = False
 
 EVENTS_CSV_PATH = OUTPUT_DIR / "ufc_events.csv"
 FIGHTS_CSV_PATH = OUTPUT_DIR / "ufc_fights.csv"
+ACTIVE_FIGHTERS_CSV_PATH = OUTPUT_DIR / "ufc_active_fighters.csv"
 
 
 EVENT_COLUMNS = [
@@ -56,4 +58,8 @@ FIGHT_COLUMNS = [
     "round",
     "time",
     "scraped_at",
+]
+
+ACTIVE_FIGHTER_COLUMNS = [
+    "fighter_name",
 ]

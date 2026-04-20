@@ -1,4 +1,5 @@
 import config
+from scrapers.ufc_active_fighters import scrape_active_fighters
 from scrapers.ufc_events import scrape_events
 from scrapers.ufc_fights import scrape_fights_for_events
 from utils.http import build_session
@@ -10,6 +11,17 @@ def main():
     session = build_session()
 
     try:
+        active_fighters = scrape_active_fighters(session=session)
+        write_rows_to_csv(
+            config.ACTIVE_FIGHTERS_CSV_PATH,
+            active_fighters,
+            config.ACTIVE_FIGHTER_COLUMNS,
+        )
+        print(
+            f"Saved {len(active_fighters)} active fighters to "
+            f"{config.ACTIVE_FIGHTERS_CSV_PATH}"
+        )
+
         events = scrape_events(session=session)
 
         if not events:
