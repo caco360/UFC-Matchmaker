@@ -4,11 +4,14 @@ import re
 from pathlib import Path
 
 import psycopg
-from dotenv import load_dotenv
+try:
+    from .env_utils import load_project_env
+except ImportError:
+    from env_utils import load_project_env
 
 
 BASE_DIR = Path(__file__).resolve().parents[2]
-load_dotenv(BASE_DIR / ".env")
+load_project_env(Path(__file__).resolve())
 CSV_PATH = BASE_DIR / "matchmaking" / "out" / "potential_matchups.csv"
 REQUIRED_COLUMNS = {
     "fighter_name",

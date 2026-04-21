@@ -3,11 +3,13 @@ from pathlib import Path
 
 import psycopg
 from psycopg.rows import dict_row
-from dotenv import load_dotenv
+try:
+    from .env_utils import load_project_env
+except ImportError:
+    from env_utils import load_project_env
 
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-load_dotenv(BASE_DIR / ".env")
+load_project_env(Path(__file__).resolve())
 
 
 def get_database_url() -> str:
