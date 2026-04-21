@@ -1,24 +1,15 @@
-from contextlib import asynccontextmanager
-
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
 try:
-    from .db import get_fighter, get_matchups, refresh_database, search_fighters
+    from .db import get_fighter, get_matchups, search_fighters
 except ImportError:
-    from db import get_fighter, get_matchups, refresh_database, search_fighters
-
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    refresh_database()
-    yield
+    from db import get_fighter, get_matchups, search_fighters
 
 
 app = FastAPI(
     title="UFC Matchmaking API",
     version="0.1.0",
-    lifespan=lifespan,
 )
 
 app.add_middleware(
