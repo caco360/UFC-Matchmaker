@@ -129,8 +129,9 @@ for idx, row in ufc_fights.iterrows():
 
     load_fighters(fighter1, weight)
     load_fighters(fighter2, weight)
-    fighters[fighter1]["weight_class"] = weight
-    fighters[fighter2]["weight_class"] = weight
+    if weight != "Catch Weight":
+        fighters[fighter1]["weight_class"] = weight
+        fighters[fighter2]["weight_class"] = weight
 
     result_name = row["result"]
     method = row["method"]
@@ -153,8 +154,12 @@ for idx, row in ufc_fights.iterrows():
         method,
         round_,
     )
-    f1["weight_class"] = weight
-    f2["weight_class"] = weight
+    if weight != "Catch Weight":
+        f1["weight_class"] = weight
+        f2["weight_class"] = weight
+    else:
+        f1["weight_class"] = fighters[fighter1]["weight_class"]
+        f2["weight_class"] = fighters[fighter2]["weight_class"]
     fighters[fighter1] = f1
     fighters[fighter2] = f2
 
