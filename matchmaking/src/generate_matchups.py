@@ -1,13 +1,10 @@
-from pathlib import Path
+from contextlib import closing
 
 import pandas as pd
 
+import pipeline_db
 
-BASE_DIR = Path(__file__).resolve().parents[2]
-FIGHTERS_SCORE_PATH = BASE_DIR / "scoring" / "out" / "fighters_score.csv"
-FIGHTS_UPDATED_PATH = BASE_DIR / "scoring" / "out" / "ufc_fights_updated.csv"
-ACTIVE_FIGHTERS_PATH = BASE_DIR / "scraping" / "output" / "ufc_active_fighters.csv"
-OUTPUT_PATH = BASE_DIR / "matchmaking" / "out" / "potential_matchups.csv"
+
 OUTPUT_COLUMNS = [
     "fighter_name",
     "weight_class",
@@ -27,8 +24,15 @@ def normalize_name(value):
 
 
 def normalize_result(value):
+    # Same rules as scoring's result normalization, applied to raw scraped values.
     result = str(value).strip().lower()
-    return result if result in {"win", "draw", "nc"} else "unknown"
+    if "draw" in result:
+        return "draw"
+    if "nc" in result or "no contest" in result:
+        return "nc"
+    if "win" in result:
+        return "win"
+    return "unknown"
 
 
 def fighter_2_result(result):
@@ -47,10 +51,8 @@ def result_bucket(result):
     return "loss"
 
 
-def load_active_fighters(path):
-    active_fighters = pd.read_csv(path)
-    if "fighter_name" not in active_fighters.columns:
-        raise ValueError(f"{Path(path).name} must contain a fighter_name column")
+def load_active_fighters(conn):
+    active_fighters = pd.read_sql("SELECT fighter_name FROM active_fighters", conn)
 
     active_fighters["fighter_name"] = active_fighters["fighter_name"].apply(normalize_name)
     active_fighters = active_fighters[active_fighters["fighter_name"] != ""]
@@ -59,16 +61,27 @@ def load_active_fighters(path):
     return active_fighters.drop_duplicates("fighter_name").reset_index(drop=True)
 
 
-def load_fighters_score(path):
-    fighters_score = pd.read_csv(path)
+def load_fighters_score(conn):
+    fighters_score = pd.read_sql(
+        "SELECT fighter_name, rating, RD, sigma, weight_class FROM fighter_ratings",
+        conn,
+    )
     fighters_score["fighter_name"] = fighters_score["fighter_name"].apply(normalize_name)
     fighters_score["weight_class"] = fighters_score["weight_class"].astype(str).str.strip()
 
     return fighters_score.drop_duplicates("fighter_name").reset_index(drop=True)
 
 
-def load_fights_updated(path):
-    fights = pd.read_csv(path)
+def load_fights(conn):
+    fights = pd.read_sql(
+        """
+        SELECT f.fighter_1, f.fighter_2, f.result, e.event_date
+        FROM fights f
+        JOIN events e ON e.event_id = f.event_id
+        ORDER BY e.event_date ASC, e.event_id ASC, f.fight_order DESC
+        """,
+        conn,
+    )
     fights["fighter_1"] = fights["fighter_1"].apply(normalize_name)
     fights["fighter_2"] = fights["fighter_2"].apply(normalize_name)
     fights["result"] = fights["result"].apply(normalize_result)
@@ -150,15 +163,10 @@ def build_matchup_rows(active_fighters, latest_result_buckets):
     return pd.DataFrame(matchup_rows, columns=OUTPUT_COLUMNS)
 
 
-def generate_matchups(
-    fighters_score_path=FIGHTERS_SCORE_PATH,
-    fights_updated_path=FIGHTS_UPDATED_PATH,
-    active_fighters_path=ACTIVE_FIGHTERS_PATH,
-    output_path=OUTPUT_PATH,
-):
-    active_fighters = load_active_fighters(active_fighters_path)
-    fighters_score = load_fighters_score(fighters_score_path)
-    fights_updated = load_fights_updated(fights_updated_path)
+def generate_matchups(conn):
+    active_fighters = load_active_fighters(conn)
+    fighters_score = load_fighters_score(conn)
+    fights = load_fights(conn)
 
     active_names = set(active_fighters["fighter_name"])
     matched_fighters = fighters_score[fighters_score["fighter_name"].isin(active_names)].copy()
@@ -169,22 +177,25 @@ def generate_matchups(
 
     unmatched_active = sorted(active_names - set(matched_fighters["fighter_name"]))
     if unmatched_active:
-        print("Active fighters missing from fighters_score.csv:")
+        print("Active fighters missing from fighter_ratings:")
         for fighter_name in unmatched_active:
             print(f"- {fighter_name}")
 
-    latest_result_buckets = derive_latest_result_buckets(fights_updated)
+    latest_result_buckets = derive_latest_result_buckets(fights)
     potential_matchups = build_matchup_rows(matched_fighters, latest_result_buckets)
 
-    output_path = Path(output_path)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    potential_matchups.to_csv(output_path, index=False)
+    conn.execute("DELETE FROM potential_matchups")
+    potential_matchups.to_sql("potential_matchups", conn, if_exists="append", index=False)
+    conn.commit()
 
-    print(f"Wrote {len(potential_matchups)} matchup rows to {output_path}")
-    print(f"Active fighters with scores: {matched_fighters['fighter_name'].nunique()}")
+    print(
+        f"matchmake: {len(potential_matchups)} matchup rows, "
+        f"{matched_fighters['fighter_name'].nunique()} active fighters with scores"
+    )
 
     return potential_matchups
 
 
 if __name__ == "__main__":
-    generate_matchups()
+    with closing(pipeline_db.connect()) as connection:
+        generate_matchups(connection)

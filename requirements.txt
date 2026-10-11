@@ -5,3 +5,5 @@ uvicorn
 pandas
 psycopg[binary]
 python-dotenv
+pytest
+playwright

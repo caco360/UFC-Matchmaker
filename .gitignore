@@ -1,9 +1,9 @@
 __pycache__/
 *.py[cod]
 AGENTS.md
-PROJECT_CONTEXT.md
 .env
 backend/ufc.sqlite
 app/.next/
 app/node_modules/
 app/.env.local
+data/

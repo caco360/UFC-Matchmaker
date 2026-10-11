@@ -3,8 +3,8 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-import config
-from utils.http import fetch_page
+from scraping.src import config
+from scraping.src.utils.http import fetch_page
 
 
 def normalize_text(value):
@@ -44,7 +44,9 @@ def extract_fights_from_event(html, event):
         if len(cells) < 10:
             continue
 
-        fight_url = urljoin(config.BASE_URL, row.get("data-link", "").strip())
+        data_link = row.get("data-link", "").strip()
+        # Empty when the row has no link, so extract_fight_id uses its fallback id.
+        fight_url = urljoin(config.BASE_URL, data_link) if data_link else ""
         fighter_names = unique_non_empty(
             [link.get_text(" ", strip=True) for link in row.select("a.b-link.b-link_style_black")]
         )
@@ -87,8 +89,6 @@ def extract_fights_from_event(html, event):
 
 
 def scrape_fights_for_events(events, session=None):
-    fights = []
-
     for index, event in enumerate(events, start=1):
         print(f"Scraping fights for {event['event_name']} ({index}/{len(events)})")
         html = fetch_page(
@@ -98,8 +98,7 @@ def scrape_fights_for_events(events, session=None):
         )
 
         if not html:
+            yield event, None  # fetch failed; the event is retried next run
             continue
 
-        fights.extend(extract_fights_from_event(html, event))
-
-    return fights
+        yield event, extract_fights_from_event(html, event)

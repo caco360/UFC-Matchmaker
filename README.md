@@ -58,10 +58,20 @@ NEXT_PUBLIC_API_BASE_URL=https://your-backend-domain.vercel.app
 3. Set `NEXT_PUBLIC_API_BASE_URL` in the frontend Vercel project
 4. Deploy the frontend Vercel project
 
-## Pipeline note
+## Pipeline
 
-The weekly pipeline is intentionally separate from the first deployment pass. Continue running the loader manually or from a future automation job:
+The pipeline runs locally on SQLite (`data/ufc.sqlite`, gitignored):
 
 ```powershell
-python matchmaking/src/load_matchups_to_postgres.py
+py pipeline.py            # scrape (incremental) -> score -> matchmake
+py pipeline.py --publish  # same, then load matchups into Postgres/Neon
 ```
+
+Scraping loads ufcstats pages through headless Chromium (Playwright), because the site now runs a JavaScript browser check. One-time setup:
+
+```powershell
+py -m pip install -r requirements.txt
+py -m playwright install chromium
+```
+
+Single stages can be run from the repo root, e.g. `py -m scoring.src.score_generator`. Tests: `py -m pytest`.

@@ -1,19 +1,16 @@
-import csv
 import os
 import re
+from contextlib import closing
 from pathlib import Path
 
 import psycopg
-try:
-    from .env_utils import load_project_env
-except ImportError:
-    from env_utils import load_project_env
+
+import pipeline_db
+from matchmaking.src.env_utils import load_project_env
 
 
-BASE_DIR = Path(__file__).resolve().parents[2]
 load_project_env(Path(__file__).resolve())
-CSV_PATH = BASE_DIR / "matchmaking" / "out" / "potential_matchups.csv"
-REQUIRED_COLUMNS = {
+MATCHUP_COLUMNS = [
     "fighter_name",
     "weight_class",
     "fighter_rating",
@@ -24,7 +21,7 @@ REQUIRED_COLUMNS = {
     "opponent_name",
     "opponent_rating",
     "opponent_rank_in_class",
-}
+]
 
 
 def get_database_url() -> str:
@@ -60,24 +57,16 @@ def build_fighter_slug(name: str, weight_class: str, existing: set[str]) -> str:
         counter += 1
 
 
-def read_csv_rows(csv_path: Path) -> list[dict[str, str]]:
-    if not csv_path.exists():
-        raise RuntimeError(f"Matchmaking CSV not found at {csv_path}")
-
-    with csv_path.open("r", encoding="utf-8-sig", newline="") as csv_file:
-        reader = csv.DictReader(csv_file)
-        fieldnames = set(reader.fieldnames or [])
-        missing = REQUIRED_COLUMNS - fieldnames
-        if missing:
-            missing_cols = ", ".join(sorted(missing))
-            raise RuntimeError(
-                f"Matchmaking CSV is missing required columns: {missing_cols}"
-            )
-
-        rows = list(reader)
+def read_matchup_rows(conn) -> list[dict]:
+    # rowid order = the order matchmaking generated the rows. Slug assignment
+    # depends on it (the first fighter seen gets the bare slug).
+    cursor = conn.execute(
+        f"SELECT {', '.join(MATCHUP_COLUMNS)} FROM potential_matchups ORDER BY rowid"
+    )
+    rows = [dict(zip(MATCHUP_COLUMNS, row)) for row in cursor.fetchall()]
 
     if not rows:
-        raise RuntimeError("Matchmaking CSV is empty")
+        raise RuntimeError("potential_matchups table is empty. Run matchmaking first.")
 
     return rows
 
@@ -166,8 +155,8 @@ def ensure_schema(cursor: psycopg.Cursor) -> None:
     )
 
 
-def load_matchups_to_postgres(csv_path: Path = CSV_PATH) -> int:
-    rows = read_csv_rows(csv_path)
+def load_matchups_to_postgres(conn) -> int:
+    rows = read_matchup_rows(conn)
     insert_rows = build_insert_rows(rows)
 
     with psycopg.connect(get_database_url()) as connection:
@@ -198,8 +187,9 @@ def load_matchups_to_postgres(csv_path: Path = CSV_PATH) -> int:
 
 
 def main() -> None:
-    inserted_count = load_matchups_to_postgres()
-    print(f"Loaded {inserted_count} matchup rows into Postgres from {CSV_PATH}")
+    with closing(pipeline_db.connect()) as connection:
+        inserted_count = load_matchups_to_postgres(connection)
+    print(f"Loaded {inserted_count} matchup rows into Postgres from SQLite")
 
 
 if __name__ == "__main__":
