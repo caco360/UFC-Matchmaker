@@ -44,7 +44,9 @@ def extract_fights_from_event(html, event):
         if len(cells) < 10:
             continue
 
-        fight_url = urljoin(config.BASE_URL, row.get("data-link", "").strip())
+        data_link = row.get("data-link", "").strip()
+        # Empty when the row has no link, so extract_fight_id uses its fallback id.
+        fight_url = urljoin(config.BASE_URL, data_link) if data_link else ""
         fighter_names = unique_non_empty(
             [link.get_text(" ", strip=True) for link in row.select("a.b-link.b-link_style_black")]
         )
@@ -96,6 +98,7 @@ def scrape_fights_for_events(events, session=None):
         )
 
         if not html:
+            yield event, None  # fetch failed; the event is retried next run
             continue
 
         yield event, extract_fights_from_event(html, event)

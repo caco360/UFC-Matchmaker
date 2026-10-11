@@ -14,7 +14,8 @@ def fake_fights_for_events(calls, skip=()):
         for event in events:
             calls.append(event["event_id"])
             if event["event_id"] in skip:
-                continue  # simulates a failed page fetch
+                yield event, None  # simulates a failed page fetch
+                continue
             yield event, [make_fight(f"{event['event_id']}-f1", event["event_id"])]
 
     return fake
@@ -45,6 +46,7 @@ def test_first_run_scrapes_every_event(conn, monkeypatch):
     assert summary == {
         "events_listed": 2,
         "events_scraped": 2,
+        "events_failed": 0,
         "fights": 2,
         "active_fighters": 1,
     }
@@ -65,8 +67,9 @@ def test_second_run_only_rescrapes_recent_events(conn, monkeypatch):
 def test_event_whose_fetch_failed_is_retried_next_run(conn, monkeypatch):
     calls = []
     patch_scrapers(monkeypatch, calls, skip={"e_old"})
-    scrape_main.scrape(conn, today=TODAY)
+    summary = scrape_main.scrape(conn, today=TODAY)
     assert fight_count(conn) == 1
+    assert summary["events_failed"] == 1
 
     calls.clear()
     patch_scrapers(monkeypatch, calls)

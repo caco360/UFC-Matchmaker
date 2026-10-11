@@ -101,3 +101,17 @@ def test_replace_active_fighters_keeps_old_list_when_scrape_is_empty(conn):
 
     assert saved == 0
     assert active_names(conn) == ["A"]
+
+
+def test_fight_rows_without_link_get_unique_fallback_ids():
+    from scraping.src.scrapers.ufc_fights import extract_fights_from_event
+
+    cells = "".join(f"<td>{value}</td>" for value in ["win", "", "", "", "", "", "Lightweight", "KO/TKO", "1", "1:00"])
+    rows = "".join(
+        f'<tr class="b-fight-details__table-row">{cells}</tr>' for _ in range(2)
+    )
+    event = make_event("e1", "2026-01-01")
+
+    fights = extract_fights_from_event(f"<table>{rows}</table>", event)
+
+    assert [fight["fight_id"] for fight in fights] == ["e1-1", "e1-2"]
