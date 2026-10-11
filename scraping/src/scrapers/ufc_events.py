@@ -82,8 +82,6 @@ def extract_events(html):
         )
         seen_event_urls.add(event_url)
 
-        if config.MAX_EVENTS_PER_RUN and len(events) >= config.MAX_EVENTS_PER_RUN:
-            break
 
     return events
 

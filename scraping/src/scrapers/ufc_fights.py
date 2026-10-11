@@ -87,8 +87,6 @@ def extract_fights_from_event(html, event):
 
 
 def scrape_fights_for_events(events, session=None):
-    fights = []
-
     for index, event in enumerate(events, start=1):
         print(f"Scraping fights for {event['event_name']} ({index}/{len(events)})")
         html = fetch_page(
@@ -100,6 +98,4 @@ def scrape_fights_for_events(events, session=None):
         if not html:
             continue
 
-        fights.extend(extract_fights_from_event(html, event))
-
-    return fights
+        yield event, extract_fights_from_event(html, event)

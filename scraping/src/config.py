@@ -4,7 +4,6 @@ from pathlib import Path
 SRC_DIR = Path(__file__).resolve().parent
 SCRAPING_DIR = SRC_DIR.parent
 RAW_DIR = SCRAPING_DIR / "output" / "raw"
-OUTPUT_DIR = SCRAPING_DIR / "output"
 
 
 SOURCE_NAME = "ufcstats"
@@ -20,46 +19,7 @@ USER_AGENT = (
 )
 REQUEST_TIMEOUT_SECONDS = 20
 DELAY_BETWEEN_REQUESTS_SECONDS = 0.25
-MAX_EVENTS_PER_RUN = 769
 SAVE_RAW_HTML = False
 INCLUDE_UPCOMING_EVENTS = False
 INCLUDE_INCOMPLETE_FIGHTS = False
-
-
-EVENTS_CSV_PATH = OUTPUT_DIR / "ufc_events.csv"
-FIGHTS_CSV_PATH = OUTPUT_DIR / "ufc_fights.csv"
-ACTIVE_FIGHTERS_CSV_PATH = OUTPUT_DIR / "ufc_active_fighters.csv"
-
-
-EVENT_COLUMNS = [
-    "event_id",
-    "event_name",
-    "event_url",
-    "event_date",
-    "event_city",
-    "event_state",
-    "event_country",
-    "scraped_at",
-]
-
-FIGHT_COLUMNS = [
-    "fight_id",
-    "event_id",
-    "event_name",
-    "event_date",
-    "event_url",
-    "fight_url",
-    "fight_order",
-    "fighter_1",
-    "fighter_2",
-    "result",
-    "weight_class",
-    "method",
-    "round",
-    "time",
-    "scraped_at",
-]
-
-ACTIVE_FIGHTER_COLUMNS = [
-    "fighter_name",
-]
+RESCRAPE_WINDOW_DAYS = 14
