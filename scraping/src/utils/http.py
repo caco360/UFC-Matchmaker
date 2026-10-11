@@ -32,8 +32,11 @@ def fetch_page_browser(url, session, raw_prefix=None):
 
     try:
         session.page.goto(url, timeout=timeout_ms)
+        # The check ends with a reload, so wait for a fully loaded page that is
+        # not the check page (a blank page mid-reload must not count).
         session.page.wait_for_function(
-            f"!document.body || !document.body.innerText.includes({CHALLENGE_TEXT!r})",
+            "document.readyState === 'complete' && document.body !== null"
+            f" && !document.body.innerText.includes({CHALLENGE_TEXT!r})",
             timeout=timeout_ms,
         )
         html = session.page.content()

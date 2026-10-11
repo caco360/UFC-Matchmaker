@@ -47,3 +47,19 @@ def test_fetch_page_returns_none_when_check_never_passes(session, tmp_path):
     url = page_url(tmp_path, "stuck.html", STUCK_CHALLENGE)
 
     assert fetch_page(url, session=session) is None
+
+
+def test_fetch_page_waits_for_page_loaded_after_check_navigates(session, tmp_path):
+    # ufcstats' check finishes by reloading; the real page must be fully loaded.
+    rows = "".join(f'<tr><td><a href="/event-details/e{i}">Event {i}</a></td></tr>' for i in range(3000))
+    real_url = page_url(tmp_path, "real.html", f"<html><body><table>{rows}</table></body></html>")
+    challenge = (
+        "<html><body><p>Checking your browser…</p>"
+        f"<script>setTimeout(function () {{ location.replace({real_url!r}); }}, 300);</script>"
+        "</body></html>"
+    )
+    url = page_url(tmp_path, "challenge.html", challenge)
+
+    html = fetch_page(url, session=session)
+
+    assert html.count("event-details") == 3000
