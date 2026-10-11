@@ -2,8 +2,8 @@ import time
 
 import requests
 
-import config
-from utils.io import save_raw_html
+from scraping.src import config
+from scraping.src.utils.io import save_raw_html
 
 
 def build_session():

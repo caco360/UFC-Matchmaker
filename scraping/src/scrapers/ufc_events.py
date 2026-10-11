@@ -3,8 +3,8 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-import config
-from utils.http import fetch_page
+from scraping.src import config
+from scraping.src.utils.http import fetch_page
 
 
 def extract_event_id(event_url):
@@ -73,7 +73,7 @@ def extract_events(html):
                 "event_id": extract_event_id(event_url),
                 "event_name": name,
                 "event_url": event_url,
-                "event_date": event_date,
+                "event_date": parsed_event_date.isoformat() if parsed_event_date else None,
                 "event_city": city,
                 "event_state": state,
                 "event_country": country,

@@ -1,9 +1,9 @@
-import config
-from scrapers.ufc_active_fighters import scrape_active_fighters
-from scrapers.ufc_events import scrape_events
-from scrapers.ufc_fights import scrape_fights_for_events
-from utils.http import build_session
-from utils.io import ensure_directories, write_rows_to_csv
+from scraping.src import config
+from scraping.src.scrapers.ufc_active_fighters import scrape_active_fighters
+from scraping.src.scrapers.ufc_events import scrape_events
+from scraping.src.scrapers.ufc_fights import scrape_fights_for_events
+from scraping.src.utils.http import build_session
+from scraping.src.utils.io import ensure_directories, write_rows_to_csv
 
 
 def main():

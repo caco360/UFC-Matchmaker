@@ -3,8 +3,8 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-import config
-from utils.http import fetch_page
+from scraping.src import config
+from scraping.src.utils.http import fetch_page
 
 
 def normalize_text(value):
