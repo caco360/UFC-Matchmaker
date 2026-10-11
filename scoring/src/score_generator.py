@@ -1,48 +1,57 @@
-from pathlib import Path
+from contextlib import closing
 import math
 
 import pandas as pd
 
-
-BASE_DIR = Path(__file__).resolve().parents[2]
-INPUT_PATH = BASE_DIR / "scraping" / "output" / "ufc_fights.csv"
-OUTPUT_DIR = BASE_DIR / "scoring" / "out"
+import pipeline_db
 
 
-ufc_fights = pd.read_csv(INPUT_PATH)
-ufc_fights = ufc_fights.drop(
-    columns=[
-        "fight_id",
-        "event_id",
-        "event_url",
-        "fight_url",
-        "fight_order",
-        "time",
-        "scraped_at",
-    ]
-)
-ufc_fights = ufc_fights.reset_index()
-ufc_fights = ufc_fights.sort_index(ascending=False)
-
-ufc_fights["result"] = ufc_fights["result"].astype(str).str.lower().apply(
-    lambda x: "draw"
-    if "draw" in x
-    else ("nc" if "nc" in x or "no contest" in x else ("win" if "win" in x else "unknown"))
-)
-
-ufc_fights["method"] = ufc_fights["method"].astype(str).str.upper().apply(
-    lambda x: "ko_tko"
-    if x.startswith("KO/TKO")
-    else ("submission" if x.startswith("SUB") else ("decision" if "DEC" in x else "other"))
-)
-ufc_fights["round"] = pd.to_numeric(ufc_fights["round"], errors="coerce")
-ufc_fights["fighter_1"] = ufc_fights["fighter_1"].astype(str).str.strip()
-ufc_fights["fighter_2"] = ufc_fights["fighter_2"].astype(str).str.strip()
-ufc_fights["weight_class"] = ufc_fights["weight_class"].astype(str).str.strip()
-fighters = {}
+# Oldest event first; within an event the highest fight_order (first fight on
+# the card) first. Same order as the old reversed ufc_fights.csv.
+FIGHTS_QUERY = """
+SELECT
+    f.fight_id,
+    e.event_name,
+    e.event_date,
+    f.fighter_1,
+    f.fighter_2,
+    f.result,
+    f.weight_class,
+    f.method,
+    f.round
+FROM fights f
+JOIN events e ON e.event_id = f.event_id
+ORDER BY e.event_date ASC, e.event_id ASC, f.fight_order DESC
+"""
 
 
-def load_fighters(name, weight):
+def load_fights(conn):
+    ufc_fights = pd.read_sql(FIGHTS_QUERY, conn)
+    if ufc_fights.empty:
+        raise RuntimeError("No fights in the database. Run scraping first.")
+    return ufc_fights
+
+
+def normalize_fights(ufc_fights):
+    ufc_fights["result"] = ufc_fights["result"].astype(str).str.lower().apply(
+        lambda x: "draw"
+        if "draw" in x
+        else ("nc" if "nc" in x or "no contest" in x else ("win" if "win" in x else "unknown"))
+    )
+
+    ufc_fights["method"] = ufc_fights["method"].astype(str).str.upper().apply(
+        lambda x: "ko_tko"
+        if x.startswith("KO/TKO")
+        else ("submission" if x.startswith("SUB") else ("decision" if "DEC" in x else "other"))
+    )
+    ufc_fights["round"] = pd.to_numeric(ufc_fights["round"], errors="coerce")
+    ufc_fights["fighter_1"] = ufc_fights["fighter_1"].astype(str).str.strip()
+    ufc_fights["fighter_2"] = ufc_fights["fighter_2"].astype(str).str.strip()
+    ufc_fights["weight_class"] = ufc_fights["weight_class"].astype(str).str.strip()
+    return ufc_fights
+
+
+def load_fighters(fighters, name, weight):
     if name not in fighters:
         fighters[name] = {
             "rating": 1500.0,
@@ -116,68 +125,98 @@ def update_rating(fighter1, fighter2, result, method, round):
 
 
 score_map = {"win": 1.0, "draw": 0.5}
-ufc_fights["fighter_1_rating_start"] = None
-ufc_fights["fighter_2_rating_start"] = None
-ufc_fights["fighter_1_rating_end"] = None
-ufc_fights["fighter_2_rating_end"] = None
 
-for idx, row in ufc_fights.iterrows():
-    fighter1 = row["fighter_1"]
-    fighter2 = row["fighter_2"]
 
-    weight = row["weight_class"]
+def compute_ratings(ufc_fights):
+    fighters = {}
+    ufc_fights["fighter_1_rating_start"] = None
+    ufc_fights["fighter_2_rating_start"] = None
+    ufc_fights["fighter_1_rating_end"] = None
+    ufc_fights["fighter_2_rating_end"] = None
 
-    load_fighters(fighter1, weight)
-    load_fighters(fighter2, weight)
-    if weight != "Catch Weight":
-        fighters[fighter1]["weight_class"] = weight
-        fighters[fighter2]["weight_class"] = weight
+    for idx, row in ufc_fights.iterrows():
+        fighter1 = row["fighter_1"]
+        fighter2 = row["fighter_2"]
 
-    result_name = row["result"]
-    method = row["method"]
-    round_ = row["round"]
+        weight = row["weight_class"]
 
-    ufc_fights.at[idx, "fighter_1_rating_start"] = fighters[fighter1]["rating"]
-    ufc_fights.at[idx, "fighter_2_rating_start"] = fighters[fighter2]["rating"]
+        load_fighters(fighters, fighter1, weight)
+        load_fighters(fighters, fighter2, weight)
+        if weight != "Catch Weight":
+            fighters[fighter1]["weight_class"] = weight
+            fighters[fighter2]["weight_class"] = weight
 
-    if result_name == "nc":
+        result_name = row["result"]
+        method = row["method"]
+        round_ = row["round"]
+
+        ufc_fights.at[idx, "fighter_1_rating_start"] = fighters[fighter1]["rating"]
+        ufc_fights.at[idx, "fighter_2_rating_start"] = fighters[fighter2]["rating"]
+
+        if result_name == "nc":
+            ufc_fights.at[idx, "fighter_1_rating_end"] = fighters[fighter1]["rating"]
+            ufc_fights.at[idx, "fighter_2_rating_end"] = fighters[fighter2]["rating"]
+            continue
+
+        result = score_map.get(result_name, 0.5)
+
+        f1, f2 = update_rating(
+            fighters[fighter1],
+            fighters[fighter2],
+            result,
+            method,
+            round_,
+        )
+        if weight != "Catch Weight":
+            f1["weight_class"] = weight
+            f2["weight_class"] = weight
+        else:
+            f1["weight_class"] = fighters[fighter1]["weight_class"]
+            f2["weight_class"] = fighters[fighter2]["weight_class"]
+        fighters[fighter1] = f1
+        fighters[fighter2] = f2
+
         ufc_fights.at[idx, "fighter_1_rating_end"] = fighters[fighter1]["rating"]
         ufc_fights.at[idx, "fighter_2_rating_end"] = fighters[fighter2]["rating"]
-        continue
 
-    result = score_map.get(result_name, 0.5)
-
-    f1, f2 = update_rating(
-        fighters[fighter1],
-        fighters[fighter2],
-        result,
-        method,
-        round_,
+    fighters_df = (
+        pd.DataFrame.from_dict(fighters, orient="index")
+        .reset_index()
+        .rename(columns={"index": "fighter_name"})
+        .sort_values("rating", ascending=False)
+        .reset_index(drop=True)
     )
-    if weight != "Catch Weight":
-        f1["weight_class"] = weight
-        f2["weight_class"] = weight
-    else:
-        f1["weight_class"] = fighters[fighter1]["weight_class"]
-        f2["weight_class"] = fighters[fighter2]["weight_class"]
-    fighters[fighter1] = f1
-    fighters[fighter2] = f2
-
-    ufc_fights.at[idx, "fighter_1_rating_end"] = fighters[fighter1]["rating"]
-    ufc_fights.at[idx, "fighter_2_rating_end"] = fighters[fighter2]["rating"]
+    return ufc_fights, fighters_df
 
 
-fighters_df = (
-    pd.DataFrame.from_dict(fighters, orient="index")
-    .reset_index()
-    .rename(columns={"index": "fighter_name"})
-    .sort_values("rating", ascending=False)
-    .reset_index(drop=True)
-)
+def save_ratings(conn, ufc_fights, fighters_df):
+    conn.execute("DELETE FROM fight_ratings")
+    conn.execute("DELETE FROM fighter_ratings")
+    fighters_df[["fighter_name", "rating", "RD", "sigma", "weight_class"]].to_sql(
+        "fighter_ratings", conn, if_exists="append", index=False
+    )
+    ufc_fights[
+        [
+            "fight_id",
+            "fighter_1_rating_start",
+            "fighter_2_rating_start",
+            "fighter_1_rating_end",
+            "fighter_2_rating_end",
+        ]
+    ].to_sql("fight_ratings", conn, if_exists="append", index=False)
+    conn.commit()
 
-ufc_fights_updated = ufc_fights
-fighters_score = fighters_df
 
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-ufc_fights_updated.to_csv(OUTPUT_DIR / "ufc_fights_updated.csv", index=False)
-fighters_score.to_csv(OUTPUT_DIR / "fighters_score.csv", index=False)
+def score(conn):
+    ufc_fights = normalize_fights(load_fights(conn))
+    ufc_fights, fighters_df = compute_ratings(ufc_fights)
+    save_ratings(conn, ufc_fights, fighters_df)
+
+    summary = {"fights": len(ufc_fights), "fighters": len(fighters_df)}
+    print(f"score: {summary['fights']} fights scored, {summary['fighters']} fighters rated")
+    return summary
+
+
+if __name__ == "__main__":
+    with closing(pipeline_db.connect()) as connection:
+        score(connection)
