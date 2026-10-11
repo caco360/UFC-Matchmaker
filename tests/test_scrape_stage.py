@@ -1,5 +1,7 @@
 from datetime import date
 
+import pytest
+
 from scraping.src import main as scrape_main
 from tests.helpers import make_event, make_fight
 
@@ -72,3 +74,14 @@ def test_event_whose_fetch_failed_is_retried_next_run(conn, monkeypatch):
 
     assert "e_old" in calls
     assert fight_count(conn) == 2
+
+
+def test_no_events_listed_stops_the_run(conn, monkeypatch):
+    calls = []
+    patch_scrapers(monkeypatch, calls)
+    monkeypatch.setattr(scrape_main, "scrape_events", lambda session=None: [])
+
+    with pytest.raises(RuntimeError, match="no events"):
+        scrape_main.scrape(conn, today=TODAY)
+
+    assert calls == []

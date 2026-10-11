@@ -24,6 +24,10 @@ def scrape(conn, today=None):
         conn.commit()
 
         events = scrape_events(session=session)
+        if not events:
+            raise RuntimeError(
+                "ufcstats returned no events (site down or blocked); stopping the run."
+            )
         upsert_events(conn, events)
         conn.commit()
 
